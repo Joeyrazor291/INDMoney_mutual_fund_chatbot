@@ -26,6 +26,10 @@ async def lifespan(app: FastAPI):
 
 app = FastAPI(title="INDMoney MF Assistant API", lifespan=lifespan)
 
+@app.get("/")
+async def root():
+    return {"message": "INDMoney Backend is LIVE"}
+
 # Enable CORS for Next.js frontend
 app.add_middleware(
     CORSMiddleware,
