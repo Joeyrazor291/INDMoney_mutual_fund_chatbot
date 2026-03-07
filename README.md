@@ -58,7 +58,7 @@ Open your browser and navigate to `http://localhost:5173`
 The frontend uses environment variables to configure the API URL:
 
 - **Local Development**: Uses `.env.local` (auto-created, points to `http://localhost:8000`)
-- **Production**: Uses `.env.production` (points to your backend deployment)
+- **Production**: Uses `.env.production` (points to Render backend URL)
 
 To switch environments:
 ```bash
@@ -68,6 +68,21 @@ npm run dev
 # For production build
 npm run build
 ```
+
+## Deployment Architecture
+
+### Frontend (Vercel)
+- Deployed at: https://frontend-theta-ashy-55.vercel.app
+- Auto-deploys from `main` branch
+- Environment variable: `VITE_API_URL` (set to Render backend URL)
+
+### Backend (Render)
+- Python web service
+- Auto-deploys from `main` branch via `render.yaml`
+- Environment variables:
+  - `GROQ_API_KEY`: Your Groq API key
+  - `PYTHON_VERSION`: 3.13.3
+- Health check endpoint: `/health`
 
 ### 5. Verification
 ```bash
@@ -87,7 +102,9 @@ curl http://localhost:8000/health
 - **Backend**: FastAPI, LangChain, ChromaDB, Groq LLM
 - **Frontend**: React, Vite, Lucide Icons
 - **Embeddings**: HuggingFace BGE-small-en-v1.5
-- **Deployment**: Vercel (Frontend)
+- **Deployment**: 
+  - Frontend: Vercel (https://frontend-theta-ashy-55.vercel.app)
+  - Backend: Render (Python web service)
 
 ## Features
 - ✅ Real-time mutual fund data retrieval
