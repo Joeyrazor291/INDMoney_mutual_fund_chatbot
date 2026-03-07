@@ -22,10 +22,10 @@ This project is organized into autonomous phases for ingestion, retrieval, and U
 ### 1. Backend Setup
 ```bash
 # Install dependencies
-pip install -r phase_4/backend/requirements.txt
+pip install -r requirements.txt
 
-# Create .env file at the root
-# Add: GROQ_API_KEY=your_api_key_here
+# Create .env file at the root with your Groq API key
+echo GROQ_API_KEY=your_api_key_here > .env
 ```
 
 ### 2. Initial Data Indexing (One-time)
@@ -35,25 +35,67 @@ py phase_1/chunker.py
 ```
 
 ### 3. Running the Project
-**Backend:**
+
+**Backend (Terminal 1):**
 ```bash
 py phase_4/backend/main.py
+# Backend will run on http://localhost:8000
 ```
 
-**Frontend:**
+**Frontend (Terminal 2):**
 ```bash
 cd phase_4/frontend
 npm install
 npm run dev
+# Frontend will run on http://localhost:5173
 ```
 
-### 3. Verification
+**Access the Application:**
+Open your browser and navigate to `http://localhost:5173`
+
+### 4. Environment Configuration
+
+The frontend uses environment variables to configure the API URL:
+
+- **Local Development**: Uses `.env.local` (auto-created, points to `http://localhost:8000`)
+- **Production**: Uses `.env.production` (points to Railway deployment)
+
+To switch environments:
+```bash
+# For local development (default)
+npm run dev
+
+# For production build
+npm run build
+```
+
+### 5. Verification
 ```bash
 # Run exhaustive integration tests
 py phase_3/test_integration_exhaustive.py
+
+# Test backend API
+curl http://localhost:8000/health
 ```
 
 ## Guardrails & Constraints
 - **PII Blocking**: Automatically blocks PAN, Aadhaar, phone, and email.
 - **No Financial Advice**: Deflects investment recommendations to consult with experts.
 - **Strict Formatting**: Max 3 sentences, 1 citation, and source footer.
+
+## Tech Stack
+- **Backend**: FastAPI, LangChain, ChromaDB, Groq LLM
+- **Frontend**: React, Vite, Lucide Icons
+- **Embeddings**: HuggingFace BGE-small-en-v1.5
+- **Deployment**: Railway (Backend), Vercel (Frontend)
+
+## Features
+- ✅ Real-time mutual fund data retrieval
+- ✅ RAG-based accurate responses with citations
+- ✅ Fund selector for focused queries
+- ✅ Automated daily data refresh (Phase 5)
+- ✅ PII protection and guardrails
+- ✅ Mobile-responsive UI
+
+## License
+MIT License - see LICENSE file for details
