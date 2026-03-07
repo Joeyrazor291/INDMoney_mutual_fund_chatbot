@@ -1,7 +1,7 @@
 [build]
 builder = "nixpacks"
-buildCommand = "playwright install chromium --with-deps && python phase_1/chunker.py"
+buildCommand = "python3 phase_1/chunker.py"
 
 [deploy]
-startCommand = "uvicorn phase_4.backend.main:app --host 0.0.0.0 --port $PORT"
+startCommand = "python3 -m playwright install chromium --with-deps && uvicorn phase_4.backend.main:app --host 0.0.0.0 --port $PORT"
 restartPolicyType = "on_failure"

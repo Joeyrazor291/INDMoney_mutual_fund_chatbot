@@ -12,6 +12,10 @@ PROCESSED_DATA_DIR = BASE_DIR / "data" / "processed"
 VECTORSTORE_DIR = BASE_DIR / "data" / "vectorstore"
 EMBEDDING_MODEL = "BAAI/bge-small-en-v1.5"
 
+print(f"DEBUG: BASE_DIR={BASE_DIR}")
+print(f"DEBUG: PROCESSED_DATA_DIR={PROCESSED_DATA_DIR}")
+print(f"DEBUG: VECTORSTORE_DIR={VECTORSTORE_DIR}")
+
 
 def create_fund_chunks(fund_data, fund_slug_param=None):
     """
@@ -291,15 +295,24 @@ Units Pledgeable: {redemption.get('units_pledgeable', 'N/A')}"""
 def process_and_store(clear_collection=False):
     # 1. Initialize Embeddings
     print(f"Initializing embedding model: {EMBEDDING_MODEL}...")
-    embeddings = HuggingFaceEmbeddings(
-        model_name=EMBEDDING_MODEL,
-        model_kwargs={"device": "cpu"},
-        encode_kwargs={"normalize_embeddings": True}
-    )
+    try:
+        embeddings = HuggingFaceEmbeddings(
+            model_name=EMBEDDING_MODEL,
+            model_kwargs={"device": "cpu"},
+            encode_kwargs={"normalize_embeddings": True}
+        )
+        print("Embeddings initialized successfully.")
+    except Exception as e:
+        print(f"ERROR: Failed to initialize embeddings: {e}")
+        import traceback
+        traceback.print_exc()
+        raise
     
     # 2. Load Processed JSONs
     all_chunks = []
-    for json_file in PROCESSED_DATA_DIR.glob("*.json"):
+    json_files = list(PROCESSED_DATA_DIR.glob("*.json"))
+    print(f"Found {len(json_files)} JSON files in {PROCESSED_DATA_DIR}")
+    for json_file in json_files:
         print(f"Loading {json_file.name}...")
         with open(json_file, "r", encoding="utf-8") as f:
             fund_data = json.load(f)
@@ -307,7 +320,7 @@ def process_and_store(clear_collection=False):
             all_chunks.extend(chunks)
     
     if not all_chunks:
-        print("No chunks generated. Skipping vector storage.")
+        print("WARNING: No chunks generated. Skipping vector storage.")
         return
 
     # 3. Store in ChromaDB
