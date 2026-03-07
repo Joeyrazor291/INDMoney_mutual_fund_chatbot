@@ -1,0 +1,1350 @@
+{
+    "fund_name": "Aditya Birla Sun Life Quant Fund",
+    "nav": "₹10.19",
+    "nav_date": "06 Mar 2026",
+    "nav_text": "Latest NAV for Aditya Birla Sun Life Quant Fund as of 06 Mar 2026 is ₹10.19",
+    "nav_currency": "INR",
+    "one_day_change_pct": -1.1,
+    "inception_return": 1.12,
+    "short_name": "Aditya Birla Sun Life Quant Fund",
+    "amc_name": "Aditya Birla Sun Life Mutual Fund",
+    "fund_category": "Equity",
+    "fund_sub_category": "Equity - Other",
+    "fund_type": "Open-ended",
+    "plan_type": "Direct",
+    "option_type": "Growth",
+    "benchmark_index_name": "Nifty 200 TR INR",
+    "benchmark_index_variant": "TRI",
+    "is_elss": "no",
+    "is_etf_or_fof": "no",
+    "fund_objective": "<p>Aditya Birla Sun Life Quant Fund is an equity fund. This fund was started on 28 June, 2024. The fund is managed by Harish Krishnan. The fund could potentially beat inflation in the long-run.</p>",
+    "expense_ratio": "0.68%",
+    "benchmark": "Nifty 500",
+    "aum": "2,134Cr",
+    "inception_date": "28 June, 2024",
+    "min_lumpsum_sip": "₹500/₹500",
+    "min_lumpsum_amount": "₹500",
+    "min_sip_amount": "₹500",
+    "exit_load": "0.5%",
+    "lock_in": "No Lock-in",
+    "turnover": "125.23%",
+    "return_1m": "-2.11%",
+    "return_1m_benchmark": "-1.14%",
+    "return_1m_category_avg": "--",
+    "return_1m_category_rank": "N/A",
+    "return_3m": "-0.2%",
+    "return_3m_benchmark": "-2.8%",
+    "return_3m_category_avg": "--",
+    "return_3m_category_rank": "N/A",
+    "return_6m": "6.7%",
+    "return_6m_benchmark": "1.48%",
+    "return_6m_category_avg": "--",
+    "return_6m_category_rank": "N/A",
+    "return_1y": "19.46%",
+    "return_1y_benchmark": "13.3%",
+    "return_1y_category_avg": "--",
+    "return_1y_category_rank": "N/A",
+    "return_3y": "--",
+    "return_3y_benchmark": "15.9%",
+    "return_3y_category_avg": "--",
+    "return_3y_category_rank": "N/A",
+    "return_5y": "--",
+    "return_5y_benchmark": "13.06%",
+    "return_5y_category_avg": "--",
+    "return_5y_category_rank": "N/A",
+    "performance_highlight": "The fund has outperformed the benchmark (Nifty 500) over 1Y, but underperformed over 3Y, 5Y.",
+    "alpha_3y": "--",
+    "beta_3y": "--",
+    "sharpe_3y": "--",
+    "sortino_3y": "--",
+    "info_ratio_3y": "--",
+    "total_holdings_count": 42,
+    "holdings_count_breakdown": {
+        "Equity Holdings": {
+            "count": 42,
+            "pct": 99.50372
+        }
+    },
+    "top_holdings": [
+        {
+            "name": "State Bank of India",
+            "sector": "Financial Services",
+            "shares": 941184,
+            "allocation_pct": "4.75%",
+            "change_pct": "-4.9%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Ashok Leyland Ltd",
+            "sector": "Industrials",
+            "shares": 4898736,
+            "allocation_pct": "4.52%",
+            "change_pct": "-10.8%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "sector": "Financial Services",
+            "shares": 1009225,
+            "allocation_pct": "4.39%",
+            "change_pct": "0%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "The Federal Bank Ltd",
+            "sector": "Financial Services",
+            "shares": 3229600,
+            "allocation_pct": "4.35%",
+            "change_pct": "-9.7%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Marico Ltd",
+            "sector": "Consumer Defensive",
+            "shares": 1130787,
+            "allocation_pct": "3.87%",
+            "change_pct": "-2.3%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Hindalco Industries Ltd",
+            "sector": "Basic Materials",
+            "shares": 820951,
+            "allocation_pct": "3.7%",
+            "change_pct": "-3.8%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "UltraTech Cement Ltd",
+            "sector": "Basic Materials",
+            "shares": 61406,
+            "allocation_pct": "3.65%",
+            "change_pct": "0%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "sector": "Communication Services",
+            "shares": 394967,
+            "allocation_pct": "3.64%",
+            "change_pct": "-4.7%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Grasim Industries Ltd",
+            "sector": "Basic Materials",
+            "shares": 270785,
+            "allocation_pct": "3.58%",
+            "change_pct": "0%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "sector": "Consumer Cyclical",
+            "shares": 202699,
+            "allocation_pct": "3.49%",
+            "change_pct": "-2.5%",
+            "asset_class": "Equity"
+        }
+    ],
+    "asset_allocation": [
+        {
+            "name": "Equity",
+            "pct": "99.5%",
+            "pct_value": 99.5,
+            "breakdown_label": "Size breakup",
+            "breakdown": [
+                {
+                    "name": "Large cap",
+                    "pct": "61.3%",
+                    "value": 61.274
+                },
+                {
+                    "name": "Mid cap",
+                    "pct": "38.2%",
+                    "value": 38.229
+                }
+            ]
+        },
+        {
+            "name": "Debt & Cash",
+            "pct": "0.4%",
+            "pct_value": 0.4,
+            "breakdown_label": "Credit rating breakup",
+            "breakdown": []
+        }
+    ],
+    "market_cap_allocation": {
+        "large_cap_pct": "61.3%",
+        "mid_cap_pct": "38.2%"
+    },
+    "sector_allocation": [
+        {
+            "name": "Financial Services",
+            "pct": "35.3%",
+            "pct_value": 35.3,
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Basic Materials",
+            "pct": "13.6%",
+            "pct_value": 13.6,
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Health",
+            "pct": "12.2%",
+            "pct_value": 12.2,
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Industrial",
+            "pct": "9.1%",
+            "pct_value": 9.1,
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Consumer Cyclical",
+            "pct": "8.2%",
+            "pct_value": 8.2,
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Consumer Defensive",
+            "pct": "5.7%",
+            "pct_value": 5.7,
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Communication",
+            "pct": "5.5%",
+            "pct_value": 5.5,
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Energy",
+            "pct": "4.5%",
+            "pct_value": 4.5,
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Tech",
+            "pct": "3.9%",
+            "pct_value": 3.9,
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Real Estate",
+            "pct": "1.9%",
+            "pct_value": 1.9,
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Cash Equivalent",
+            "pct": "100%",
+            "pct_value": 100,
+            "asset_class": "Debt & Cash"
+        }
+    ],
+    "riskometer_category": "Very High Risk",
+    "riskometer_body": "Investors understand that their principal will be at Very High Risk",
+    "risk": "Very High Risk",
+    "indmoney_rank": "N/A",
+    "total_funds_in_category": "N/A",
+    "ranking_info": "N/A",
+    "ranking_scores": {},
+    "ranking_pros": [],
+    "ranking_cons": [],
+    "about": "About Aditya Birla Sun Life Quant Fund Aditya Birla Sun Life Quant Fund is an equity fund. This fund was started on 28 June, 2024. The fund is managed by Harish Krishnan. The fund could potentially beat inflation in the long-run. Key Parameters Aditya Birla Sun Life Quant Fund has ₹2134 Cr worth of assets under management (AUM) as on Feb 2026 and is more than category average. The fund has an expense ratio 0.7. Returns Aditya Birla Sun Life Quant Fund has given a CAGR return of 1.12% since inception. Over the last 1 year the fund has given a CAGR return of 19.46%. Holdings Aditya Birla Sun Life Quant Fund has allocated its funds majorly in Cash Equivalent, Financial Services, Basic Materials, Consumer Cyclical, Consumer Defensive, Health, Industrial, Corporate, Energy, Communication, Tech. Its top holdings are State Bank of India, Ashok Leyland Ltd, HDFC Bank Ltd, The Federal Bank Ltd, Marico Ltd Taxation As it is a equity - other mutual fund the taxation is as follows: For short term (less than a year) capital gains will be taxed at 20% For long term (more than 1 year) capital gains will be taxed at 12.5% without indexation benefit Dividends will always be taxed at slab rate. Long term gains upto Rs 1 lakh are exempt capital gains tax. Investment objective of Aditya Birla Sun Life Quant Fund The investment objective of the Scheme is to generate long term capital appreciation by investing in equity and equity related securities based on quant model theme . The Scheme does not guarantee/indicate any returns. There is no assurance that the investment objective of the Scheme will be achieved. Minimum Investment and lockin period Minimum investment for lump sum payment is INR 500.00 and for SIP is INR 500.00. Aditya Birla Sun Life Quant Fund has no lock in period. Know more about Aditya Birla Sun Life Quant Fund Fund Manager Harish Krishnan Fund Manager of  Aditya Birla Sun Life Quant Fund, since 28 June 2024 Learn more about Aditya Birla Sun Life Mutual Fund AUM Change All changes are between Nov'25 and Jan'26 Parameters Jan'26 Dec'25 Nov'25 AUM ₹ 2.1K Cr ₹ 2.3K Cr ₹ 2.4K Cr AUM of the fund stands at 2.1K Cr as of Jan'26 AUM decreased by 116.2 Cr  between Jan'26 and Dec'25",
+    "fund_managers": "Harish Krishnan",
+    "fund_managers_detail": [
+        {
+            "name": "Harish Krishnan",
+            "subtitle": "Fund Manager of  Aditya Birla Sun Life Quant Fund, since 28 June 2024"
+        }
+    ],
+    "amc_page_url": "https://www.indmoney.com/mutual-funds/amc/aditya-birla-mutual-fund",
+    "aum_history": {
+        "Jan'26": "₹ 2.1K Cr",
+        "Dec'25": "₹ 2.3K Cr",
+        "Nov'25": "₹ 2.4K Cr"
+    },
+    "aum_change_summary": [
+        "AUM of the fund stands at 2.1K Cr as of Jan'26",
+        "AUM decreased by 116.2 Cr  between Jan'26 and Dec'25"
+    ],
+    "scheme_code": 152684,
+    "isin_growth": "INF209KC1118",
+    "isin_div_reinvestment": null,
+    "return_ytd": null,
+    "return_10y": null,
+    "return_since_inception": null,
+    "sip_xirr_1y": null,
+    "sip_xirr_3y": null,
+    "sip_xirr_5y": null,
+    "sip_xirr_10y": null,
+    "rolling_returns": null,
+    "standard_deviation": null,
+    "nav_52w_high": "₹10.69",
+    "nav_52w_low": "₹8.42",
+    "portfolio_overlap_pct": null,
+    "expense_ratio_regular": null,
+    "min_additional_lumpsum": null,
+    "min_sip_installments": null,
+    "min_redemption_amount": null,
+    "stamp_duty": null,
+    "stt_applicable": null,
+    "factsheet_url": null,
+    "sid_url": null,
+    "sai_url": null,
+    "kim_url": null,
+    "amfi_page_url": "https://www.amfiindia.com/net-asset-value/mutual-fund-scheme?SchemeCode=152684",
+    "number_of_folios": null,
+    "country_allocation": null,
+    "historical_nav": [
+        {
+            "date": "06-03-2026",
+            "nav": "10.19000"
+        },
+        {
+            "date": "05-03-2026",
+            "nav": "10.30000"
+        },
+        {
+            "date": "04-03-2026",
+            "nav": "10.18000"
+        },
+        {
+            "date": "02-03-2026",
+            "nav": "10.43000"
+        },
+        {
+            "date": "27-02-2026",
+            "nav": "10.53000"
+        },
+        {
+            "date": "26-02-2026",
+            "nav": "10.69000"
+        },
+        {
+            "date": "25-02-2026",
+            "nav": "10.66000"
+        },
+        {
+            "date": "24-02-2026",
+            "nav": "10.58000"
+        },
+        {
+            "date": "23-02-2026",
+            "nav": "10.60000"
+        },
+        {
+            "date": "20-02-2026",
+            "nav": "10.55000"
+        },
+        {
+            "date": "19-02-2026",
+            "nav": "10.50000"
+        },
+        {
+            "date": "18-02-2026",
+            "nav": "10.65000"
+        },
+        {
+            "date": "17-02-2026",
+            "nav": "10.57000"
+        },
+        {
+            "date": "16-02-2026",
+            "nav": "10.54000"
+        },
+        {
+            "date": "13-02-2026",
+            "nav": "10.46000"
+        },
+        {
+            "date": "12-02-2026",
+            "nav": "10.64000"
+        },
+        {
+            "date": "11-02-2026",
+            "nav": "10.63000"
+        },
+        {
+            "date": "10-02-2026",
+            "nav": "10.57000"
+        },
+        {
+            "date": "09-02-2026",
+            "nav": "10.56000"
+        },
+        {
+            "date": "06-02-2026",
+            "nav": "10.41000"
+        },
+        {
+            "date": "05-02-2026",
+            "nav": "10.38000"
+        },
+        {
+            "date": "04-02-2026",
+            "nav": "10.44000"
+        },
+        {
+            "date": "03-02-2026",
+            "nav": "10.35000"
+        },
+        {
+            "date": "02-02-2026",
+            "nav": "10.10000"
+        },
+        {
+            "date": "30-01-2026",
+            "nav": "10.25000"
+        },
+        {
+            "date": "29-01-2026",
+            "nav": "10.33000"
+        },
+        {
+            "date": "28-01-2026",
+            "nav": "10.32000"
+        },
+        {
+            "date": "27-01-2026",
+            "nav": "10.20000"
+        },
+        {
+            "date": "23-01-2026",
+            "nav": "10.11000"
+        },
+        {
+            "date": "22-01-2026",
+            "nav": "10.21000"
+        },
+        {
+            "date": "21-01-2026",
+            "nav": "10.10000"
+        },
+        {
+            "date": "20-01-2026",
+            "nav": "10.16000"
+        },
+        {
+            "date": "19-01-2026",
+            "nav": "10.37000"
+        },
+        {
+            "date": "16-01-2026",
+            "nav": "10.35000"
+        },
+        {
+            "date": "14-01-2026",
+            "nav": "10.28000"
+        },
+        {
+            "date": "13-01-2026",
+            "nav": "10.25000"
+        },
+        {
+            "date": "12-01-2026",
+            "nav": "10.23000"
+        },
+        {
+            "date": "09-01-2026",
+            "nav": "10.21000"
+        },
+        {
+            "date": "08-01-2026",
+            "nav": "10.29000"
+        },
+        {
+            "date": "07-01-2026",
+            "nav": "10.48000"
+        },
+        {
+            "date": "06-01-2026",
+            "nav": "10.48000"
+        },
+        {
+            "date": "05-01-2026",
+            "nav": "10.46000"
+        },
+        {
+            "date": "02-01-2026",
+            "nav": "10.46000"
+        },
+        {
+            "date": "01-01-2026",
+            "nav": "10.41000"
+        },
+        {
+            "date": "31-12-2025",
+            "nav": "10.37000"
+        },
+        {
+            "date": "30-12-2025",
+            "nav": "10.27000"
+        },
+        {
+            "date": "29-12-2025",
+            "nav": "10.23000"
+        },
+        {
+            "date": "26-12-2025",
+            "nav": "10.25000"
+        },
+        {
+            "date": "24-12-2025",
+            "nav": "10.28000"
+        },
+        {
+            "date": "23-12-2025",
+            "nav": "10.31000"
+        },
+        {
+            "date": "22-12-2025",
+            "nav": "10.30000"
+        },
+        {
+            "date": "19-12-2025",
+            "nav": "10.21000"
+        },
+        {
+            "date": "18-12-2025",
+            "nav": "10.12000"
+        },
+        {
+            "date": "17-12-2025",
+            "nav": "10.10000"
+        },
+        {
+            "date": "16-12-2025",
+            "nav": "10.15000"
+        },
+        {
+            "date": "15-12-2025",
+            "nav": "10.20000"
+        },
+        {
+            "date": "12-12-2025",
+            "nav": "10.19000"
+        },
+        {
+            "date": "11-12-2025",
+            "nav": "10.06000"
+        },
+        {
+            "date": "10-12-2025",
+            "nav": "10.03000"
+        },
+        {
+            "date": "09-12-2025",
+            "nav": "10.09000"
+        },
+        {
+            "date": "08-12-2025",
+            "nav": "10.08000"
+        },
+        {
+            "date": "05-12-2025",
+            "nav": "10.21000"
+        },
+        {
+            "date": "04-12-2025",
+            "nav": "10.13000"
+        },
+        {
+            "date": "03-12-2025",
+            "nav": "10.14000"
+        },
+        {
+            "date": "02-12-2025",
+            "nav": "10.18000"
+        },
+        {
+            "date": "01-12-2025",
+            "nav": "10.21000"
+        },
+        {
+            "date": "28-11-2025",
+            "nav": "10.22000"
+        },
+        {
+            "date": "27-11-2025",
+            "nav": "10.23000"
+        },
+        {
+            "date": "26-11-2025",
+            "nav": "10.21000"
+        },
+        {
+            "date": "25-11-2025",
+            "nav": "10.07000"
+        },
+        {
+            "date": "24-11-2025",
+            "nav": "10.05000"
+        },
+        {
+            "date": "21-11-2025",
+            "nav": "10.08000"
+        },
+        {
+            "date": "20-11-2025",
+            "nav": "10.18000"
+        },
+        {
+            "date": "19-11-2025",
+            "nav": "10.15000"
+        },
+        {
+            "date": "18-11-2025",
+            "nav": "10.15000"
+        },
+        {
+            "date": "17-11-2025",
+            "nav": "10.21000"
+        },
+        {
+            "date": "14-11-2025",
+            "nav": "10.14000"
+        },
+        {
+            "date": "13-11-2025",
+            "nav": "10.12000"
+        },
+        {
+            "date": "12-11-2025",
+            "nav": "10.08000"
+        },
+        {
+            "date": "11-11-2025",
+            "nav": "10.06000"
+        },
+        {
+            "date": "10-11-2025",
+            "nav": "10.05000"
+        },
+        {
+            "date": "07-11-2025",
+            "nav": "10.01000"
+        },
+        {
+            "date": "06-11-2025",
+            "nav": "9.97000"
+        },
+        {
+            "date": "04-11-2025",
+            "nav": "10.05000"
+        },
+        {
+            "date": "03-11-2025",
+            "nav": "10.07000"
+        },
+        {
+            "date": "31-10-2025",
+            "nav": "10.00000"
+        },
+        {
+            "date": "30-10-2025",
+            "nav": "10.06000"
+        },
+        {
+            "date": "29-10-2025",
+            "nav": "10.09000"
+        },
+        {
+            "date": "28-10-2025",
+            "nav": "10.06000"
+        },
+        {
+            "date": "27-10-2025",
+            "nav": "10.06000"
+        },
+        {
+            "date": "24-10-2025",
+            "nav": "9.94000"
+        },
+        {
+            "date": "23-10-2025",
+            "nav": "9.98000"
+        },
+        {
+            "date": "20-10-2025",
+            "nav": "10.04000"
+        },
+        {
+            "date": "17-10-2025",
+            "nav": "9.97000"
+        },
+        {
+            "date": "16-10-2025",
+            "nav": "9.94000"
+        },
+        {
+            "date": "15-10-2025",
+            "nav": "9.90000"
+        },
+        {
+            "date": "14-10-2025",
+            "nav": "9.80000"
+        },
+        {
+            "date": "13-10-2025",
+            "nav": "9.84000"
+        },
+        {
+            "date": "10-10-2025",
+            "nav": "9.81000"
+        },
+        {
+            "date": "09-10-2025",
+            "nav": "9.81000"
+        },
+        {
+            "date": "08-10-2025",
+            "nav": "9.74000"
+        },
+        {
+            "date": "07-10-2025",
+            "nav": "9.77000"
+        },
+        {
+            "date": "06-10-2025",
+            "nav": "9.74000"
+        },
+        {
+            "date": "03-10-2025",
+            "nav": "9.67000"
+        },
+        {
+            "date": "01-10-2025",
+            "nav": "9.62000"
+        },
+        {
+            "date": "30-09-2025",
+            "nav": "9.57000"
+        },
+        {
+            "date": "26-09-2025",
+            "nav": "9.49000"
+        },
+        {
+            "date": "25-09-2025",
+            "nav": "9.63000"
+        },
+        {
+            "date": "24-09-2025",
+            "nav": "9.71000"
+        },
+        {
+            "date": "23-09-2025",
+            "nav": "9.76000"
+        },
+        {
+            "date": "22-09-2025",
+            "nav": "9.77000"
+        },
+        {
+            "date": "19-09-2025",
+            "nav": "9.80000"
+        },
+        {
+            "date": "18-09-2025",
+            "nav": "9.82000"
+        },
+        {
+            "date": "17-09-2025",
+            "nav": "9.78000"
+        },
+        {
+            "date": "16-09-2025",
+            "nav": "9.75000"
+        },
+        {
+            "date": "15-09-2025",
+            "nav": "9.70000"
+        },
+        {
+            "date": "12-09-2025",
+            "nav": "9.70000"
+        },
+        {
+            "date": "11-09-2025",
+            "nav": "9.68000"
+        },
+        {
+            "date": "10-09-2025",
+            "nav": "9.66000"
+        },
+        {
+            "date": "09-09-2025",
+            "nav": "9.64000"
+        },
+        {
+            "date": "08-09-2025",
+            "nav": "9.61000"
+        },
+        {
+            "date": "05-09-2025",
+            "nav": "9.55000"
+        },
+        {
+            "date": "04-09-2025",
+            "nav": "9.55000"
+        },
+        {
+            "date": "03-09-2025",
+            "nav": "9.55000"
+        },
+        {
+            "date": "02-09-2025",
+            "nav": "9.49000"
+        },
+        {
+            "date": "01-09-2025",
+            "nav": "9.52000"
+        },
+        {
+            "date": "29-08-2025",
+            "nav": "9.41000"
+        },
+        {
+            "date": "28-08-2025",
+            "nav": "9.43000"
+        },
+        {
+            "date": "26-08-2025",
+            "nav": "9.55000"
+        },
+        {
+            "date": "25-08-2025",
+            "nav": "9.67000"
+        },
+        {
+            "date": "22-08-2025",
+            "nav": "9.67000"
+        },
+        {
+            "date": "21-08-2025",
+            "nav": "9.70000"
+        },
+        {
+            "date": "20-08-2025",
+            "nav": "9.69000"
+        },
+        {
+            "date": "19-08-2025",
+            "nav": "9.67000"
+        },
+        {
+            "date": "18-08-2025",
+            "nav": "9.64000"
+        },
+        {
+            "date": "14-08-2025",
+            "nav": "9.46000"
+        },
+        {
+            "date": "13-08-2025",
+            "nav": "9.42000"
+        },
+        {
+            "date": "12-08-2025",
+            "nav": "9.34000"
+        },
+        {
+            "date": "11-08-2025",
+            "nav": "9.37000"
+        },
+        {
+            "date": "08-08-2025",
+            "nav": "9.29000"
+        },
+        {
+            "date": "07-08-2025",
+            "nav": "9.41000"
+        },
+        {
+            "date": "06-08-2025",
+            "nav": "9.41000"
+        },
+        {
+            "date": "05-08-2025",
+            "nav": "9.49000"
+        },
+        {
+            "date": "04-08-2025",
+            "nav": "9.50000"
+        },
+        {
+            "date": "01-08-2025",
+            "nav": "9.40000"
+        },
+        {
+            "date": "31-07-2025",
+            "nav": "9.55000"
+        },
+        {
+            "date": "30-07-2025",
+            "nav": "9.60000"
+        },
+        {
+            "date": "29-07-2025",
+            "nav": "9.60000"
+        },
+        {
+            "date": "28-07-2025",
+            "nav": "9.55000"
+        },
+        {
+            "date": "25-07-2025",
+            "nav": "9.61000"
+        },
+        {
+            "date": "24-07-2025",
+            "nav": "9.72000"
+        },
+        {
+            "date": "23-07-2025",
+            "nav": "9.77000"
+        },
+        {
+            "date": "22-07-2025",
+            "nav": "9.71000"
+        },
+        {
+            "date": "21-07-2025",
+            "nav": "9.74000"
+        },
+        {
+            "date": "18-07-2025",
+            "nav": "9.68000"
+        },
+        {
+            "date": "17-07-2025",
+            "nav": "9.73000"
+        },
+        {
+            "date": "16-07-2025",
+            "nav": "9.75000"
+        },
+        {
+            "date": "15-07-2025",
+            "nav": "9.76000"
+        },
+        {
+            "date": "14-07-2025",
+            "nav": "9.70000"
+        },
+        {
+            "date": "11-07-2025",
+            "nav": "9.67000"
+        },
+        {
+            "date": "10-07-2025",
+            "nav": "9.77000"
+        },
+        {
+            "date": "09-07-2025",
+            "nav": "9.82000"
+        },
+        {
+            "date": "08-07-2025",
+            "nav": "9.83000"
+        },
+        {
+            "date": "07-07-2025",
+            "nav": "9.82000"
+        },
+        {
+            "date": "04-07-2025",
+            "nav": "9.84000"
+        },
+        {
+            "date": "03-07-2025",
+            "nav": "9.80000"
+        },
+        {
+            "date": "02-07-2025",
+            "nav": "9.82000"
+        },
+        {
+            "date": "01-07-2025",
+            "nav": "9.87000"
+        },
+        {
+            "date": "30-06-2025",
+            "nav": "9.88000"
+        },
+        {
+            "date": "27-06-2025",
+            "nav": "9.86000"
+        },
+        {
+            "date": "26-06-2025",
+            "nav": "9.79000"
+        },
+        {
+            "date": "25-06-2025",
+            "nav": "9.70000"
+        },
+        {
+            "date": "24-06-2025",
+            "nav": "9.63000"
+        },
+        {
+            "date": "23-06-2025",
+            "nav": "9.54000"
+        },
+        {
+            "date": "20-06-2025",
+            "nav": "9.53000"
+        },
+        {
+            "date": "19-06-2025",
+            "nav": "9.42000"
+        },
+        {
+            "date": "18-06-2025",
+            "nav": "9.47000"
+        },
+        {
+            "date": "17-06-2025",
+            "nav": "9.50000"
+        },
+        {
+            "date": "16-06-2025",
+            "nav": "9.57000"
+        },
+        {
+            "date": "13-06-2025",
+            "nav": "9.48000"
+        },
+        {
+            "date": "12-06-2025",
+            "nav": "9.53000"
+        },
+        {
+            "date": "11-06-2025",
+            "nav": "9.60000"
+        },
+        {
+            "date": "10-06-2025",
+            "nav": "9.61000"
+        },
+        {
+            "date": "09-06-2025",
+            "nav": "9.62000"
+        },
+        {
+            "date": "06-06-2025",
+            "nav": "9.52000"
+        },
+        {
+            "date": "05-06-2025",
+            "nav": "9.39000"
+        },
+        {
+            "date": "04-06-2025",
+            "nav": "9.33000"
+        },
+        {
+            "date": "03-06-2025",
+            "nav": "9.28000"
+        },
+        {
+            "date": "02-06-2025",
+            "nav": "9.28000"
+        },
+        {
+            "date": "30-05-2025",
+            "nav": "9.26000"
+        },
+        {
+            "date": "29-05-2025",
+            "nav": "9.28000"
+        },
+        {
+            "date": "28-05-2025",
+            "nav": "9.27000"
+        },
+        {
+            "date": "27-05-2025",
+            "nav": "9.30000"
+        },
+        {
+            "date": "26-05-2025",
+            "nav": "9.35000"
+        },
+        {
+            "date": "23-05-2025",
+            "nav": "9.32000"
+        },
+        {
+            "date": "22-05-2025",
+            "nav": "9.28000"
+        },
+        {
+            "date": "21-05-2025",
+            "nav": "9.34000"
+        },
+        {
+            "date": "20-05-2025",
+            "nav": "9.27000"
+        },
+        {
+            "date": "19-05-2025",
+            "nav": "9.41000"
+        },
+        {
+            "date": "16-05-2025",
+            "nav": "9.38000"
+        },
+        {
+            "date": "15-05-2025",
+            "nav": "9.39000"
+        },
+        {
+            "date": "14-05-2025",
+            "nav": "9.29000"
+        },
+        {
+            "date": "13-05-2025",
+            "nav": "9.24000"
+        },
+        {
+            "date": "12-05-2025",
+            "nav": "9.31000"
+        },
+        {
+            "date": "09-05-2025",
+            "nav": "9.04000"
+        },
+        {
+            "date": "08-05-2025",
+            "nav": "9.10000"
+        },
+        {
+            "date": "07-05-2025",
+            "nav": "9.27000"
+        },
+        {
+            "date": "06-05-2025",
+            "nav": "9.20000"
+        },
+        {
+            "date": "05-05-2025",
+            "nav": "9.25000"
+        },
+        {
+            "date": "02-05-2025",
+            "nav": "9.17000"
+        },
+        {
+            "date": "30-04-2025",
+            "nav": "9.19000"
+        },
+        {
+            "date": "29-04-2025",
+            "nav": "9.24000"
+        },
+        {
+            "date": "28-04-2025",
+            "nav": "9.25000"
+        },
+        {
+            "date": "25-04-2025",
+            "nav": "9.16000"
+        },
+        {
+            "date": "24-04-2025",
+            "nav": "9.36000"
+        },
+        {
+            "date": "23-04-2025",
+            "nav": "9.36000"
+        },
+        {
+            "date": "22-04-2025",
+            "nav": "9.29000"
+        },
+        {
+            "date": "21-04-2025",
+            "nav": "9.24000"
+        },
+        {
+            "date": "17-04-2025",
+            "nav": "9.09000"
+        },
+        {
+            "date": "16-04-2025",
+            "nav": "8.97000"
+        },
+        {
+            "date": "15-04-2025",
+            "nav": "8.96000"
+        },
+        {
+            "date": "11-04-2025",
+            "nav": "8.73000"
+        },
+        {
+            "date": "09-04-2025",
+            "nav": "8.56000"
+        },
+        {
+            "date": "08-04-2025",
+            "nav": "8.64000"
+        },
+        {
+            "date": "07-04-2025",
+            "nav": "8.46000"
+        },
+        {
+            "date": "04-04-2025",
+            "nav": "8.73000"
+        },
+        {
+            "date": "03-04-2025",
+            "nav": "8.87000"
+        },
+        {
+            "date": "02-04-2025",
+            "nav": "8.88000"
+        },
+        {
+            "date": "01-04-2025",
+            "nav": "8.79000"
+        },
+        {
+            "date": "31-03-2025",
+            "nav": "8.92000"
+        },
+        {
+            "date": "28-03-2025",
+            "nav": "8.92000"
+        },
+        {
+            "date": "27-03-2025",
+            "nav": "8.96000"
+        },
+        {
+            "date": "26-03-2025",
+            "nav": "8.92000"
+        },
+        {
+            "date": "25-03-2025",
+            "nav": "8.96000"
+        },
+        {
+            "date": "24-03-2025",
+            "nav": "9.00000"
+        },
+        {
+            "date": "21-03-2025",
+            "nav": "8.92000"
+        },
+        {
+            "date": "20-03-2025",
+            "nav": "8.86000"
+        },
+        {
+            "date": "19-03-2025",
+            "nav": "8.79000"
+        },
+        {
+            "date": "18-03-2025",
+            "nav": "8.69000"
+        },
+        {
+            "date": "17-03-2025",
+            "nav": "8.53000"
+        },
+        {
+            "date": "13-03-2025",
+            "nav": "8.42000"
+        },
+        {
+            "date": "12-03-2025",
+            "nav": "8.47000"
+        },
+        {
+            "date": "11-03-2025",
+            "nav": "8.46000"
+        },
+        {
+            "date": "10-03-2025",
+            "nav": "8.42000"
+        }
+    ],
+    "mfapi_fund_house": "Aditya Birla Sun Life Mutual Fund",
+    "mfapi_scheme_type": "Open Ended Schemes",
+    "mfapi_scheme_category": "Equity Scheme - Sectoral/ Thematic",
+    "mfapi_scheme_name": "Aditya Birla Sun Life Quant Fund - Direct Growth",
+    "previous_day_nav": "10.30000",
+    "nav_change_absolute": "₹-0.11",
+    "nav_change_pct": "-1.07%",
+    "taxation": {
+        "fund_tax_category": "Equity",
+        "stcg_tax_rate": "20%",
+        "stcg_holding_period": "Less than 12 months",
+        "ltcg_tax_rate": "12.5%",
+        "ltcg_holding_period": "More than 12 months",
+        "ltcg_exemption_limit": "₹1.25 lakh per financial year",
+        "indexation_benefit": "No",
+        "dividend_tax_treatment": "Taxed at investor's income tax slab rate",
+        "section_80c_eligible": "No",
+        "stt_applicable": "Yes",
+        "stamp_duty": "0.005%"
+    },
+    "sip_mechanics": {
+        "sip_available": "Yes",
+        "sip_frequencies": [
+            "Monthly",
+            "Quarterly"
+        ],
+        "sip_dates": [
+            1,
+            5,
+            10,
+            15,
+            20,
+            25
+        ],
+        "sip_min_amount": "₹500",
+        "sip_min_installments": 6,
+        "sip_pause_facility": "Yes",
+        "sip_step_up_facility": "Yes",
+        "perpetual_sip": "Yes"
+    },
+    "redemption_details": {
+        "lock_in_period": "No Lock-in",
+        "partial_redemption_allowed": "Yes",
+        "redemption_processing_time": "T+2 business days",
+        "cutoff_time_purchase": "3:00 PM (for same-day NAV)",
+        "cutoff_time_redemption": "3:00 PM (for same-day NAV)",
+        "settlement_type": "Direct credit to registered bank account",
+        "redemption_during_market_hours": "End-of-day NAV applicable",
+        "units_pledgeable": "Yes (subject to AMC terms)",
+        "exit_load_structure": {
+            "raw": "0.5%",
+            "pct": "0.5%",
+            "window": "Within 1 year of allotment",
+            "nil_beyond": "Yes, nil after 1 year",
+            "special_conditions": "Up to 10% of units can be redeemed without exit load within 1 year"
+        }
+    },
+    "guardrails": {
+        "guardrail_flags": {
+            "is_performance_question": "Respond with factual data only, no personal opinion or recommendation.",
+            "is_comparison_question": "Surface data side-by-side for comparison. Do not recommend one fund over another.",
+            "is_advisory_question": "This appears to be an investment advisory question. As per SEBI regulations, we cannot provide personalized investment advice. Please consult a SEBI-registered investment advisor.",
+            "contains_pii": "PII detected (PAN/Aadhaar/phone/email). This data will NOT be processed or stored."
+        },
+        "disclaimer_text": "Mutual fund investments are subject to market risks. Read all scheme-related documents carefully before investing. Past performance is not indicative of future results. The information provided is for educational purposes only and should not be construed as investment advice.",
+        "sebi_riskometer_label": "Very High Risk"
+    },
+    "sebi_investment_mandate": "N/A"
+}

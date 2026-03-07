@@ -1,0 +1,1370 @@
+{
+    "fund_name": "HDFC Mid Cap Fund",
+    "nav": "₹215.24",
+    "nav_date": "06 Mar 2026",
+    "nav_text": "Latest NAV for HDFC Mid Cap Fund as of 06 Mar 2026 is ₹215.24",
+    "nav_currency": "INR",
+    "one_day_change_pct": -0.8,
+    "inception_return": 20.33,
+    "short_name": "HDFC Mid Cap Fund",
+    "amc_name": "HDFC Mutual Fund",
+    "fund_category": "Equity",
+    "fund_sub_category": "Mid-Cap",
+    "fund_type": "Open-ended",
+    "plan_type": "Direct",
+    "option_type": "Growth",
+    "benchmark_index_name": "Nifty Midcap 150 TR INR",
+    "benchmark_index_variant": "TRI",
+    "is_elss": "no",
+    "is_etf_or_fof": "no",
+    "fund_objective": "<p><span style=\"font-weight: 400;\">HDFC Mid Cap Opportunities Fund is a </span><span style=\"color: #3366ff;\"><a style=\"color: #3366ff;\" href=\"https://www.indmoney.com/mutual-funds/equity/mid-cap-funds\"><span style=\"font-weight: 400;\">mid-cap mutual fund</span></a></span><span style=\"font-weight: 400;\"> that is required by SEBI (Securities and Exchange Board of India) to invest at least 65% of its assets in <span style=\"color: #3366ff;\"><a style=\"color: #3366ff;\" href=\"https://www.indmoney.com/stocks/category/mid-cap-stocks\">mid-sized companies</a></span>. These are companies that rank 101st to 250th on the stock exchange as per their market capitalization.</span></p>\n<p><span style=\"font-weight: 400;\">&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">The fund uses the </span><span style=\"color: #3366ff;\"><a style=\"color: #3366ff;\" href=\"https://www.indmoney.com/indices/nifty-midcap-150\"><span style=\"font-weight: 400;\">Nifty Mid Cap 150 TRI</span></a></span><span style=\"font-weight: ",
+    "expense_ratio": "0.74%",
+    "benchmark": "Nifty Midcap 150",
+    "aum": "92,187Cr",
+    "inception_date": "1 January, 2013",
+    "min_lumpsum_sip": "₹100/₹100",
+    "min_lumpsum_amount": "₹100",
+    "min_sip_amount": "₹100",
+    "exit_load": "1.0%",
+    "lock_in": "No Lock-in",
+    "turnover": "18.22%",
+    "return_1m": "-3.9%",
+    "return_1m_benchmark": "-0.36%",
+    "return_1m_category_avg": "-2.97%",
+    "return_1m_category_rank": "1/21",
+    "return_3m": "-4.2%",
+    "return_3m_benchmark": "-1.62%",
+    "return_3m_category_avg": "-4.63%",
+    "return_3m_category_rank": "1/20",
+    "return_6m": "1.7%",
+    "return_6m_benchmark": "3.19%",
+    "return_6m_category_avg": "-1.44%",
+    "return_6m_category_rank": "1/19",
+    "return_1y": "16.87%",
+    "return_1y_benchmark": "19.12%",
+    "return_1y_category_avg": "14.15%",
+    "return_1y_category_rank": "2/19",
+    "return_3y": "24.8%",
+    "return_3y_benchmark": "23.19%",
+    "return_3y_category_avg": "21.13%",
+    "return_3y_category_rank": "8/18",
+    "return_5y": "22.01%",
+    "return_5y_benchmark": "19.14%",
+    "return_5y_category_avg": "17.68%",
+    "return_5y_category_rank": "--",
+    "performance_highlight": "The fund has outperformed the benchmark (Nifty Midcap 150) over 3Y, 5Y, but underperformed over 1Y.",
+    "alpha_3y": "4.29",
+    "beta_3y": "0.85",
+    "sharpe_3y": "1.39",
+    "sortino_3y": "2.45",
+    "info_ratio_3y": "0.66",
+    "total_holdings_count": 77,
+    "holdings_count_breakdown": {
+        "Equity Holdings": {
+            "count": 77,
+            "pct": 94.04624
+        }
+    },
+    "top_holdings": [
+        {
+            "name": "Max Financial Services Ltd",
+            "sector": "Financial Services",
+            "shares": 25792853,
+            "allocation_pct": "4.51%",
+            "change_pct": "0%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "AU Small Finance Bank Ltd",
+            "sector": "Financial Services",
+            "shares": 39301056,
+            "allocation_pct": "4.19%",
+            "change_pct": "0.3%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "The Federal Bank Ltd",
+            "sector": "Financial Services",
+            "shares": 127825000,
+            "allocation_pct": "3.99%",
+            "change_pct": "0%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Indian Bank",
+            "sector": "Financial Services",
+            "shares": 36854482,
+            "allocation_pct": "3.64%",
+            "change_pct": "0%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Balkrishna Industries Ltd",
+            "sector": "Consumer Cyclical",
+            "shares": 13224300,
+            "allocation_pct": "3.31%",
+            "change_pct": "0%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Ipca Laboratories Ltd",
+            "sector": "Healthcare",
+            "shares": 17994512,
+            "allocation_pct": "2.87%",
+            "change_pct": "0.4%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Coforge Ltd",
+            "sector": "Technology",
+            "shares": 15620600,
+            "allocation_pct": "2.8%",
+            "change_pct": "0%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Glenmark Pharmaceuticals Ltd",
+            "sector": "Healthcare",
+            "shares": 12675440,
+            "allocation_pct": "2.77%",
+            "change_pct": "0.3%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Fortis Healthcare Ltd",
+            "sector": "Healthcare",
+            "shares": 28387340,
+            "allocation_pct": "2.62%",
+            "change_pct": "2%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Hindustan Petroleum Corp Ltd",
+            "sector": "Energy",
+            "shares": 55530830,
+            "allocation_pct": "2.57%",
+            "change_pct": "0%",
+            "asset_class": "Equity"
+        }
+    ],
+    "asset_allocation": [
+        {
+            "name": "Equity",
+            "pct": "94%",
+            "pct_value": 94,
+            "breakdown_label": "Size breakup",
+            "breakdown": [
+                {
+                    "name": "Mid cap",
+                    "pct": "64.8%",
+                    "value": 64.815
+                },
+                {
+                    "name": "Small cap",
+                    "pct": "20.7%",
+                    "value": 20.652
+                },
+                {
+                    "name": "Large cap",
+                    "pct": "8.6%",
+                    "value": 8.58
+                }
+            ]
+        },
+        {
+            "name": "Debt & Cash",
+            "pct": "6%",
+            "pct_value": 6,
+            "breakdown_label": "Credit rating breakup",
+            "breakdown": []
+        }
+    ],
+    "market_cap_allocation": {
+        "mid_cap_pct": "64.8%",
+        "small_cap_pct": "20.7%",
+        "large_cap_pct": "8.6%"
+    },
+    "sector_allocation": [
+        {
+            "name": "Financial Services",
+            "pct": "26%",
+            "pct_value": 26,
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Consumer Cyclical",
+            "pct": "19.8%",
+            "pct_value": 19.8,
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Health",
+            "pct": "12.9%",
+            "pct_value": 12.9,
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Industrial",
+            "pct": "11.1%",
+            "pct_value": 11.1,
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Tech",
+            "pct": "11%",
+            "pct_value": 11,
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Basic Materials",
+            "pct": "6.2%",
+            "pct_value": 6.2,
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Consumer Defensive",
+            "pct": "5.5%",
+            "pct_value": 5.5,
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Communication",
+            "pct": "3.2%",
+            "pct_value": 3.2,
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Energy",
+            "pct": "3%",
+            "pct_value": 3,
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Utilities",
+            "pct": "1.3%",
+            "pct_value": 1.3,
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Cash Equivalent",
+            "pct": "100%",
+            "pct_value": 100,
+            "asset_class": "Debt & Cash"
+        }
+    ],
+    "riskometer_category": "Very High Risk",
+    "riskometer_body": "Investors understand that their principal will be at Very High Risk",
+    "risk": "Very High Risk",
+    "indmoney_rank": 1,
+    "total_funds_in_category": 21,
+    "ranking_info": "Ranked 1 out of 21 mutual funds in the mid-cap category as per INDmoney.",
+    "ranking_scores": {
+        "performance": "91%",
+        "risk_management": "73%",
+        "cost": "66%"
+    },
+    "ranking_pros": [
+        "Generated Consistent Returns",
+        "Consistently beats benchmark",
+        "Lower probablity of downside risk"
+    ],
+    "ranking_cons": [
+        "No bad points found for this fund."
+    ],
+    "about": "About HDFC Mid Cap Fund HDFC Mid Cap Opportunities Fund is a  mid-cap mutual fund  that is required by SEBI (Securities and Exchange Board of India) to invest at least 65% of its assets in  mid-sized companies . These are companies that rank 101st to 250th on the stock exchange as per their market capitalization. \n   \n The fund uses the  Nifty Mid Cap 150 TRI  as its benchmark index. A benchmark index measures and compares the fund's performance against a broader market of mid-cap companies. HDFC Mid Cap Opportunities Fund maintains a strong focus on sectors like Financials, Automobiles, Healthcare, Technology, etc. \n   \n Investment Strategy \n The fund manager adopts a bottom-up stock-picking approach, focusing on individual companies rather than sectors or market trends. The emphasis is on identifying business with: \n   \n - Sound financial strength \n - Strong business model \n - Long-term growth potential \n   \n Should I Invest In HDFC Mid Cap Opportunties Fund? \n HDFC Mid-cap fund invests in mid-sized companies. These companies are emerging businesses that are growing rapidly and hold the potential to become large-cap. If you wish to invest in the HDFC mid-cap fund, you must have the following traits: \n   \n - Long-term investmentor \n - Moderate to high-risk appetite \n - Requires active management \n   \n Taxation On HDFC Mid Cap Direct Growth Fund \n Tax liability across all equity mutual funds is the same. For HDFC Mid Cap Fund, you will be taxed on any profit you make on the sale of your investments. If you sell your investment within 12 months, it is termed as a  Short-term capital gain  (STCG). If you sell your investments after 12 months, it is termed as  Long-term capital gain  (LTCG). The taxes on your investment are the following: \n   \n - Short-term Capital Gain Tax : 20% of STCG \n - Long-term Capital Gain Tax:  LTCG Exempted up to 1,25,000 and then 12.5%. \n   \n Allocation & Historical Returns Know more about HDFC Mid Cap Fund Fund Manager Dhruv Muchhal Fund Manager of  HDFC Mid Cap Fund, since 22 June 2023 Chirag Setalvad Fund Manager of  HDFC Mid Cap Fund, since 25 June 2007 Learn more about HDFC Mutual Fund AUM Change All changes are between Nov'25 and Jan'26 Parameters Jan'26 Dec'25 Nov'25 AUM ₹ 92.2K Cr ₹ 92.6K Cr ₹ 92.2K Cr AUM of the fund stands at 92.2K Cr as of Jan'26 AUM decreased by 454.7 Cr  between Jan'26 and Dec'25",
+    "fund_managers": "Dhruv Muchhal, Chirag Setalvad",
+    "fund_managers_detail": [
+        {
+            "name": "Dhruv Muchhal",
+            "subtitle": "Fund Manager of  HDFC Mid Cap Fund, since 22 June 2023"
+        },
+        {
+            "name": "Chirag Setalvad",
+            "subtitle": "Fund Manager of  HDFC Mid Cap Fund, since 25 June 2007"
+        }
+    ],
+    "amc_page_url": "https://www.indmoney.com/mutual-funds/amc/hdfc-mutual-fund",
+    "aum_history": {
+        "Jan'26": "₹ 92.2K Cr",
+        "Dec'25": "₹ 92.6K Cr",
+        "Nov'25": "₹ 92.2K Cr"
+    },
+    "aum_change_summary": [
+        "AUM of the fund stands at 92.2K Cr as of Jan'26",
+        "AUM decreased by 454.7 Cr  between Jan'26 and Dec'25"
+    ],
+    "scheme_code": 118989,
+    "isin_growth": "INF179K01XQ0",
+    "isin_div_reinvestment": null,
+    "return_ytd": null,
+    "return_10y": null,
+    "return_since_inception": null,
+    "sip_xirr_1y": null,
+    "sip_xirr_3y": null,
+    "sip_xirr_5y": null,
+    "sip_xirr_10y": null,
+    "rolling_returns": null,
+    "standard_deviation": null,
+    "nav_52w_high": "₹227.18",
+    "nav_52w_low": "₹178.72",
+    "portfolio_overlap_pct": null,
+    "expense_ratio_regular": null,
+    "min_additional_lumpsum": null,
+    "min_sip_installments": null,
+    "min_redemption_amount": null,
+    "stamp_duty": null,
+    "stt_applicable": null,
+    "factsheet_url": null,
+    "sid_url": null,
+    "sai_url": null,
+    "kim_url": null,
+    "amfi_page_url": "https://www.amfiindia.com/net-asset-value/mutual-fund-scheme?SchemeCode=118989",
+    "number_of_folios": null,
+    "country_allocation": null,
+    "historical_nav": [
+        {
+            "date": "06-03-2026",
+            "nav": "215.23700"
+        },
+        {
+            "date": "05-03-2026",
+            "nav": "217.04500"
+        },
+        {
+            "date": "04-03-2026",
+            "nav": "214.60300"
+        },
+        {
+            "date": "02-03-2026",
+            "nav": "220.17700"
+        },
+        {
+            "date": "27-02-2026",
+            "nav": "223.95600"
+        },
+        {
+            "date": "26-02-2026",
+            "nav": "226.79900"
+        },
+        {
+            "date": "25-02-2026",
+            "nav": "225.85500"
+        },
+        {
+            "date": "24-02-2026",
+            "nav": "224.60300"
+        },
+        {
+            "date": "23-02-2026",
+            "nav": "224.86900"
+        },
+        {
+            "date": "20-02-2026",
+            "nav": "224.10600"
+        },
+        {
+            "date": "19-02-2026",
+            "nav": "223.59900"
+        },
+        {
+            "date": "18-02-2026",
+            "nav": "226.72200"
+        },
+        {
+            "date": "17-02-2026",
+            "nav": "226.05200"
+        },
+        {
+            "date": "16-02-2026",
+            "nav": "224.57000"
+        },
+        {
+            "date": "13-02-2026",
+            "nav": "223.49000"
+        },
+        {
+            "date": "12-02-2026",
+            "nav": "226.10300"
+        },
+        {
+            "date": "11-02-2026",
+            "nav": "227.17700"
+        },
+        {
+            "date": "10-02-2026",
+            "nav": "226.93600"
+        },
+        {
+            "date": "09-02-2026",
+            "nav": "226.72500"
+        },
+        {
+            "date": "06-02-2026",
+            "nav": "223.96100"
+        },
+        {
+            "date": "05-02-2026",
+            "nav": "224.59800"
+        },
+        {
+            "date": "04-02-2026",
+            "nav": "224.74200"
+        },
+        {
+            "date": "03-02-2026",
+            "nav": "224.32300"
+        },
+        {
+            "date": "02-02-2026",
+            "nav": "218.91700"
+        },
+        {
+            "date": "30-01-2026",
+            "nav": "221.44100"
+        },
+        {
+            "date": "29-01-2026",
+            "nav": "220.05400"
+        },
+        {
+            "date": "28-01-2026",
+            "nav": "219.86900"
+        },
+        {
+            "date": "27-01-2026",
+            "nav": "217.84500"
+        },
+        {
+            "date": "23-01-2026",
+            "nav": "217.29700"
+        },
+        {
+            "date": "22-01-2026",
+            "nav": "220.49800"
+        },
+        {
+            "date": "21-01-2026",
+            "nav": "218.09200"
+        },
+        {
+            "date": "20-01-2026",
+            "nav": "218.89500"
+        },
+        {
+            "date": "19-01-2026",
+            "nav": "222.77600"
+        },
+        {
+            "date": "16-01-2026",
+            "nav": "223.51800"
+        },
+        {
+            "date": "14-01-2026",
+            "nav": "222.23000"
+        },
+        {
+            "date": "13-01-2026",
+            "nav": "221.65900"
+        },
+        {
+            "date": "12-01-2026",
+            "nav": "221.70300"
+        },
+        {
+            "date": "09-01-2026",
+            "nav": "222.32200"
+        },
+        {
+            "date": "08-01-2026",
+            "nav": "223.69200"
+        },
+        {
+            "date": "07-01-2026",
+            "nav": "226.95900"
+        },
+        {
+            "date": "06-01-2026",
+            "nav": "226.63100"
+        },
+        {
+            "date": "05-01-2026",
+            "nav": "226.65900"
+        },
+        {
+            "date": "02-01-2026",
+            "nav": "226.58100"
+        },
+        {
+            "date": "01-01-2026",
+            "nav": "225.02000"
+        },
+        {
+            "date": "31-12-2025",
+            "nav": "224.74500"
+        },
+        {
+            "date": "30-12-2025",
+            "nav": "222.38500"
+        },
+        {
+            "date": "29-12-2025",
+            "nav": "222.41000"
+        },
+        {
+            "date": "26-12-2025",
+            "nav": "222.77600"
+        },
+        {
+            "date": "24-12-2025",
+            "nav": "223.50700"
+        },
+        {
+            "date": "23-12-2025",
+            "nav": "224.88500"
+        },
+        {
+            "date": "22-12-2025",
+            "nav": "225.48800"
+        },
+        {
+            "date": "19-12-2025",
+            "nav": "224.13000"
+        },
+        {
+            "date": "18-12-2025",
+            "nav": "222.12800"
+        },
+        {
+            "date": "17-12-2025",
+            "nav": "222.00100"
+        },
+        {
+            "date": "16-12-2025",
+            "nav": "222.44900"
+        },
+        {
+            "date": "15-12-2025",
+            "nav": "223.77500"
+        },
+        {
+            "date": "12-12-2025",
+            "nav": "223.39800"
+        },
+        {
+            "date": "11-12-2025",
+            "nav": "221.62200"
+        },
+        {
+            "date": "10-12-2025",
+            "nav": "221.13900"
+        },
+        {
+            "date": "09-12-2025",
+            "nav": "222.55000"
+        },
+        {
+            "date": "08-12-2025",
+            "nav": "221.48300"
+        },
+        {
+            "date": "05-12-2025",
+            "nav": "224.68000"
+        },
+        {
+            "date": "04-12-2025",
+            "nav": "224.26500"
+        },
+        {
+            "date": "03-12-2025",
+            "nav": "224.19400"
+        },
+        {
+            "date": "02-12-2025",
+            "nav": "225.88900"
+        },
+        {
+            "date": "01-12-2025",
+            "nav": "225.84000"
+        },
+        {
+            "date": "28-11-2025",
+            "nav": "226.06900"
+        },
+        {
+            "date": "27-11-2025",
+            "nav": "226.08200"
+        },
+        {
+            "date": "26-11-2025",
+            "nav": "226.26100"
+        },
+        {
+            "date": "25-11-2025",
+            "nav": "224.14600"
+        },
+        {
+            "date": "24-11-2025",
+            "nav": "223.44200"
+        },
+        {
+            "date": "21-11-2025",
+            "nav": "223.28100"
+        },
+        {
+            "date": "20-11-2025",
+            "nav": "225.64900"
+        },
+        {
+            "date": "19-11-2025",
+            "nav": "225.47200"
+        },
+        {
+            "date": "18-11-2025",
+            "nav": "224.79100"
+        },
+        {
+            "date": "17-11-2025",
+            "nav": "226.08000"
+        },
+        {
+            "date": "14-11-2025",
+            "nav": "224.34500"
+        },
+        {
+            "date": "13-11-2025",
+            "nav": "224.35100"
+        },
+        {
+            "date": "12-11-2025",
+            "nav": "224.60700"
+        },
+        {
+            "date": "11-11-2025",
+            "nav": "222.60800"
+        },
+        {
+            "date": "10-11-2025",
+            "nav": "222.30300"
+        },
+        {
+            "date": "07-11-2025",
+            "nav": "221.56700"
+        },
+        {
+            "date": "06-11-2025",
+            "nav": "221.16100"
+        },
+        {
+            "date": "04-11-2025",
+            "nav": "223.50600"
+        },
+        {
+            "date": "03-11-2025",
+            "nav": "223.34700"
+        },
+        {
+            "date": "31-10-2025",
+            "nav": "221.52400"
+        },
+        {
+            "date": "30-10-2025",
+            "nav": "222.57700"
+        },
+        {
+            "date": "29-10-2025",
+            "nav": "222.51800"
+        },
+        {
+            "date": "28-10-2025",
+            "nav": "221.82500"
+        },
+        {
+            "date": "27-10-2025",
+            "nav": "221.62300"
+        },
+        {
+            "date": "24-10-2025",
+            "nav": "219.56300"
+        },
+        {
+            "date": "23-10-2025",
+            "nav": "220.41500"
+        },
+        {
+            "date": "20-10-2025",
+            "nav": "220.05900"
+        },
+        {
+            "date": "17-10-2025",
+            "nav": "217.99100"
+        },
+        {
+            "date": "16-10-2025",
+            "nav": "218.55600"
+        },
+        {
+            "date": "15-10-2025",
+            "nav": "218.09800"
+        },
+        {
+            "date": "14-10-2025",
+            "nav": "216.04400"
+        },
+        {
+            "date": "13-10-2025",
+            "nav": "216.97700"
+        },
+        {
+            "date": "10-10-2025",
+            "nav": "217.33700"
+        },
+        {
+            "date": "09-10-2025",
+            "nav": "216.54400"
+        },
+        {
+            "date": "08-10-2025",
+            "nav": "215.60000"
+        },
+        {
+            "date": "07-10-2025",
+            "nav": "215.96900"
+        },
+        {
+            "date": "06-10-2025",
+            "nav": "215.38900"
+        },
+        {
+            "date": "03-10-2025",
+            "nav": "213.64200"
+        },
+        {
+            "date": "01-10-2025",
+            "nav": "212.45700"
+        },
+        {
+            "date": "30-09-2025",
+            "nav": "211.77300"
+        },
+        {
+            "date": "26-09-2025",
+            "nav": "210.14300"
+        },
+        {
+            "date": "25-09-2025",
+            "nav": "213.33200"
+        },
+        {
+            "date": "24-09-2025",
+            "nav": "214.52100"
+        },
+        {
+            "date": "23-09-2025",
+            "nav": "215.91200"
+        },
+        {
+            "date": "22-09-2025",
+            "nav": "216.40600"
+        },
+        {
+            "date": "19-09-2025",
+            "nav": "218.76900"
+        },
+        {
+            "date": "18-09-2025",
+            "nav": "218.33300"
+        },
+        {
+            "date": "17-09-2025",
+            "nav": "217.23300"
+        },
+        {
+            "date": "16-09-2025",
+            "nav": "217.02700"
+        },
+        {
+            "date": "15-09-2025",
+            "nav": "215.61500"
+        },
+        {
+            "date": "12-09-2025",
+            "nav": "215.35800"
+        },
+        {
+            "date": "11-09-2025",
+            "nav": "215.46500"
+        },
+        {
+            "date": "10-09-2025",
+            "nav": "215.01400"
+        },
+        {
+            "date": "09-09-2025",
+            "nav": "212.84800"
+        },
+        {
+            "date": "08-09-2025",
+            "nav": "211.98600"
+        },
+        {
+            "date": "05-09-2025",
+            "nav": "211.63400"
+        },
+        {
+            "date": "04-09-2025",
+            "nav": "211.92000"
+        },
+        {
+            "date": "03-09-2025",
+            "nav": "213.15500"
+        },
+        {
+            "date": "02-09-2025",
+            "nav": "212.25300"
+        },
+        {
+            "date": "01-09-2025",
+            "nav": "211.76600"
+        },
+        {
+            "date": "29-08-2025",
+            "nav": "209.33500"
+        },
+        {
+            "date": "28-08-2025",
+            "nav": "210.11600"
+        },
+        {
+            "date": "26-08-2025",
+            "nav": "211.70800"
+        },
+        {
+            "date": "25-08-2025",
+            "nav": "213.97700"
+        },
+        {
+            "date": "22-08-2025",
+            "nav": "214.05500"
+        },
+        {
+            "date": "21-08-2025",
+            "nav": "214.33300"
+        },
+        {
+            "date": "20-08-2025",
+            "nav": "214.83700"
+        },
+        {
+            "date": "19-08-2025",
+            "nav": "213.95900"
+        },
+        {
+            "date": "18-08-2025",
+            "nav": "212.99000"
+        },
+        {
+            "date": "14-08-2025",
+            "nav": "210.61900"
+        },
+        {
+            "date": "13-08-2025",
+            "nav": "210.62000"
+        },
+        {
+            "date": "12-08-2025",
+            "nav": "209.87300"
+        },
+        {
+            "date": "11-08-2025",
+            "nav": "209.80800"
+        },
+        {
+            "date": "08-08-2025",
+            "nav": "208.66000"
+        },
+        {
+            "date": "07-08-2025",
+            "nav": "210.19600"
+        },
+        {
+            "date": "06-08-2025",
+            "nav": "209.07000"
+        },
+        {
+            "date": "05-08-2025",
+            "nav": "211.30300"
+        },
+        {
+            "date": "04-08-2025",
+            "nav": "212.02200"
+        },
+        {
+            "date": "01-08-2025",
+            "nav": "210.43300"
+        },
+        {
+            "date": "31-07-2025",
+            "nav": "213.54300"
+        },
+        {
+            "date": "30-07-2025",
+            "nav": "214.73300"
+        },
+        {
+            "date": "29-07-2025",
+            "nav": "214.36600"
+        },
+        {
+            "date": "28-07-2025",
+            "nav": "213.15200"
+        },
+        {
+            "date": "25-07-2025",
+            "nav": "214.19200"
+        },
+        {
+            "date": "24-07-2025",
+            "nav": "216.84700"
+        },
+        {
+            "date": "23-07-2025",
+            "nav": "217.84200"
+        },
+        {
+            "date": "22-07-2025",
+            "nav": "217.50200"
+        },
+        {
+            "date": "21-07-2025",
+            "nav": "218.20400"
+        },
+        {
+            "date": "18-07-2025",
+            "nav": "217.97900"
+        },
+        {
+            "date": "17-07-2025",
+            "nav": "218.85300"
+        },
+        {
+            "date": "16-07-2025",
+            "nav": "218.73400"
+        },
+        {
+            "date": "15-07-2025",
+            "nav": "218.59300"
+        },
+        {
+            "date": "14-07-2025",
+            "nav": "216.83500"
+        },
+        {
+            "date": "11-07-2025",
+            "nav": "215.90500"
+        },
+        {
+            "date": "10-07-2025",
+            "nav": "216.61200"
+        },
+        {
+            "date": "09-07-2025",
+            "nav": "217.44700"
+        },
+        {
+            "date": "08-07-2025",
+            "nav": "217.44600"
+        },
+        {
+            "date": "07-07-2025",
+            "nav": "217.42000"
+        },
+        {
+            "date": "04-07-2025",
+            "nav": "217.52900"
+        },
+        {
+            "date": "03-07-2025",
+            "nav": "216.55600"
+        },
+        {
+            "date": "02-07-2025",
+            "nav": "216.83400"
+        },
+        {
+            "date": "01-07-2025",
+            "nav": "216.60400"
+        },
+        {
+            "date": "30-06-2025",
+            "nav": "216.47400"
+        },
+        {
+            "date": "27-06-2025",
+            "nav": "214.42600"
+        },
+        {
+            "date": "26-06-2025",
+            "nav": "213.83100"
+        },
+        {
+            "date": "25-06-2025",
+            "nav": "212.70400"
+        },
+        {
+            "date": "24-06-2025",
+            "nav": "211.26600"
+        },
+        {
+            "date": "23-06-2025",
+            "nav": "209.36100"
+        },
+        {
+            "date": "20-06-2025",
+            "nav": "209.22600"
+        },
+        {
+            "date": "19-06-2025",
+            "nav": "207.64400"
+        },
+        {
+            "date": "18-06-2025",
+            "nav": "210.01600"
+        },
+        {
+            "date": "17-06-2025",
+            "nav": "210.13200"
+        },
+        {
+            "date": "16-06-2025",
+            "nav": "210.87400"
+        },
+        {
+            "date": "13-06-2025",
+            "nav": "209.04200"
+        },
+        {
+            "date": "12-06-2025",
+            "nav": "209.78300"
+        },
+        {
+            "date": "11-06-2025",
+            "nav": "212.55400"
+        },
+        {
+            "date": "10-06-2025",
+            "nav": "213.10900"
+        },
+        {
+            "date": "09-06-2025",
+            "nav": "212.97800"
+        },
+        {
+            "date": "06-06-2025",
+            "nav": "210.70500"
+        },
+        {
+            "date": "05-06-2025",
+            "nav": "209.24200"
+        },
+        {
+            "date": "04-06-2025",
+            "nav": "208.45900"
+        },
+        {
+            "date": "03-06-2025",
+            "nav": "207.52600"
+        },
+        {
+            "date": "02-06-2025",
+            "nav": "208.15400"
+        },
+        {
+            "date": "30-05-2025",
+            "nav": "206.90400"
+        },
+        {
+            "date": "29-05-2025",
+            "nav": "207.48000"
+        },
+        {
+            "date": "28-05-2025",
+            "nav": "207.16700"
+        },
+        {
+            "date": "27-05-2025",
+            "nav": "206.93100"
+        },
+        {
+            "date": "26-05-2025",
+            "nav": "206.69600"
+        },
+        {
+            "date": "23-05-2025",
+            "nav": "206.30200"
+        },
+        {
+            "date": "22-05-2025",
+            "nav": "205.02300"
+        },
+        {
+            "date": "21-05-2025",
+            "nav": "205.36300"
+        },
+        {
+            "date": "20-05-2025",
+            "nav": "203.77100"
+        },
+        {
+            "date": "19-05-2025",
+            "nav": "205.70800"
+        },
+        {
+            "date": "16-05-2025",
+            "nav": "205.19700"
+        },
+        {
+            "date": "15-05-2025",
+            "nav": "203.71300"
+        },
+        {
+            "date": "14-05-2025",
+            "nav": "202.60300"
+        },
+        {
+            "date": "13-05-2025",
+            "nav": "200.00300"
+        },
+        {
+            "date": "12-05-2025",
+            "nav": "199.46200"
+        },
+        {
+            "date": "09-05-2025",
+            "nav": "193.53300"
+        },
+        {
+            "date": "08-05-2025",
+            "nav": "194.01300"
+        },
+        {
+            "date": "07-05-2025",
+            "nav": "196.42800"
+        },
+        {
+            "date": "06-05-2025",
+            "nav": "194.53300"
+        },
+        {
+            "date": "05-05-2025",
+            "nav": "197.52300"
+        },
+        {
+            "date": "02-05-2025",
+            "nav": "194.99000"
+        },
+        {
+            "date": "30-04-2025",
+            "nav": "195.45000"
+        },
+        {
+            "date": "29-04-2025",
+            "nav": "196.38100"
+        },
+        {
+            "date": "28-04-2025",
+            "nav": "195.99900"
+        },
+        {
+            "date": "25-04-2025",
+            "nav": "194.24400"
+        },
+        {
+            "date": "24-04-2025",
+            "nav": "197.24100"
+        },
+        {
+            "date": "23-04-2025",
+            "nav": "197.12200"
+        },
+        {
+            "date": "22-04-2025",
+            "nav": "195.51000"
+        },
+        {
+            "date": "21-04-2025",
+            "nav": "194.35200"
+        },
+        {
+            "date": "17-04-2025",
+            "nav": "191.42100"
+        },
+        {
+            "date": "16-04-2025",
+            "nav": "190.17800"
+        },
+        {
+            "date": "15-04-2025",
+            "nav": "188.52900"
+        },
+        {
+            "date": "11-04-2025",
+            "nav": "183.57700"
+        },
+        {
+            "date": "09-04-2025",
+            "nav": "180.45000"
+        },
+        {
+            "date": "08-04-2025",
+            "nav": "181.74200"
+        },
+        {
+            "date": "07-04-2025",
+            "nav": "179.05600"
+        },
+        {
+            "date": "04-04-2025",
+            "nav": "184.71200"
+        },
+        {
+            "date": "03-04-2025",
+            "nav": "189.68100"
+        },
+        {
+            "date": "02-04-2025",
+            "nav": "189.78700"
+        },
+        {
+            "date": "01-04-2025",
+            "nav": "188.30000"
+        },
+        {
+            "date": "31-03-2025",
+            "nav": "190.72000"
+        },
+        {
+            "date": "28-03-2025",
+            "nav": "190.72600"
+        },
+        {
+            "date": "27-03-2025",
+            "nav": "191.29100"
+        },
+        {
+            "date": "26-03-2025",
+            "nav": "189.93600"
+        },
+        {
+            "date": "25-03-2025",
+            "nav": "191.35000"
+        },
+        {
+            "date": "24-03-2025",
+            "nav": "192.75700"
+        },
+        {
+            "date": "21-03-2025",
+            "nav": "190.67500"
+        },
+        {
+            "date": "20-03-2025",
+            "nav": "188.31500"
+        },
+        {
+            "date": "19-03-2025",
+            "nav": "186.66700"
+        },
+        {
+            "date": "18-03-2025",
+            "nav": "183.55000"
+        },
+        {
+            "date": "17-03-2025",
+            "nav": "179.94600"
+        },
+        {
+            "date": "13-03-2025",
+            "nav": "178.72000"
+        },
+        {
+            "date": "12-03-2025",
+            "nav": "180.44400"
+        },
+        {
+            "date": "11-03-2025",
+            "nav": "181.31800"
+        },
+        {
+            "date": "10-03-2025",
+            "nav": "181.34900"
+        }
+    ],
+    "mfapi_fund_house": "HDFC Mutual Fund",
+    "mfapi_scheme_type": "Open Ended Schemes",
+    "mfapi_scheme_category": "Equity Scheme - Mid Cap Fund",
+    "mfapi_scheme_name": "HDFC Mid Cap Fund - Growth Option - Direct Plan",
+    "previous_day_nav": "217.04500",
+    "nav_change_absolute": "₹-1.81",
+    "nav_change_pct": "-0.83%",
+    "taxation": {
+        "fund_tax_category": "Equity",
+        "stcg_tax_rate": "20%",
+        "stcg_holding_period": "Less than 12 months",
+        "ltcg_tax_rate": "12.5%",
+        "ltcg_holding_period": "More than 12 months",
+        "ltcg_exemption_limit": "₹1.25 lakh per financial year",
+        "indexation_benefit": "No",
+        "dividend_tax_treatment": "Taxed at investor's income tax slab rate",
+        "section_80c_eligible": "No",
+        "stt_applicable": "Yes",
+        "stamp_duty": "0.005%"
+    },
+    "sip_mechanics": {
+        "sip_available": "Yes",
+        "sip_frequencies": [
+            "Monthly",
+            "Quarterly"
+        ],
+        "sip_dates": [
+            1,
+            5,
+            10,
+            15,
+            20,
+            25
+        ],
+        "sip_min_amount": "₹100",
+        "sip_min_installments": 6,
+        "sip_pause_facility": "Yes",
+        "sip_step_up_facility": "Yes",
+        "perpetual_sip": "Yes"
+    },
+    "redemption_details": {
+        "lock_in_period": "No Lock-in",
+        "partial_redemption_allowed": "Yes",
+        "redemption_processing_time": "T+2 business days",
+        "cutoff_time_purchase": "3:00 PM (for same-day NAV)",
+        "cutoff_time_redemption": "3:00 PM (for same-day NAV)",
+        "settlement_type": "Direct credit to registered bank account",
+        "redemption_during_market_hours": "End-of-day NAV applicable",
+        "units_pledgeable": "Yes (subject to AMC terms)",
+        "exit_load_structure": {
+            "raw": "1.0%",
+            "pct": "1.0%",
+            "window": "Within 1 year of allotment",
+            "nil_beyond": "Yes, nil after 1 year",
+            "special_conditions": "Up to 10% of units can be redeemed without exit load within 1 year"
+        }
+    },
+    "guardrails": {
+        "guardrail_flags": {
+            "is_performance_question": "Respond with factual data only, no personal opinion or recommendation.",
+            "is_comparison_question": "Surface data side-by-side for comparison. Do not recommend one fund over another.",
+            "is_advisory_question": "This appears to be an investment advisory question. As per SEBI regulations, we cannot provide personalized investment advice. Please consult a SEBI-registered investment advisor.",
+            "contains_pii": "PII detected (PAN/Aadhaar/phone/email). This data will NOT be processed or stored."
+        },
+        "disclaimer_text": "Mutual fund investments are subject to market risks. Read all scheme-related documents carefully before investing. Past performance is not indicative of future results. The information provided is for educational purposes only and should not be construed as investment advice.",
+        "sebi_riskometer_label": "Very High Risk"
+    },
+    "sebi_investment_mandate": "Minimum 65% in mid-cap stocks (101st to 250th by market cap)"
+}

@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+langchain-groq
+python-dotenv
+langchain
+chromadb
+langchain-huggingface
+sentence-transformers
+rapidfuzz
+langchain-community
+langchain-classic
+playwright
+beautifulsoup4
