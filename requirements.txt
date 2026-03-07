@@ -4,7 +4,7 @@ pydantic
 langchain-groq
 python-dotenv
 langchain
-chromadb
+chromadb==0.4.24
 langchain-huggingface
 sentence-transformers
 rapidfuzz
