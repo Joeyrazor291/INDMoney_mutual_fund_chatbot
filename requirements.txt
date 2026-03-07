@@ -1,1 +1,17 @@
--r phase_4/backend/requirements.txt
+fastapi
+uvicorn
+pydantic
+langchain-groq
+python-dotenv
+langchain
+chromadb
+langchain-huggingface
+sentence-transformers
+rapidfuzz
+langchain-community
+langchain-classic
+playwright
+beautifulsoup4
+apscheduler
+langchain-chroma
+pysqlite3-binary
