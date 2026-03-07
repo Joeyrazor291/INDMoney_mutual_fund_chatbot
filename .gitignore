@@ -49,7 +49,7 @@ venv/
 ENV/
 
 # Data & Vectorstore
-/data/vectorstore/
+# /data/vectorstore/
 refresh_logs/
 *.log
 frontend.log*
