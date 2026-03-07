@@ -15,13 +15,32 @@ This project is organized into autonomous phases for ingestion, retrieval, and U
 
 ## Getting Started
 
-### 1. Backend
+### Prerequisites
+- Python 3.9+
+- Node.js 18+
+
+### 1. Backend Setup
 ```bash
-# From the root
+# Install dependencies
+pip install -r phase_4/backend/requirements.txt
+
+# Create .env file at the root
+# Add: GROQ_API_KEY=your_api_key_here
+```
+
+### 2. Initial Data Indexing (One-time)
+Since the vector database is local, you need to build it once from the processed JSON files:
+```bash
+py phase_1/chunker.py
+```
+
+### 3. Running the Project
+**Backend:**
+```bash
 py phase_4/backend/main.py
 ```
 
-### 2. Frontend
+**Frontend:**
 ```bash
 cd phase_4/frontend
 npm install
