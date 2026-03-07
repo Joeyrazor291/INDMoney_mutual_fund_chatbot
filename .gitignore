@@ -50,7 +50,7 @@ venv/
 ENV/
 
 # Data & Vectorstore
-data/vectorstore/
+# data/vectorstore/  # Commented out - need to include for Render deployment
 refresh_logs/
 *.log
 frontend.log*
