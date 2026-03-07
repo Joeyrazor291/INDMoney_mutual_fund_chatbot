@@ -11,18 +11,55 @@ BASE_DIR = Path(__file__).resolve().parent.parent.parent
 sys.path.append(str(BASE_DIR))
 
 from contextlib import asynccontextmanager
-from phase_3.main_rag import INDMoneyChatbot
-from phase_5.scheduler.manager import init_scheduler, shutdown_scheduler
+
+# Global variables to hold components
+chatbot = None
+init_scheduler = None
+shutdown_scheduler = None
+
+try:
+    from phase_3.main_rag import INDMoneyChatbot
+    from phase_5.scheduler.manager import init_scheduler, shutdown_scheduler
+    HAS_COMPONENTS = True
+except Exception as e:
+    print(f"CRITICAL ERROR during component import: {e}")
+    import traceback
+    traceback.print_exc()
+    HAS_COMPONENTS = False
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    # Startup: Initialize scheduler
-    print("DEBUG: Starting Phase 5 Data Refresh Scheduler...")
-    init_scheduler()
+    global chatbot
+    # Startup: Initialize RAG Engine and Scheduler
+    print("Initializing INDMoney Chatbot and Scheduler...")
+    
+    if HAS_COMPONENTS:
+        try:
+            # Initialize Chatbot
+            print("Loading Chatbot (Vectorstore & Model)...")
+            chatbot = INDMoneyChatbot()
+            print("Chatbot initialized successfully.")
+            
+            # Initialize Scheduler
+            print("Starting Phase 5 Data Refresh Scheduler...")
+            if init_scheduler:
+                init_scheduler()
+                print("Scheduler started.")
+        except Exception as e:
+            print(f"Error during component initialization: {e}")
+            import traceback
+            traceback.print_exc()
+    else:
+        print("Skipping component initialization due to import/load errors.")
+        
     yield
-    # Shutdown: Stop scheduler
-    print("DEBUG: Shutting down Phase 5 Scheduler...")
-    shutdown_scheduler()
+    # Shutdown
+    if HAS_COMPONENTS and shutdown_scheduler:
+        try:
+            print("Shutting down Scheduler...")
+            shutdown_scheduler()
+        except:
+            pass
 
 app = FastAPI(title="INDMoney MF Assistant API", lifespan=lifespan)
 
@@ -39,8 +76,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Initialize Chatbot
-chatbot = INDMoneyChatbot()
+# chatbot initialization moved to lifespan
 
 class ChatRequest(BaseModel):
     message: str
@@ -69,6 +105,8 @@ async def get_welcome():
 
 @app.post("/chat", response_model=ChatResponse)
 async def chat_endpoint(request: ChatRequest):
+    if not chatbot:
+        raise HTTPException(status_code=503, detail="AI Chatbot is not initialized (likely due to startup error)")
     try:
         # The main_rag.py INDMoneyChatbot.ask handles guardrails and llm generation
         response_text = chatbot.ask(request.message)
