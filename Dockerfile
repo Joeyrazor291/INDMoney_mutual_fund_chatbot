@@ -1,4 +1,4 @@
-FROM python:3.13-slim
+FROM python:3.11-slim
 
 WORKDIR /app
 
@@ -20,8 +20,7 @@ COPY phase_3/ ./phase_3/
 COPY phase_4/backend/ ./phase_4/backend/
 COPY phase_5/ ./phase_5/
 COPY data/ ./data/
-COPY .env .env
-
+# COPY .env .env
 # Expose port
 EXPOSE 8000
 
