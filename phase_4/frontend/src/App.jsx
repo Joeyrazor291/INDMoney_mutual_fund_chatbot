@@ -73,7 +73,8 @@ function App() {
     setLoading(true);
 
     try {
-      const response = await fetch("https://indmoney-backend-production.up.railway.app/chat", {
+      const API_URL = import.meta.env.VITE_API_URL || "http://localhost:8000";
+      const response = await fetch(`${API_URL}/chat`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ message: enrichedQuery }),
