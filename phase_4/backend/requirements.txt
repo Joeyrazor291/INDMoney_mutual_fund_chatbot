@@ -13,3 +13,5 @@ langchain-classic
 playwright
 beautifulsoup4
 apscheduler
+langchain-chroma
+pysqlite3-binary
