@@ -1,0 +1,54 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info
+dist
+build
+.venv
+venv
+ENV
+
+# Node
+node_modules
+phase_4/frontend/node_modules
+phase_4/frontend/dist
+phase_4/frontend/.vercel
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+
+# Logs
+*.log
+refresh_logs
+phase_4/frontend/*.log
+
+# Documentation
+README.md
+CHANGELOG.md
+LICENSE
+Architecture.md
+
+# Config files
+.railway_env
+railway.toml
+render.yaml
+nixpacks.toml
+vercel.json
+
+# Raw data (not needed at runtime)
+data/raw
+
+# Tests
+phase_3/test_integration_exhaustive.py
