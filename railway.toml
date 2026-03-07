@@ -1,8 +1,0 @@
-[build]
-builder = "nixpacks"
-buildCommand = "echo 'Skipping indexing, using pre-computed vector store'"
-
-[deploy]
-startCommand = "uvicorn phase_4.backend.main:app --host 0.0.0.0 --port $PORT"
-healthcheckPath = "/"
-restartPolicyType = "on_failure"

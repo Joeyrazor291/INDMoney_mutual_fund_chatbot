@@ -58,7 +58,7 @@ Open your browser and navigate to `http://localhost:5173`
 The frontend uses environment variables to configure the API URL:
 
 - **Local Development**: Uses `.env.local` (auto-created, points to `http://localhost:8000`)
-- **Production**: Uses `.env.production` (points to Railway deployment)
+- **Production**: Uses `.env.production` (points to your backend deployment)
 
 To switch environments:
 ```bash
@@ -87,7 +87,7 @@ curl http://localhost:8000/health
 - **Backend**: FastAPI, LangChain, ChromaDB, Groq LLM
 - **Frontend**: React, Vite, Lucide Icons
 - **Embeddings**: HuggingFace BGE-small-en-v1.5
-- **Deployment**: Railway (Backend), Vercel (Frontend)
+- **Deployment**: Vercel (Frontend)
 
 ## Features
 - ✅ Real-time mutual fund data retrieval
