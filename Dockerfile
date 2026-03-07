@@ -21,8 +21,9 @@ COPY phase_4/backend/ ./phase_4/backend/
 COPY phase_5/ ./phase_5/
 COPY data/ ./data/
 # COPY .env .env
-# Expose port
-EXPOSE 8000
+# Expose port (Render uses the PORT environment variable natively)
+ENV PORT=10000
+EXPOSE ${PORT}
 
-# Start command
-CMD ["uvicorn", "phase_4.backend.main:app", "--host", "0.0.0.0", "--port", "8000"]
+# Start command (using shell form to expand the PORT variable)
+CMD uvicorn phase_4.backend.main:app --host 0.0.0.0 --port ${PORT}
