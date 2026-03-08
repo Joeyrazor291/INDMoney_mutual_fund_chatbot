@@ -122,7 +122,9 @@ async def chat_endpoint(request: ChatRequest):
             citation_url=citation_url
         )
     except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
+        import traceback
+        traceback.print_exc()
+        raise HTTPException(status_code=500, detail=f"Backend Error: {str(e)}")
 
 if __name__ == "__main__":
     import uvicorn
