@@ -1,3 +1,12 @@
+---
+title: INDmoney Backend
+emoji: 📈
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+pinned: false
+app_port: 7860
+---
 # INDmoney Mutual Fund RAG Chatbot
 
 A high-fidelity Retrieval-Augmented Generation (RAG) chatbot focused on providing factual mutual fund data sourced from INDmoney and MFAPI.
