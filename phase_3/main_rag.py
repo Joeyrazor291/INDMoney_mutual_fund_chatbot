@@ -37,7 +37,7 @@ class INDMoneyChatbot:
 
         # 5. Generation
         print("Generating answer via Groq...")
-        answer = self.llm_engine.generate_answer(query, context_docs)
+        answer = self.llm_engine.generate_answer(query, context_docs, fund_slug)
         
         return answer
 

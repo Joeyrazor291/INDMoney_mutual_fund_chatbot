@@ -51,18 +51,24 @@ class GroqLLMEngine:
         ])
         self.chain = self.prompt | self.llm | StrOutputParser()
 
-    def generate_answer(self, query: str, context_docs: list):
+    def generate_answer(self, query: str, context_docs: list, fund_slug: str = None):
         # Format context and extract a unique citation link
         context_text = ""
         citation_link = "https://www.indmoney.com" # Fallback
         
-        # We'll take the citation from the first document that has a valid known slug
-        # as the first document is usually the most relevant.
-        for doc in context_docs:
-            context_text += f"\n--- CHUNK ---\n{doc.page_content}\n"
-            slug = doc.metadata.get("fund_slug")
-            if citation_link == "https://www.indmoney.com" and slug in FUND_CITATIONS:
-                citation_link = FUND_CITATIONS[slug]
+        if fund_slug and fund_slug in FUND_CITATIONS:
+            # If the query processor explicitly found a fund in the user query, use its citation directly
+            citation_link = FUND_CITATIONS[fund_slug]
+            for doc in context_docs:
+                context_text += f"\n--- CHUNK ---\n{doc.page_content}\n"
+        else:
+            # We'll take the citation from the first document that has a valid known slug
+            # as the first document is usually the most relevant.
+            for doc in context_docs:
+                context_text += f"\n--- CHUNK ---\n{doc.page_content}\n"
+                slug = doc.metadata.get("fund_slug")
+                if citation_link == "https://www.indmoney.com" and slug in FUND_CITATIONS:
+                    citation_link = FUND_CITATIONS[slug]
 
         # If we have a citation link, append it to the context so LLM can use it
         formatted_context = f"{context_text}\n\nIMPORTANT_CITATION_TO_USE: {citation_link}"
