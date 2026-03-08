@@ -29,40 +29,8 @@ except Exception as e:
     traceback.print_exc()
     HAS_COMPONENTS = False
 
-@asynccontextmanager
-async def lifespan(app: FastAPI):
-    global chatbot
-    # Startup: Initialize RAG Engine and Scheduler
-    print("Initializing INDMoney Chatbot and Scheduler...")
-    
-    if HAS_COMPONENTS:
-        try:
-            # We will lazily load Chatbot on the first request 
-            # to avoid blocking Uvicorn's startup and port binding on Render.
-            print("Chatbot will be lazy-loaded on the first request.")
-            
-            # Initialize Scheduler
-            print("Starting Phase 5 Data Refresh Scheduler...")
-            if init_scheduler:
-                init_scheduler()
-                print("Scheduler started.")
-        except Exception as e:
-            print(f"Error during component initialization: {e}")
-            import traceback
-            traceback.print_exc()
-    else:
-        print("Skipping component initialization due to import/load errors.")
-        
-    yield
-    # Shutdown
-    if HAS_COMPONENTS and shutdown_scheduler:
-        try:
-            print("Shutting down Scheduler...")
-            shutdown_scheduler()
-        except:
-            pass
-
-app = FastAPI(title="INDMoney MF Assistant API", lifespan=lifespan)
+# We will initialize everything on the first request to avoid blocking Uvicorn startup
+app = FastAPI(title="INDMoney MF Assistant API")
 
 @app.get("/")
 async def root():
@@ -117,6 +85,15 @@ async def chat_endpoint(request: ChatRequest):
     if not chatbot and HAS_COMPONENTS:
         print("Lazy loading INDMoney Chatbot... (this may take a moment)")
         chatbot = INDMoneyChatbot()
+        
+        # Initialize Scheduler here so it doesn't block Uvicorn startup
+        print("Starting Phase 5 Data Refresh Scheduler...")
+        try:
+            if init_scheduler:
+                init_scheduler()
+                print("Scheduler started.")
+        except Exception as e:
+            print(f"Error starting scheduler: {e}")
         
     if not chatbot:
         raise HTTPException(status_code=503, detail="AI Chatbot is not initialized (likely due to startup error)")
