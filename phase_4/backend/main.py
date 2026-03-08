@@ -35,10 +35,9 @@ async def lifespan(app: FastAPI):
     
     if HAS_COMPONENTS:
         try:
-            # Initialize Chatbot
-            print("Loading Chatbot (Vectorstore & Model)...")
-            chatbot = INDMoneyChatbot()
-            print("Chatbot initialized successfully.")
+            # We will lazily load Chatbot on the first request 
+            # to avoid blocking Uvicorn's startup and port binding on Render.
+            print("Chatbot will be lazy-loaded on the first request.")
             
             # Initialize Scheduler
             print("Starting Phase 5 Data Refresh Scheduler...")
@@ -105,6 +104,11 @@ async def get_welcome():
 
 @app.post("/chat", response_model=ChatResponse)
 async def chat_endpoint(request: ChatRequest):
+    global chatbot
+    if not chatbot and HAS_COMPONENTS:
+        print("Lazy loading INDMoney Chatbot... (this may take a moment)")
+        chatbot = INDMoneyChatbot()
+        
     if not chatbot:
         raise HTTPException(status_code=503, detail="AI Chatbot is not initialized (likely due to startup error)")
     try:
