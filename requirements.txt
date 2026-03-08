@@ -15,3 +15,4 @@ langchain-chroma
 pysqlite3-binary
 playwright
 beautifulsoup4
+rank_bm25
