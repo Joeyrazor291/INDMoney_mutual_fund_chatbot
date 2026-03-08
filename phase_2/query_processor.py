@@ -1,3 +1,4 @@
+import re
 from rapidfuzz import process, fuzz
 
 # Canonical fund list from Phase 1
@@ -25,12 +26,15 @@ def resolve_fund(query: str, threshold: int = 70):
     """
     Resolves the fund name mentioned in the query to a canonical slug.
     """
+    # Remove the front-end 'Focus funds' context for accurate matching of the user's specific request
+    clean_query = re.sub(r'\(Focus funds:.*?\)', '', query).strip()
+    
     best_match = None
     highest_score = 0
     
     for slug, aliases in FUND_MAPPING.items():
         # Check against each alias
-        match = process.extractOne(query, aliases, scorer=fuzz.partial_ratio)
+        match = process.extractOne(clean_query, aliases, scorer=fuzz.partial_ratio)
         if match and match[1] > highest_score:
             highest_score = match[1]
             best_match = slug
