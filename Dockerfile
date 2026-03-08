@@ -13,6 +13,9 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt \
     && rm -rf /root/.cache/pip
 
+# Install Playwright browser binaries (for the Phase 1 web scraper)
+RUN playwright install --with-deps chromium
+
 # Copy only necessary application files
 COPY phase_1/ ./phase_1/
 COPY phase_2/ ./phase_2/

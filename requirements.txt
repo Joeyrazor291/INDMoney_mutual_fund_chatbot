@@ -12,3 +12,5 @@ langchain-community
 apscheduler
 langchain-chroma
 pysqlite3-binary
+playwright
+beautifulsoup4

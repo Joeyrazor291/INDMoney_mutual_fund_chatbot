@@ -28,17 +28,6 @@ if not logger.handlers:
     ch.setFormatter(logging.Formatter("%(asctime)s - %(levelname)s - %(message)s"))
     logger.addHandler(ch)
 
-# Import phase modules
-try:
-    from phase_1.scraper import main as run_scraper_async
-    from phase_1.parser import main as run_parser
-    from phase_1.mfapi_fetcher import main as run_mfapi
-    from phase_1.static_metadata import main as run_static_metadata
-    from phase_1.chunker import process_and_store
-except ImportError as e:
-    logger.error(f"Failed to import Phase modules: {e}")
-    raise
-
 def daily_data_refresh():
     """
     Main task to refresh mutual fund data:
@@ -48,8 +37,18 @@ def daily_data_refresh():
     """
     logger.info("Starting scheduled daily data refresh...")
     
+    # Import phase modules locally so they don't crash the main API server at startup
     try:
-        # Step 1: Scrape
+        from phase_1.scraper import main as run_scraper_async
+        from phase_1.parser import main as run_parser
+        from phase_1.mfapi_fetcher import main as run_mfapi
+        from phase_1.static_metadata import main as run_static_metadata
+        from phase_1.chunker import process_and_store
+    except ImportError as e:
+        logger.error(f"Failed to import Phase modules inside scheduler task: {e}")
+        return
+    
+    try:        # Step 1: Scrape
         logger.info("Step 1: Scraping fund pages...")
         # Since scraper.main is async, we need to run it in an event loop
         try:
