@@ -1,8 +1,6 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
 # dependencies
-/node_modules
-/.pnp
+node_modules/
+.pnp
 .pnp.*
 .yarn/*
 !.yarn/patches
@@ -50,7 +48,8 @@ venv/
 ENV/
 
 # Data & Vectorstore
-# data/vectorstore/  # Commented out - need to include for Render deployment
+data/vectorstore/
+data/raw/
 refresh_logs/
 *.log
 frontend.log*
