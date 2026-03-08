@@ -5,7 +5,7 @@ pydantic-settings
 langchain-groq
 python-dotenv
 langchain
-chromadb
+chromadb>=0.5.0
 langchain-huggingface
 sentence-transformers
 rapidfuzz
