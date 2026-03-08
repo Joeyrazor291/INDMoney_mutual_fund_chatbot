@@ -13,6 +13,7 @@ sys.path.append(str(BASE_DIR))
 from contextlib import asynccontextmanager
 
 # Global variables to hold components
+startup_error = None
 chatbot = None
 init_scheduler = None
 shutdown_scheduler = None
@@ -24,6 +25,7 @@ try:
 except Exception as e:
     print(f"CRITICAL ERROR during component import: {e}")
     import traceback
+    startup_error = traceback.format_exc()
     traceback.print_exc()
     HAS_COMPONENTS = False
 
@@ -89,6 +91,13 @@ class ChatResponse(BaseModel):
 @app.get("/health")
 async def health_check():
     return {"status": "healthy"}
+
+@app.get("/debug")
+async def get_debug():
+    global startup_error
+    if startup_error:
+        return {"error": startup_error}
+    return {"status": "No startup errors detected"}
 
 @app.get("/welcome")
 async def get_welcome():
