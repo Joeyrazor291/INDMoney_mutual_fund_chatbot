@@ -1,10 +1,11 @@
 import os
 import sys
 from pathlib import Path
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, BackgroundTasks
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from typing import List, Optional
+from datetime import datetime, date
 
 # Add project root to sys.path to import phase_3 modules
 BASE_DIR = Path(__file__).resolve().parent.parent.parent
@@ -20,7 +21,8 @@ shutdown_scheduler = None
 
 try:
     from phase_3.main_rag import INDMoneyChatbot
-    from phase_5.scheduler.manager import init_scheduler, shutdown_scheduler
+    from phase_5.scheduler.manager import init_scheduler, shutdown_scheduler, scheduler
+    from phase_5.scheduler.tasks import daily_data_refresh
     HAS_COMPONENTS = True
 except Exception as e:
     print(f"CRITICAL ERROR during component import: {e}")
@@ -29,8 +31,53 @@ except Exception as e:
     traceback.print_exc()
     HAS_COMPONENTS = False
 
+def check_refresh_needed():
+    """Checks if a refresh is needed based on last_run.txt"""
+    last_run_file = BASE_DIR / "data" / "last_run.txt"
+    if not last_run_file.exists():
+        return True
+    try:
+        with open(last_run_file, "r") as f:
+            last_run_str = f.read().strip()
+            last_run_date = datetime.fromisoformat(last_run_str).date()
+            return last_run_date < date.today()
+    except Exception:
+        return True
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    # Startup logic
+    print("Starting background services...")
+    
+    # Initialize Scheduler immediately on boot
+    try:
+        if init_scheduler:
+            print("Starting Phase 5 Data Refresh Scheduler...")
+            init_scheduler()
+            print("Scheduler started successfully on boot.")
+            
+            # Check for missed run on boot
+            if HAS_COMPONENTS and check_refresh_needed():
+                print("Refresh needed on boot. Triggering background task...")
+                import threading
+                thread = threading.Thread(target=daily_data_refresh)
+                thread.start()
+    except Exception as e:
+        print(f"Error starting scheduler during lifespan: {e}")
+        
+    yield
+    
+    # Shutdown logic
+    print("Shutting down background services...")
+    try:
+        if shutdown_scheduler:
+            shutdown_scheduler()
+            print("Scheduler shut down cleanly.")
+    except Exception as e:
+        print(f"Error shutting down scheduler: {e}")
+
 # We will initialize everything on the first request to avoid blocking Uvicorn startup
-app = FastAPI(title="INDMoney MF Assistant API")
+app = FastAPI(title="INDMoney MF Assistant API", lifespan=lifespan)
 
 @app.get("/")
 async def root():
@@ -79,21 +126,41 @@ async def get_welcome():
         "note": "Facts-only. No investment advice."
     }
 
+@app.get("/debug/scheduler")
+async def get_scheduler_debug():
+    last_run_file = BASE_DIR / "data" / "last_run.txt"
+    last_run = "Never"
+    if last_run_file.exists():
+        last_run = last_run_file.read_text().strip()
+    
+    return {
+        "server_time": datetime.now().isoformat(),
+        "scheduler_running": scheduler.running if 'scheduler' in globals() else False,
+        "last_refresh": last_run,
+        "refresh_needed": check_refresh_needed(),
+        "jobs": [str(job) for job in scheduler.get_jobs()] if 'scheduler' in globals() else []
+    }
+
+@app.post("/scheduler/refresh")
+async def manual_refresh(background_tasks: BackgroundTasks):
+    if not HAS_COMPONENTS:
+         raise HTTPException(status_code=500, detail="Components not loaded")
+    background_tasks.add_task(daily_data_refresh)
+    return {"message": "Data refresh triggered in background"}
+
 @app.post("/chat", response_model=ChatResponse)
-async def chat_endpoint(request: ChatRequest):
+async def chat_endpoint(request: ChatRequest, background_tasks: BackgroundTasks):
     global chatbot
+    
+    # Check for missed run when a chat starts
+    if HAS_COMPONENTS and check_refresh_needed():
+        print("Refresh needed detected during chat. Triggering background task...")
+        background_tasks.add_task(daily_data_refresh)
+
     if not chatbot and HAS_COMPONENTS:
+        # Lazy loading INDMoney Chatbot...
         print("Lazy loading INDMoney Chatbot... (this may take a moment)")
         chatbot = INDMoneyChatbot()
-        
-        # Initialize Scheduler here so it doesn't block Uvicorn startup
-        print("Starting Phase 5 Data Refresh Scheduler...")
-        try:
-            if init_scheduler:
-                init_scheduler()
-                print("Scheduler started.")
-        except Exception as e:
-            print(f"Error starting scheduler: {e}")
         
     if not chatbot:
         raise HTTPException(status_code=503, detail="AI Chatbot is not initialized (likely due to startup error)")

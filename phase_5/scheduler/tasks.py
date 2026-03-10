@@ -76,10 +76,13 @@ def daily_data_refresh():
         logger.info("Step 4: Applying static rules and guardrails...")
         run_static_metadata()
         
-        # Step 5: Vector Store Sync
-        logger.info("Step 5: Updating vector store (clearing collection first)...")
-        process_and_store(clear_collection=True)
-        
+        # Step 6: Log Last Run Timestamp
+        last_run_file = BASE_DIR / "data" / "last_run.txt"
+        last_run_file.parent.mkdir(parents=True, exist_ok=True)
+        with open(last_run_file, "w") as f:
+            from datetime import datetime
+            f.write(datetime.now().isoformat())
+            
         logger.info("Daily data refresh completed successfully!")
     except Exception as e:
         logger.error(f"Daily refresh failed: {str(e)}", exc_info=True)

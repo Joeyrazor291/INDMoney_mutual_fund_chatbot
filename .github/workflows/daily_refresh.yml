@@ -1,0 +1,17 @@
+name: Daily Data Refresh
+
+on:
+  schedule:
+    # Run daily at 1:00 AM UTC (6:30 AM IST)
+    # This is after the internal 12:30 AM IST scheduler
+    - cron: '0 1 * * *'
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Data Refresh
+        run: |
+          curl -X POST https://indmoney-mutual-fund-chatbot.onrender.com/scheduler/refresh \
+               -H "Content-Type: application/json"
