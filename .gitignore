@@ -47,14 +47,6 @@ __pycache__/
 venv/
 ENV/
 
-# Data & Vectorstore
-data/vectorstore/
-data/raw/
-refresh_logs/
-*.log
-frontend.log*
-frontend_v*.log*
-
 # OS
 .DS_Store
 Thumbs.db

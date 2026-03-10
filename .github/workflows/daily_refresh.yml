@@ -13,6 +13,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -37,7 +39,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: automated daily data refresh [skip ci]"
-          file_pattern: "data/processed/*.json data/vectorstore/* data/last_run.txt refresh_logs/*.log"
+          file_pattern: "data/ refresh_logs/"
           commit_user_name: "GitHub Actions Bot"
           commit_user_email: "actions@github.com"
 
