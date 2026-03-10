@@ -45,19 +45,24 @@ jobs:
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
           
-          # Stage changes
+          # 1. Add Hugging Face as a remote
+          git remote add huggingface https://Joeyrazor291:$HF_TOKEN@huggingface.co/spaces/Joeyrazor/indmoney-backend.git
+          
+          # 2. Fetch Hugging Face history to avoid "shallow" and "unrelated" errors
+          git fetch huggingface main
+          
+          # 3. Stage and Commit new data
           git add data/ refresh_logs/
           
-          # Only commit if there are changes
           if ! git diff --cached --quiet; then
             git commit -m "chore: automated daily data refresh [skip ci]"
             
-            # Push to GitHub (origin)
+            # 4. Push to GitHub
             git push origin main
             
-            # Push to Hugging Face
-            # We use the full URL with token for authentication
-            git push --force https://Joeyrazor291:$HF_TOKEN@huggingface.co/spaces/Joeyrazor/indmoney-backend.git main:main
+            # 5. Push to Hugging Face (now with shared history)
+            git push --force huggingface main
           else
-            echo "No changes to commit"
+            # Even if no data changes, ensure HF is in sync with GitHub code
+            git push --force huggingface main
           fi
