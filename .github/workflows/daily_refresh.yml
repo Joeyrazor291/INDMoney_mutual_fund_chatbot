@@ -51,4 +51,5 @@ jobs:
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
-          git push --force https://Joeyrazor291:$HF_TOKEN@huggingface.co/spaces/Joeyrazor/indmoney-backend main
+          git fetch --unshallow || true
+          git push --force https://Joeyrazor291:$HF_TOKEN@huggingface.co/spaces/Joeyrazor/indmoney-backend.git main
