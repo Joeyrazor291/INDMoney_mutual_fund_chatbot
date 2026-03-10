@@ -40,3 +40,10 @@ jobs:
           file_pattern: "data/processed/*.json data/vectorstore/* data/last_run.txt refresh_logs/*.log"
           commit_user_name: "GitHub Actions Bot"
           commit_user_email: "actions@github.com"
+
+      - name: Sync to Hugging Face
+        if: success()
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          git push --force https://Joeyrazor291:$HF_TOKEN@huggingface.co/spaces/Joeyrazor/indmoney-backend main
