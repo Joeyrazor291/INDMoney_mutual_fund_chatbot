@@ -41,24 +41,22 @@ jobs:
       - name: Commit and Sync Changes
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          PYTHONPATH: ${{ github.workspace }}
         run: |
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
           
-          # Stage changes
+          # 1. Commit and Push data updates to GitHub (Standard limit is 100MB, so this is fine)
           git add data/ refresh_logs/
           
-          # Only commit if there are changes
           if ! git diff --cached --quiet; then
             git commit -m "chore: automated daily data refresh [skip ci]"
+            git pull origin main --rebase
+            git push origin main
+          else
+            echo "No data changes to commit to GitHub."
           fi
 
-          # Pull latest to avoid push failures
-          git pull origin main --rebase
-
-          # Push to GitHub (origin)
-          git push origin main
-          
-          # Push to Hugging Face
-          # Adding .git is essential to avoid "expected acknowledgments" (HTML response) error
-          git push --force https://Joeyrazor291:$HF_TOKEN@huggingface.co/spaces/Joeyrazor/indmoney-backend.git main:main
+          # 2. Sync to Hugging Face using the API (Handles large files and LFS automatically)
+          echo "Starting API-based sync to Hugging Face..."
+          python phase_5/scheduler/sync_to_hf.py
