@@ -11,8 +11,32 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
-      - name: Trigger Data Refresh
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Dependencies
         run: |
-          curl -X POST https://indmoney-mutual-fund-chatbot.onrender.com/scheduler/refresh \
-               -H "Content-Type: application/json" \
-               -s -S --max-time 10 || echo "Trigger sent (timeout expected but task should run in background)"
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Install Playwright Browsers
+        run: playwright install chromium
+
+      - name: Run Data Ingestion
+        run: python phase_5/scheduler/tasks.py
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: automated daily data refresh [skip ci]"
+          file_pattern: "data/processed/*.json data/vectorstore/* data/last_run.txt refresh_logs/*.log"
+          commit_user_name: "GitHub Actions Bot"
+          commit_user_email: "actions@github.com"

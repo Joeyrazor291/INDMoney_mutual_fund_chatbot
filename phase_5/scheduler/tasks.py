@@ -87,3 +87,6 @@ def daily_data_refresh():
     except Exception as e:
         logger.error(f"Daily refresh failed: {str(e)}", exc_info=True)
         raise e
+
+if __name__ == "__main__":
+    daily_data_refresh()
