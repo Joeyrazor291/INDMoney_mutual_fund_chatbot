@@ -1,11 +1,11 @@
 {
     "fund_name": "Aditya Birla Sun Life ELSS Tax Saver Fund",
-    "nav": "₹64.99",
-    "nav_date": "09 Mar 2026",
-    "nav_text": "Latest NAV for Aditya Birla Sun Life ELSS Tax Saver Fund as of 09 Mar 2026 is ₹64.99",
+    "nav": "₹65.71",
+    "nav_date": "10 Mar 2026",
+    "nav_text": "Latest NAV for Aditya Birla Sun Life ELSS Tax Saver Fund as of 10 Mar 2026 is ₹65.71",
     "nav_currency": "INR",
-    "one_day_change_pct": -1.7,
-    "inception_return": 13.69,
+    "one_day_change_pct": 1.1,
+    "inception_return": 13.79,
     "short_name": "Aditya Birla Sun Life ELSS Tax Saver Fund",
     "amc_name": "Aditya Birla Sun Life Mutual Fund",
     "fund_category": "Equity",
@@ -28,28 +28,28 @@
     "exit_load": "0%",
     "lock_in": "3 Years",
     "turnover": "27.43%",
-    "return_1m": "-7.46%",
-    "return_1m_benchmark": "-2.18%",
+    "return_1m": "-6.65%",
+    "return_1m_benchmark": "-2.47%",
     "return_1m_category_avg": "-6.85%",
     "return_1m_category_rank": "22/23",
-    "return_3m": "-6.64%",
-    "return_3m_benchmark": "-1.49%",
+    "return_3m": "-5.28%",
+    "return_3m_benchmark": "-1.03%",
     "return_3m_category_avg": "-6.62%",
     "return_3m_category_rank": "22/23",
-    "return_6m": "-4.44%",
-    "return_6m_benchmark": "0.95%",
+    "return_6m": "-3.83%",
+    "return_6m_benchmark": "0.4%",
     "return_6m_category_avg": "-5.05%",
     "return_6m_category_rank": "23/23",
-    "return_1y": "10.47%",
-    "return_1y_benchmark": "13.32%",
+    "return_1y": "12.69%",
+    "return_1y_benchmark": "14.31%",
     "return_1y_category_avg": "6.63%",
     "return_1y_category_rank": "23/23",
-    "return_3y": "14.81%",
-    "return_3y_benchmark": "16.1%",
+    "return_3y": "15.59%",
+    "return_3y_benchmark": "16.43%",
     "return_3y_category_avg": "14.72%",
     "return_3y_category_rank": "23/23",
-    "return_5y": "8.53%",
-    "return_5y_benchmark": "12.92%",
+    "return_5y": "8.75%",
+    "return_5y_benchmark": "12.79%",
     "return_5y_category_avg": "12.91%",
     "return_5y_category_rank": "--",
     "performance_highlight": "The fund has underperformed the benchmark (Nifty 500) over the last 1Y, 3Y, 5Y time periods.",
@@ -58,19 +58,19 @@
     "sharpe_3y": "0.86",
     "sortino_3y": "1.41",
     "info_ratio_3y": "-0.31",
-    "total_holdings_count": 58,
+    "total_holdings_count": 60,
     "holdings_count_breakdown": {
         "Equity Holdings": {
-            "count": 58,
-            "pct": 98.98813
+            "count": 60,
+            "pct": 99.29194
         }
     },
     "top_holdings": [
         {
             "name": "ICICI Bank Ltd",
             "sector": "Financial Services",
-            "shares": 9137798,
-            "allocation_pct": "8.26%",
+            "shares": 7747842,
+            "allocation_pct": "7.22%",
             "change_pct": "0%",
             "asset_class": "Equity"
         },
@@ -78,15 +78,7 @@
             "name": "HDFC Bank Ltd",
             "sector": "Financial Services",
             "shares": 11550504,
-            "allocation_pct": "7.16%",
-            "change_pct": "0%",
-            "asset_class": "Equity"
-        },
-        {
-            "name": "Infosys Ltd",
-            "sector": "Technology",
-            "shares": 4882452,
-            "allocation_pct": "5.34%",
+            "allocation_pct": "6.93%",
             "change_pct": "0%",
             "asset_class": "Equity"
         },
@@ -94,15 +86,23 @@
             "name": "Axis Bank Ltd",
             "sector": "Financial Services",
             "shares": 5060879,
-            "allocation_pct": "4.63%",
+            "allocation_pct": "4.74%",
             "change_pct": "0%",
             "asset_class": "Equity"
         },
         {
             "name": "State Bank of India",
             "sector": "Financial Services",
-            "shares": 6101415,
-            "allocation_pct": "4.38%",
+            "shares": 5501415,
+            "allocation_pct": "4.47%",
+            "change_pct": "0%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Infosys Ltd",
+            "sector": "Technology",
+            "shares": 5082452,
+            "allocation_pct": "4.47%",
             "change_pct": "0%",
             "asset_class": "Equity"
         },
@@ -110,7 +110,7 @@
             "name": "Reliance Industries Ltd",
             "sector": "Energy",
             "shares": 4260426,
-            "allocation_pct": "3.97%",
+            "allocation_pct": "4.02%",
             "change_pct": "0%",
             "asset_class": "Equity"
         },
@@ -118,7 +118,7 @@
             "name": "Bharti Airtel Ltd",
             "sector": "Communication Services",
             "shares": 2661864,
-            "allocation_pct": "3.5%",
+            "allocation_pct": "3.38%",
             "change_pct": "0%",
             "asset_class": "Equity"
         },
@@ -126,7 +126,15 @@
             "name": "Fortis Healthcare Ltd",
             "sector": "Healthcare",
             "shares": 4912331,
-            "allocation_pct": "2.79%",
+            "allocation_pct": "3.13%",
+            "change_pct": "0%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "sector": "Industrials",
+            "shares": 941782,
+            "allocation_pct": "2.72%",
             "change_pct": "0%",
             "asset_class": "Equity"
         },
@@ -134,15 +142,7 @@
             "name": "Mahindra & Mahindra Ltd",
             "sector": "Consumer Cyclical",
             "shares": 1184660,
-            "allocation_pct": "2.71%",
-            "change_pct": "0%",
-            "asset_class": "Equity"
-        },
-        {
-            "name": "Tech Mahindra Ltd",
-            "sector": "Technology",
-            "shares": 2301590,
-            "allocation_pct": "2.68%",
+            "allocation_pct": "2.72%",
             "change_pct": "0%",
             "asset_class": "Equity"
         }
@@ -150,39 +150,39 @@
     "asset_allocation": [
         {
             "name": "Equity",
-            "pct": "99%",
-            "pct_value": 99,
+            "pct": "99.3%",
+            "pct_value": 99.3,
             "breakdown_label": "Size breakup",
             "breakdown": [
                 {
                     "name": "Large cap",
-                    "pct": "70.4%",
-                    "value": 70.405
+                    "pct": "69.2%",
+                    "value": 69.181
                 },
                 {
                     "name": "Small cap",
                     "pct": "18.3%",
-                    "value": 18.284
+                    "value": 18.317
                 },
                 {
                     "name": "Mid cap",
-                    "pct": "10.3%",
-                    "value": 10.282
+                    "pct": "11.8%",
+                    "value": 11.782
                 }
             ]
         },
         {
             "name": "Debt & Cash",
-            "pct": "1%",
-            "pct_value": 1,
+            "pct": "0.7%",
+            "pct_value": 0.7,
             "breakdown_label": "Credit rating breakup",
             "breakdown": []
         }
     ],
     "market_cap_allocation": {
-        "large_cap_pct": "70.4%",
+        "large_cap_pct": "69.2%",
         "small_cap_pct": "18.3%",
-        "mid_cap_pct": "10.3%"
+        "mid_cap_pct": "11.8%"
     },
     "sector_allocation": [
         {

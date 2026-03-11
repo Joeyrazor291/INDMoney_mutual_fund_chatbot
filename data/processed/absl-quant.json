@@ -1,11 +1,11 @@
 {
     "fund_name": "Aditya Birla Sun Life Quant Fund",
-    "nav": "₹9.95",
-    "nav_date": "09 Mar 2026",
-    "nav_text": "Latest NAV for Aditya Birla Sun Life Quant Fund as of 09 Mar 2026 is ₹9.95",
+    "nav": "₹10.08",
+    "nav_date": "10 Mar 2026",
+    "nav_text": "Latest NAV for Aditya Birla Sun Life Quant Fund as of 10 Mar 2026 is ₹10.08",
     "nav_currency": "INR",
-    "one_day_change_pct": -2.4,
-    "inception_return": -0.3,
+    "one_day_change_pct": 1.3,
+    "inception_return": 0.47,
     "short_name": "Aditya Birla Sun Life Quant Fund",
     "amc_name": "Aditya Birla Sun Life Mutual Fund",
     "fund_category": "Equity",
@@ -28,28 +28,28 @@
     "exit_load": "0.5%",
     "lock_in": "No Lock-in",
     "turnover": "125.23%",
-    "return_1m": "-5.78%",
-    "return_1m_benchmark": "-2.18%",
+    "return_1m": "-4.64%",
+    "return_1m_benchmark": "-2.47%",
     "return_1m_category_avg": "--",
     "return_1m_category_rank": "N/A",
-    "return_3m": "-1.39%",
-    "return_3m_benchmark": "-1.49%",
+    "return_3m": "0.5%",
+    "return_3m_benchmark": "-1.03%",
     "return_3m_category_avg": "--",
     "return_3m_category_rank": "N/A",
-    "return_6m": "3.22%",
-    "return_6m_benchmark": "0.95%",
+    "return_6m": "4.35%",
+    "return_6m_benchmark": "0.4%",
     "return_6m_category_avg": "--",
     "return_6m_category_rank": "N/A",
-    "return_1y": "17.06%",
-    "return_1y_benchmark": "13.32%",
+    "return_1y": "19.71%",
+    "return_1y_benchmark": "14.31%",
     "return_1y_category_avg": "--",
     "return_1y_category_rank": "N/A",
     "return_3y": "--",
-    "return_3y_benchmark": "16.1%",
+    "return_3y_benchmark": "16.43%",
     "return_3y_category_avg": "--",
     "return_3y_category_rank": "N/A",
     "return_5y": "--",
-    "return_5y_benchmark": "12.92%",
+    "return_5y_benchmark": "12.79%",
     "return_5y_category_avg": "--",
     "return_5y_category_rank": "N/A",
     "performance_highlight": "The fund has outperformed the benchmark (Nifty 500) over 1Y, but underperformed over 3Y, 5Y.",
@@ -62,96 +62,96 @@
     "holdings_count_breakdown": {
         "Equity Holdings": {
             "count": 42,
-            "pct": 99.50372
+            "pct": 99.57652
         }
     },
     "top_holdings": [
         {
             "name": "State Bank of India",
             "sector": "Financial Services",
-            "shares": 941184,
-            "allocation_pct": "4.75%",
+            "shares": 922295,
+            "allocation_pct": "5.13%",
             "change_pct": "-4.9%",
             "asset_class": "Equity"
         },
         {
             "name": "Ashok Leyland Ltd",
             "sector": "Industrials",
-            "shares": 4898736,
-            "allocation_pct": "4.52%",
+            "shares": 4798153,
+            "allocation_pct": "4.69%",
             "change_pct": "-10.8%",
-            "asset_class": "Equity"
-        },
-        {
-            "name": "HDFC Bank Ltd",
-            "sector": "Financial Services",
-            "shares": 1009225,
-            "allocation_pct": "4.39%",
-            "change_pct": "0%",
             "asset_class": "Equity"
         },
         {
             "name": "The Federal Bank Ltd",
             "sector": "Financial Services",
             "shares": 3229600,
-            "allocation_pct": "4.35%",
+            "allocation_pct": "4.48%",
             "change_pct": "-9.7%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "sector": "Financial Services",
+            "shares": 1009225,
+            "allocation_pct": "4.15%",
+            "change_pct": "0%",
             "asset_class": "Equity"
         },
         {
             "name": "Marico Ltd",
             "sector": "Consumer Defensive",
             "shares": 1130787,
-            "allocation_pct": "3.87%",
+            "allocation_pct": "4.13%",
             "change_pct": "-2.3%",
             "asset_class": "Equity"
         },
         {
-            "name": "Hindalco Industries Ltd",
-            "sector": "Basic Materials",
-            "shares": 820951,
-            "allocation_pct": "3.7%",
-            "change_pct": "-3.8%",
-            "asset_class": "Equity"
-        },
-        {
-            "name": "UltraTech Cement Ltd",
-            "sector": "Basic Materials",
-            "shares": 61406,
-            "allocation_pct": "3.65%",
-            "change_pct": "0%",
-            "asset_class": "Equity"
-        },
-        {
-            "name": "Bharti Airtel Ltd",
-            "sector": "Communication Services",
-            "shares": 394967,
-            "allocation_pct": "3.64%",
-            "change_pct": "-4.7%",
-            "asset_class": "Equity"
-        },
-        {
-            "name": "Grasim Industries Ltd",
-            "sector": "Basic Materials",
-            "shares": 270785,
-            "allocation_pct": "3.58%",
-            "change_pct": "0%",
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "sector": "Healthcare",
+            "shares": 105687,
+            "allocation_pct": "3.82%",
+            "change_pct": "-2.6%",
             "asset_class": "Equity"
         },
         {
             "name": "TVS Motor Co Ltd",
             "sector": "Consumer Cyclical",
             "shares": 202699,
-            "allocation_pct": "3.49%",
+            "allocation_pct": "3.63%",
             "change_pct": "-2.5%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "UltraTech Cement Ltd",
+            "sector": "Basic Materials",
+            "shares": 61406,
+            "allocation_pct": "3.6%",
+            "change_pct": "0%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Hindalco Industries Ltd",
+            "sector": "Basic Materials",
+            "shares": 820951,
+            "allocation_pct": "3.51%",
+            "change_pct": "-3.8%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Grasim Industries Ltd",
+            "sector": "Basic Materials",
+            "shares": 270785,
+            "allocation_pct": "3.51%",
+            "change_pct": "0%",
             "asset_class": "Equity"
         }
     ],
     "asset_allocation": [
         {
             "name": "Equity",
-            "pct": "99.5%",
-            "pct_value": 99.5,
+            "pct": "99.6%",
+            "pct_value": 99.6,
             "breakdown_label": "Size breakup",
             "breakdown": [
                 {

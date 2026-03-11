@@ -1,11 +1,11 @@
 {
     "fund_name": "HDFC Flexi Cap Fund",
-    "nav": "₹2137.68",
-    "nav_date": "09 Mar 2026",
-    "nav_text": "Latest NAV for HDFC Flexi Cap Fund as of 09 Mar 2026 is ₹2137.68",
+    "nav": "₹2167.68",
+    "nav_date": "10 Mar 2026",
+    "nav_text": "Latest NAV for HDFC Flexi Cap Fund as of 10 Mar 2026 is ₹2167.68",
     "nav_currency": "INR",
-    "one_day_change_pct": -2,
-    "inception_return": 16.15,
+    "one_day_change_pct": 1.4,
+    "inception_return": 16.27,
     "short_name": "HDFC Flexi Cap Fund",
     "amc_name": "HDFC Mutual Fund",
     "fund_category": "Equity",
@@ -28,28 +28,28 @@
     "exit_load": "1.0%",
     "lock_in": "No Lock-in",
     "turnover": "26.57%",
-    "return_1m": "-6.4%",
-    "return_1m_benchmark": "-2.18%",
+    "return_1m": "-5.48%",
+    "return_1m_benchmark": "-2.47%",
     "return_1m_category_avg": "-6.67%",
     "return_1m_category_rank": "1/22",
-    "return_3m": "-5.25%",
-    "return_3m_benchmark": "-1.49%",
+    "return_3m": "-3.7%",
+    "return_3m_benchmark": "-1.03%",
     "return_3m_category_avg": "-6.35%",
     "return_3m_category_rank": "1/22",
-    "return_6m": "-2.52%",
-    "return_6m_benchmark": "0.95%",
+    "return_6m": "-1.44%",
+    "return_6m_benchmark": "0.4%",
     "return_6m_category_avg": "-5.3%",
     "return_6m_category_rank": "1/21",
-    "return_1y": "11.08%",
-    "return_1y_benchmark": "13.32%",
+    "return_1y": "13.11%",
+    "return_1y_benchmark": "14.31%",
     "return_1y_category_avg": "7.42%",
     "return_1y_category_rank": "2/20",
-    "return_3y": "20.42%",
-    "return_3y_benchmark": "16.1%",
+    "return_3y": "21.33%",
+    "return_3y_benchmark": "16.43%",
     "return_3y_category_avg": "15.03%",
     "return_3y_category_rank": "5/18",
-    "return_5y": "19.31%",
-    "return_5y_benchmark": "12.92%",
+    "return_5y": "19.51%",
+    "return_5y_benchmark": "12.79%",
     "return_5y_category_avg": "12.83%",
     "return_5y_category_rank": "--",
     "performance_highlight": "The fund has outperformed the benchmark (Nifty 500) over 3Y, 5Y, but underperformed over 1Y.",
@@ -58,15 +58,15 @@
     "sharpe_3y": "1.53",
     "sortino_3y": "3.19",
     "info_ratio_3y": "1.41",
-    "total_holdings_count": 53,
+    "total_holdings_count": 61,
     "holdings_count_breakdown": {
         "Equity Holdings": {
-            "count": 50,
-            "pct": 84.44426
+            "count": 58,
+            "pct": 92.69372
         },
         "Debt Holdings": {
             "count": 3,
-            "pct": 15.55574
+            "pct": 7.3062700000000005
         }
     },
     "top_holdings": [
@@ -74,15 +74,7 @@
             "name": "ICICI Bank Ltd",
             "sector": "Financial Services",
             "shares": 64000000,
-            "allocation_pct": "8.9%",
-            "change_pct": "0%",
-            "asset_class": "Equity"
-        },
-        {
-            "name": "HDFC Bank Ltd",
-            "sector": "Financial Services",
-            "shares": 82000000,
-            "allocation_pct": "7.82%",
+            "allocation_pct": "8.78%",
             "change_pct": "0%",
             "asset_class": "Equity"
         },
@@ -90,7 +82,15 @@
             "name": "Axis Bank Ltd",
             "sector": "Financial Services",
             "shares": 54000000,
-            "allocation_pct": "7.59%",
+            "allocation_pct": "7.44%",
+            "change_pct": "0%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "sector": "Financial Services",
+            "shares": 82000000,
+            "allocation_pct": "7.25%",
             "change_pct": "0%",
             "asset_class": "Equity"
         },
@@ -98,7 +98,7 @@
             "name": "State Bank of India",
             "sector": "Financial Services",
             "shares": 44000000,
-            "allocation_pct": "4.86%",
+            "allocation_pct": "5.26%",
             "change_pct": "0%",
             "asset_class": "Equity"
         },
@@ -106,7 +106,7 @@
             "name": "SBI Life Insurance Co Ltd",
             "sector": "Financial Services",
             "shares": 20000000,
-            "allocation_pct": "4.1%",
+            "allocation_pct": "4.06%",
             "change_pct": "0%",
             "asset_class": "Equity"
         },
@@ -114,15 +114,15 @@
             "name": "Kotak Mahindra Bank Ltd",
             "sector": "Financial Services",
             "shares": 91000000,
-            "allocation_pct": "3.81%",
+            "allocation_pct": "3.76%",
             "change_pct": "0%",
             "asset_class": "Equity"
         },
         {
-            "name": "HCL Technologies Ltd",
-            "sector": "Technology",
-            "shares": 18000000,
-            "allocation_pct": "3.13%",
+            "name": "Bharti Airtel Ltd",
+            "sector": "Communication Services",
+            "shares": 16349344,
+            "allocation_pct": "3.06%",
             "change_pct": "0%",
             "asset_class": "Equity"
         },
@@ -130,23 +130,23 @@
             "name": "Maruti Suzuki India Ltd",
             "sector": "Consumer Cyclical",
             "shares": 2000000,
-            "allocation_pct": "3%",
+            "allocation_pct": "2.96%",
             "change_pct": "0%",
             "asset_class": "Equity"
         },
         {
-            "name": "Cipla Ltd",
-            "sector": "Healthcare",
-            "shares": 21000000,
+            "name": "HCL Technologies Ltd",
+            "sector": "Technology",
+            "shares": 21249649,
+            "allocation_pct": "2.94%",
+            "change_pct": "0%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "sector": "Industrials",
+            "shares": 6685418,
             "allocation_pct": "2.85%",
-            "change_pct": "0%",
-            "asset_class": "Equity"
-        },
-        {
-            "name": "Power Grid Corp Of India Ltd",
-            "sector": "Utilities",
-            "shares": 91000000,
-            "allocation_pct": "2.4%",
             "change_pct": "0%",
             "asset_class": "Equity"
         }
@@ -154,8 +154,8 @@
     "asset_allocation": [
         {
             "name": "Equity",
-            "pct": "84.4%",
-            "pct_value": 84.4,
+            "pct": "92.7%",
+            "pct_value": 92.7,
             "breakdown_label": "Size breakup",
             "breakdown": [
                 {
@@ -177,8 +177,8 @@
         },
         {
             "name": "Debt & Cash",
-            "pct": "15.6%",
-            "pct_value": 15.6,
+            "pct": "7.3%",
+            "pct_value": 7.3,
             "breakdown_label": "Credit rating breakup",
             "breakdown": [
                 {
