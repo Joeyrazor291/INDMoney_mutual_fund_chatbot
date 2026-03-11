@@ -277,7 +277,7 @@
     "ranking_cons": [
         "Has not generated consistent returns"
     ],
-    "about": "About Aditya Birla Sun Life ELSS Tax Saver Fund Aditya Birla Sun Life ELSS Tax Saver Fund is an equity fund. This fund was started on 1 January, 2013. The fund is managed by Dhaval Shah. The fund could potentially beat inflation in the long-run. Key Parameters Aditya Birla Sun Life ELSS Tax Saver Fund has ₹14993 Cr worth of assets under management (AUM) as on Feb 2026 and is more than category average. The fund has an expense ratio 1. Returns Aditya Birla Sun Life ELSS Tax Saver Fund has given a CAGR return of 13.69% since inception. Over the last 1, 3 and 5 years the fund has given a CAGR return of 10.47%, 14.81% and 8.53% respectively. Holdings Aditya Birla Sun Life ELSS Tax Saver Fund has allocated its funds majorly in Cash Equivalent, Financial Services, Consumer Cyclical, Tech, Health, Consumer Defensive, Industrial, Basic Materials, Energy, Communication, Utilities, Real Estate. Its top holdings are ICICI Bank Ltd, HDFC Bank Ltd, Infosys Ltd, Axis Bank Ltd, State Bank of India Taxation As it is a elss (tax savings) mutual fund the taxation is as follows: For short term (less than a year) capital gains will be taxed at 20% For long term (more than 1 year) capital gains will be taxed at 12.5% without indexation benefit Dividends will always be taxed at slab rate. Long term gains upto Rs 1 lakh are exempt capital gains tax. Investment objective of Aditya Birla Sun Life ELSS Tax Saver Fund An Open-ended equity linked savings scheme (ELSS) with the objective of long term growth of capital through a portfolio with a target allocation of 80% equity,\n20% debt and money market securities. Minimum Investment and lockin period Minimum investment for lump sum payment is INR 500.00 and for SIP is INR 500.00. There is a lock in period for Aditya Birla Sun Life ELSS Tax Saver Fund of 3 Years Know more about Aditya Birla Sun Life ELSS Tax Saver Fund Fund Manager Dhaval Shah Fund Manager of  Aditya Birla Sun Life ELSS Tax Saver Fund, since 31 October 2024 Learn more about Aditya Birla Sun Life Mutual Fund AUM Change All changes are between Nov'25 and Jan'26 Parameters Jan'26 Dec'25 Nov'25 AUM ₹ 15K Cr ₹ 15.7K Cr ₹ 15.7K Cr AUM of the fund stands at 15K Cr as of Jan'26 AUM decreased by 698 Cr  between Jan'26 and Dec'25",
+    "about": "About Aditya Birla Sun Life ELSS Tax Saver Fund Aditya Birla Sun Life ELSS Tax Saver Fund is an equity fund. This fund was started on 1 January, 2013. The fund is managed by Dhaval Shah. The fund could potentially beat inflation in the long-run. Key Parameters Aditya Birla Sun Life ELSS Tax Saver Fund has ₹14993 Cr worth of assets under management (AUM) as on Feb 2026 and is more than category average. The fund has an expense ratio 1. Returns Aditya Birla Sun Life ELSS Tax Saver Fund has given a CAGR return of 13.79% since inception. Over the last 1, 3 and 5 years the fund has given a CAGR return of 12.69%, 15.59% and 8.75% respectively. Holdings Aditya Birla Sun Life ELSS Tax Saver Fund has allocated its funds majorly in Cash Equivalent, Financial Services, Consumer Cyclical, Tech, Health, Consumer Defensive, Industrial, Basic Materials, Energy, Communication, Utilities, Real Estate. Its top holdings are ICICI Bank Ltd, HDFC Bank Ltd, Axis Bank Ltd, State Bank of India, Infosys Ltd Taxation As it is a elss (tax savings) mutual fund the taxation is as follows: For short term (less than a year) capital gains will be taxed at 20% For long term (more than 1 year) capital gains will be taxed at 12.5% without indexation benefit Dividends will always be taxed at slab rate. Long term gains upto Rs 1 lakh are exempt capital gains tax. Investment objective of Aditya Birla Sun Life ELSS Tax Saver Fund An Open-ended equity linked savings scheme (ELSS) with the objective of long term growth of capital through a portfolio with a target allocation of 80% equity,\n20% debt and money market securities. Minimum Investment and lockin period Minimum investment for lump sum payment is INR 500.00 and for SIP is INR 500.00. There is a lock in period for Aditya Birla Sun Life ELSS Tax Saver Fund of 3 Years Know more about Aditya Birla Sun Life ELSS Tax Saver Fund Fund Manager Dhaval Shah Fund Manager of  Aditya Birla Sun Life ELSS Tax Saver Fund, since 31 October 2024 Learn more about Aditya Birla Sun Life Mutual Fund AUM Change All changes are between Nov'25 and Jan'26 Parameters Jan'26 Dec'25 Nov'25 AUM ₹ 15K Cr ₹ 15.7K Cr ₹ 15.7K Cr AUM of the fund stands at 15K Cr as of Jan'26 AUM decreased by 698 Cr  between Jan'26 and Dec'25",
     "fund_managers": "Dhaval Shah",
     "fund_managers_detail": [
         {
@@ -324,6 +324,10 @@
     "number_of_folios": null,
     "country_allocation": null,
     "historical_nav": [
+        {
+            "date": "10-03-2026",
+            "nav": "65.71000"
+        },
         {
             "date": "09-03-2026",
             "nav": "64.99000"
@@ -1295,19 +1299,15 @@
         {
             "date": "12-03-2025",
             "nav": "58.00000"
-        },
-        {
-            "date": "11-03-2025",
-            "nav": "58.27000"
         }
     ],
     "mfapi_fund_house": "Aditya Birla Sun Life Mutual Fund",
     "mfapi_scheme_type": "Open Ended Schemes",
     "mfapi_scheme_category": "Equity Scheme - ELSS",
     "mfapi_scheme_name": "Aditya Birla Sun Life ELSS Tax Saver Fund - Growth - Direct Plan",
-    "previous_day_nav": "66.12000",
-    "nav_change_absolute": "₹-1.13",
-    "nav_change_pct": "-1.71%",
+    "previous_day_nav": "64.99000",
+    "nav_change_absolute": "₹0.72",
+    "nav_change_pct": "1.11%",
     "taxation": {
         "fund_tax_category": "Equity",
         "stcg_tax_rate": "20%",

@@ -255,7 +255,7 @@
     "ranking_scores": {},
     "ranking_pros": [],
     "ranking_cons": [],
-    "about": "About Aditya Birla Sun Life Quant Fund Aditya Birla Sun Life Quant Fund is an equity fund. This fund was started on 28 June, 2024. The fund is managed by Harish Krishnan. The fund could potentially beat inflation in the long-run. Key Parameters Aditya Birla Sun Life Quant Fund has ₹2134 Cr worth of assets under management (AUM) as on Feb 2026 and is more than category average. The fund has an expense ratio 0.7. Returns Aditya Birla Sun Life Quant Fund has given a CAGR return of -0.30% since inception. Over the last 1 year the fund has given a CAGR return of 17.06%. Holdings Aditya Birla Sun Life Quant Fund has allocated its funds majorly in Cash Equivalent, Financial Services, Basic Materials, Consumer Cyclical, Consumer Defensive, Health, Industrial, Corporate, Energy, Communication, Tech. Its top holdings are State Bank of India, Ashok Leyland Ltd, HDFC Bank Ltd, The Federal Bank Ltd, Marico Ltd Taxation As it is a equity - other mutual fund the taxation is as follows: For short term (less than a year) capital gains will be taxed at 20% For long term (more than 1 year) capital gains will be taxed at 12.5% without indexation benefit Dividends will always be taxed at slab rate. Long term gains upto Rs 1 lakh are exempt capital gains tax. Investment objective of Aditya Birla Sun Life Quant Fund The investment objective of the Scheme is to generate long term capital appreciation by investing in equity and equity related securities based on quant model theme . The Scheme does not guarantee/indicate any returns. There is no assurance that the investment objective of the Scheme will be achieved. Minimum Investment and lockin period Minimum investment for lump sum payment is INR 500.00 and for SIP is INR 500.00. Aditya Birla Sun Life Quant Fund has no lock in period. Know more about Aditya Birla Sun Life Quant Fund Fund Manager Harish Krishnan Fund Manager of  Aditya Birla Sun Life Quant Fund, since 28 June 2024 Learn more about Aditya Birla Sun Life Mutual Fund AUM Change All changes are between Nov'25 and Jan'26 Parameters Jan'26 Dec'25 Nov'25 AUM ₹ 2.1K Cr ₹ 2.3K Cr ₹ 2.4K Cr AUM of the fund stands at 2.1K Cr as of Jan'26 AUM decreased by 116.2 Cr  between Jan'26 and Dec'25",
+    "about": "About Aditya Birla Sun Life Quant Fund Aditya Birla Sun Life Quant Fund is an equity fund. This fund was started on 28 June, 2024. The fund is managed by Harish Krishnan. The fund could potentially beat inflation in the long-run. Key Parameters Aditya Birla Sun Life Quant Fund has ₹2134 Cr worth of assets under management (AUM) as on Feb 2026 and is more than category average. The fund has an expense ratio 0.7. Returns Aditya Birla Sun Life Quant Fund has given a CAGR return of 0.47% since inception. Over the last 1 year the fund has given a CAGR return of 19.71%. Holdings Aditya Birla Sun Life Quant Fund has allocated its funds majorly in Cash Equivalent, Financial Services, Basic Materials, Consumer Cyclical, Consumer Defensive, Health, Corporate, Industrial, Energy, Communication, Tech. Its top holdings are State Bank of India, Ashok Leyland Ltd, The Federal Bank Ltd, HDFC Bank Ltd, Marico Ltd Taxation As it is a equity - other mutual fund the taxation is as follows: For short term (less than a year) capital gains will be taxed at 20% For long term (more than 1 year) capital gains will be taxed at 12.5% without indexation benefit Dividends will always be taxed at slab rate. Long term gains upto Rs 1 lakh are exempt capital gains tax. Investment objective of Aditya Birla Sun Life Quant Fund The investment objective of the Scheme is to generate long term capital appreciation by investing in equity and equity related securities based on quant model theme . The Scheme does not guarantee/indicate any returns. There is no assurance that the investment objective of the Scheme will be achieved. Minimum Investment and lockin period Minimum investment for lump sum payment is INR 500.00 and for SIP is INR 500.00. Aditya Birla Sun Life Quant Fund has no lock in period. Know more about Aditya Birla Sun Life Quant Fund Fund Manager Harish Krishnan Fund Manager of  Aditya Birla Sun Life Quant Fund, since 28 June 2024 Learn more about Aditya Birla Sun Life Mutual Fund AUM Change All changes are between Nov'25 and Jan'26 Parameters Jan'26 Dec'25 Nov'25 AUM ₹ 2.1K Cr ₹ 2.3K Cr ₹ 2.4K Cr AUM of the fund stands at 2.1K Cr as of Jan'26 AUM decreased by 116.2 Cr  between Jan'26 and Dec'25",
     "fund_managers": "Harish Krishnan",
     "fund_managers_detail": [
         {
@@ -302,6 +302,10 @@
     "number_of_folios": null,
     "country_allocation": null,
     "historical_nav": [
+        {
+            "date": "10-03-2026",
+            "nav": "10.08000"
+        },
         {
             "date": "09-03-2026",
             "nav": "9.95000"
@@ -1273,19 +1277,15 @@
         {
             "date": "12-03-2025",
             "nav": "8.47000"
-        },
-        {
-            "date": "11-03-2025",
-            "nav": "8.46000"
         }
     ],
     "mfapi_fund_house": "Aditya Birla Sun Life Mutual Fund",
     "mfapi_scheme_type": "Open Ended Schemes",
     "mfapi_scheme_category": "Equity Scheme - Sectoral/ Thematic",
     "mfapi_scheme_name": "Aditya Birla Sun Life Quant Fund - Direct Growth",
-    "previous_day_nav": "10.19000",
-    "nav_change_absolute": "₹-0.24",
-    "nav_change_pct": "-2.36%",
+    "previous_day_nav": "9.95000",
+    "nav_change_absolute": "₹0.13",
+    "nav_change_pct": "1.31%",
     "taxation": {
         "fund_tax_category": "Equity",
         "stcg_tax_rate": "20%",
