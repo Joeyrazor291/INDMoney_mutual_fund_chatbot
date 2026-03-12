@@ -1,8 +1,8 @@
 {
     "fund_name": "HDFC Flexi Cap Fund",
-    "nav": "₹2167.68",
-    "nav_date": "10 Mar 2026",
-    "nav_text": "Latest NAV for HDFC Flexi Cap Fund as of 10 Mar 2026 is ₹2167.68",
+    "nav": "₹2135.47",
+    "nav_date": "11 Mar 2026",
+    "nav_text": "Latest NAV for HDFC Flexi Cap Fund as of 11 Mar 2026 is ₹2135.47",
     "nav_currency": "INR",
     "one_day_change_pct": 1.4,
     "inception_return": 16.27,
@@ -20,7 +20,7 @@
     "fund_objective": "<p>HDFC Flexi Cap is a&nbsp;<a href=\"https://www.indmoney.com/mutual-funds/equity/flexi-cap\">flexi-cap mutual fund</a>&nbsp;launched on 1st January 1995. These funds follow a diversified equity investment strategy where they invest in companies across all market captialization and adjust allocations based on market conditions. The fund uses&nbsp;<a href=\"https://www.indmoney.com/indices/nifty-500\">Nifty 500</a>&nbsp;TRI as its benchmark. Nifty 500 represents the broader market and helps the fund compare its returns with those of other companies</p>\n<p>&nbsp;</p>\n<p><a href=\"https://www.indmoney.com/mutual-funds/amc/hdfc-mutual-fund\">HDFC Mutual Fund</a>&nbsp;follows a&nbsp;<strong>bottom-up approach</strong>, which involves paying attention to individual businesses instead of macroeconomic factors. They also pay close attention to&nbsp;<strong>Quantitative&nbsp;</strong>(Growth, Cash Flows, Risks) and&nbsp;<strong>Qualitative&nbsp;</strong>(Management, Track Record, Insights) aspects o",
     "expense_ratio": "0.67%",
     "benchmark": "Nifty 500",
-    "aum": "97,452Cr",
+    "aum": "1,00,455Cr",
     "inception_date": "1 January, 2013",
     "min_lumpsum_sip": "₹100/₹100",
     "min_lumpsum_amount": "₹100",
@@ -30,27 +30,27 @@
     "turnover": "26.57%",
     "return_1m": "-5.48%",
     "return_1m_benchmark": "-2.47%",
-    "return_1m_category_avg": "-6.67%",
+    "return_1m_category_avg": "-5.72%",
     "return_1m_category_rank": "1/22",
     "return_3m": "-3.7%",
     "return_3m_benchmark": "-1.03%",
-    "return_3m_category_avg": "-6.35%",
+    "return_3m_category_avg": "-4.54%",
     "return_3m_category_rank": "1/22",
     "return_6m": "-1.44%",
     "return_6m_benchmark": "0.4%",
-    "return_6m_category_avg": "-5.3%",
+    "return_6m_category_avg": "-4.51%",
     "return_6m_category_rank": "1/21",
     "return_1y": "13.11%",
     "return_1y_benchmark": "14.31%",
-    "return_1y_category_avg": "7.42%",
+    "return_1y_category_avg": "10.04%",
     "return_1y_category_rank": "2/20",
     "return_3y": "21.33%",
     "return_3y_benchmark": "16.43%",
-    "return_3y_category_avg": "15.03%",
+    "return_3y_category_avg": "15.93%",
     "return_3y_category_rank": "5/18",
     "return_5y": "19.51%",
     "return_5y_benchmark": "12.79%",
-    "return_5y_category_avg": "12.83%",
+    "return_5y_category_avg": "12.99%",
     "return_5y_category_rank": "--",
     "performance_highlight": "The fund has outperformed the benchmark (Nifty 500) over 3Y, 5Y, but underperformed over 1Y.",
     "alpha_3y": "6.94",
@@ -160,18 +160,18 @@
             "breakdown": [
                 {
                     "name": "Large cap",
-                    "pct": "70.3%",
-                    "value": 70.266
-                },
-                {
-                    "name": "Small cap",
-                    "pct": "7.6%",
-                    "value": 7.604
+                    "pct": "75.7%",
+                    "value": 75.688
                 },
                 {
                     "name": "Mid cap",
-                    "pct": "4.3%",
-                    "value": 4.252
+                    "pct": "7.4%",
+                    "value": 7.39
+                },
+                {
+                    "name": "Small cap",
+                    "pct": "7.3%",
+                    "value": 7.325
                 }
             ]
         },
@@ -190,9 +190,9 @@
         }
     ],
     "market_cap_allocation": {
-        "large_cap_pct": "70.3%",
-        "small_cap_pct": "7.6%",
-        "mid_cap_pct": "4.3%"
+        "large_cap_pct": "75.7%",
+        "mid_cap_pct": "7.4%",
+        "small_cap_pct": "7.3%"
     },
     "sector_allocation": [
         {
@@ -344,6 +344,10 @@
     "number_of_folios": null,
     "country_allocation": null,
     "historical_nav": [
+        {
+            "date": "11-03-2026",
+            "nav": "2135.47000"
+        },
         {
             "date": "10-03-2026",
             "nav": "2167.68100"
@@ -1315,19 +1319,15 @@
         {
             "date": "13-03-2025",
             "nav": "1908.99300"
-        },
-        {
-            "date": "12-03-2025",
-            "nav": "1915.52600"
         }
     ],
     "mfapi_fund_house": "HDFC Mutual Fund",
     "mfapi_scheme_type": "Open Ended Schemes",
     "mfapi_scheme_category": "Equity Scheme - Flexi Cap Fund",
     "mfapi_scheme_name": "HDFC Flexi Cap Fund - Growth Option - Direct Plan",
-    "previous_day_nav": "2137.68200",
-    "nav_change_absolute": "₹30.00",
-    "nav_change_pct": "1.40%",
+    "previous_day_nav": "2167.68100",
+    "nav_change_absolute": "₹-32.21",
+    "nav_change_pct": "-1.49%",
     "taxation": {
         "fund_tax_category": "Equity",
         "stcg_tax_rate": "20%",

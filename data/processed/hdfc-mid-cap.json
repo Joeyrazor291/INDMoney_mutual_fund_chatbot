@@ -1,8 +1,8 @@
 {
     "fund_name": "HDFC Mid Cap Fund",
-    "nav": "₹214.60",
-    "nav_date": "10 Mar 2026",
-    "nav_text": "Latest NAV for HDFC Mid Cap Fund as of 10 Mar 2026 is ₹214.60",
+    "nav": "₹212.65",
+    "nav_date": "11 Mar 2026",
+    "nav_text": "Latest NAV for HDFC Mid Cap Fund as of 11 Mar 2026 is ₹212.65",
     "nav_currency": "INR",
     "one_day_change_pct": 1.7,
     "inception_return": 20.28,
@@ -20,7 +20,7 @@
     "fund_objective": "<p><span style=\"font-weight: 400;\">HDFC Mid Cap Opportunities Fund is a </span><span style=\"color: #3366ff;\"><a style=\"color: #3366ff;\" href=\"https://www.indmoney.com/mutual-funds/equity/mid-cap-funds\"><span style=\"font-weight: 400;\">mid-cap mutual fund</span></a></span><span style=\"font-weight: 400;\"> that is required by SEBI (Securities and Exchange Board of India) to invest at least 65% of its assets in <span style=\"color: #3366ff;\"><a style=\"color: #3366ff;\" href=\"https://www.indmoney.com/stocks/category/mid-cap-stocks\">mid-sized companies</a></span>. These are companies that rank 101st to 250th on the stock exchange as per their market capitalization.</span></p>\n<p><span style=\"font-weight: 400;\">&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">The fund uses the </span><span style=\"color: #3366ff;\"><a style=\"color: #3366ff;\" href=\"https://www.indmoney.com/indices/nifty-midcap-150\"><span style=\"font-weight: 400;\">Nifty Mid Cap 150 TRI</span></a></span><span style=\"font-weight: ",
     "expense_ratio": "0.74%",
     "benchmark": "Nifty Midcap 150",
-    "aum": "92,187Cr",
+    "aum": "94,257Cr",
     "inception_date": "1 January, 2013",
     "min_lumpsum_sip": "₹100/₹100",
     "min_lumpsum_amount": "₹100",
@@ -29,30 +29,30 @@
     "lock_in": "No Lock-in",
     "turnover": "18.22%",
     "return_1m": "-5.44%",
-    "return_1m_benchmark": "-2.29%",
-    "return_1m_category_avg": "-6.41%",
+    "return_1m_benchmark": "-6.82%",
+    "return_1m_category_avg": "-5.27%",
     "return_1m_category_rank": "1/21",
     "return_3m": "-2.96%",
-    "return_3m_benchmark": "0.64%",
-    "return_3m_category_avg": "-5.37%",
+    "return_3m_benchmark": "-4.81%",
+    "return_3m_category_avg": "-3.15%",
     "return_3m_category_rank": "1/20",
     "return_6m": "-0.19%",
-    "return_6m_benchmark": "1.62%",
-    "return_6m_category_avg": "-3.95%",
+    "return_6m_benchmark": "-3.11%",
+    "return_6m_category_avg": "-3.33%",
     "return_6m_category_rank": "1/19",
     "return_1y": "18.33%",
-    "return_1y_benchmark": "21.16%",
-    "return_1y_category_avg": "12.19%",
+    "return_1y_benchmark": "15.09%",
+    "return_1y_category_avg": "15.43%",
     "return_1y_category_rank": "2/19",
     "return_3y": "24.91%",
-    "return_3y_benchmark": "23.56%",
-    "return_3y_category_avg": "20.43%",
+    "return_3y_benchmark": "21.63%",
+    "return_3y_category_avg": "21.25%",
     "return_3y_category_rank": "8/18",
     "return_5y": "21.78%",
-    "return_5y_benchmark": "18.96%",
-    "return_5y_category_avg": "17.2%",
+    "return_5y_benchmark": "17.84%",
+    "return_5y_category_avg": "17.33%",
     "return_5y_category_rank": "--",
-    "performance_highlight": "The fund has outperformed the benchmark (Nifty Midcap 150) over 3Y, 5Y, but underperformed over 1Y.",
+    "performance_highlight": "The fund has consistently outperformed the benchmark (Nifty Midcap 150) over the last 1Y, 3Y, 5Y time periods.",
     "alpha_3y": "4.29",
     "beta_3y": "0.85",
     "sharpe_3y": "1.39",
@@ -156,18 +156,18 @@
             "breakdown": [
                 {
                     "name": "Mid cap",
-                    "pct": "64.8%",
-                    "value": 64.815
+                    "pct": "65%",
+                    "value": 65.046
                 },
                 {
                     "name": "Small cap",
-                    "pct": "20.7%",
-                    "value": 20.652
+                    "pct": "20.3%",
+                    "value": 20.271
                 },
                 {
                     "name": "Large cap",
-                    "pct": "8.6%",
-                    "value": 8.58
+                    "pct": "8.9%",
+                    "value": 8.91
                 }
             ]
         },
@@ -180,9 +180,9 @@
         }
     ],
     "market_cap_allocation": {
-        "mid_cap_pct": "64.8%",
-        "small_cap_pct": "20.7%",
-        "large_cap_pct": "8.6%"
+        "mid_cap_pct": "65%",
+        "small_cap_pct": "20.3%",
+        "large_cap_pct": "8.9%"
     },
     "sector_allocation": [
         {
@@ -271,16 +271,16 @@
     "ranking_cons": [
         "No bad points found for this fund."
     ],
-    "about": "About HDFC Mid Cap Fund HDFC Mid Cap Opportunities Fund is a  mid-cap mutual fund  that is required by SEBI (Securities and Exchange Board of India) to invest at least 65% of its assets in  mid-sized companies . These are companies that rank 101st to 250th on the stock exchange as per their market capitalization. \n   \n The fund uses the  Nifty Mid Cap 150 TRI  as its benchmark index. A benchmark index measures and compares the fund's performance against a broader market of mid-cap companies. HDFC Mid Cap Opportunities Fund maintains a strong focus on sectors like Financials, Automobiles, Healthcare, Technology, etc. \n   \n Investment Strategy \n The fund manager adopts a bottom-up stock-picking approach, focusing on individual companies rather than sectors or market trends. The emphasis is on identifying business with: \n   \n - Sound financial strength \n - Strong business model \n - Long-term growth potential \n   \n Should I Invest In HDFC Mid Cap Opportunties Fund? \n HDFC Mid-cap fund invests in mid-sized companies. These companies are emerging businesses that are growing rapidly and hold the potential to become large-cap. If you wish to invest in the HDFC mid-cap fund, you must have the following traits: \n   \n - Long-term investmentor \n - Moderate to high-risk appetite \n - Requires active management \n   \n Taxation On HDFC Mid Cap Direct Growth Fund \n Tax liability across all equity mutual funds is the same. For HDFC Mid Cap Fund, you will be taxed on any profit you make on the sale of your investments. If you sell your investment within 12 months, it is termed as a  Short-term capital gain  (STCG). If you sell your investments after 12 months, it is termed as  Long-term capital gain  (LTCG). The taxes on your investment are the following: \n   \n - Short-term Capital Gain Tax : 20% of STCG \n - Long-term Capital Gain Tax:  LTCG Exempted up to 1,25,000 and then 12.5%. \n   \n Allocation & Historical Returns Know more about HDFC Mid Cap Fund Fund Manager Dhruv Muchhal Fund Manager of  HDFC Mid Cap Fund, since 22 June 2023 Chirag Setalvad Fund Manager of  HDFC Mid Cap Fund, since 25 June 2007 Learn more about HDFC Mutual Fund AUM Change All changes are between Nov'25 and Jan'26 Parameters Jan'26 Dec'25 Nov'25 AUM ₹ 92.2K Cr ₹ 92.6K Cr ₹ 92.2K Cr AUM of the fund stands at 92.2K Cr as of Jan'26 AUM decreased by 454.7 Cr  between Jan'26 and Dec'25",
-    "fund_managers": "Dhruv Muchhal, Chirag Setalvad",
+    "about": "About HDFC Mid Cap Fund HDFC Mid Cap Opportunities Fund is a  mid-cap mutual fund  that is required by SEBI (Securities and Exchange Board of India) to invest at least 65% of its assets in  mid-sized companies . These are companies that rank 101st to 250th on the stock exchange as per their market capitalization. \n   \n The fund uses the  Nifty Mid Cap 150 TRI  as its benchmark index. A benchmark index measures and compares the fund's performance against a broader market of mid-cap companies. HDFC Mid Cap Opportunities Fund maintains a strong focus on sectors like Financials, Automobiles, Healthcare, Technology, etc. \n   \n Investment Strategy \n The fund manager adopts a bottom-up stock-picking approach, focusing on individual companies rather than sectors or market trends. The emphasis is on identifying business with: \n   \n - Sound financial strength \n - Strong business model \n - Long-term growth potential \n   \n Should I Invest In HDFC Mid Cap Opportunties Fund? \n HDFC Mid-cap fund invests in mid-sized companies. These companies are emerging businesses that are growing rapidly and hold the potential to become large-cap. If you wish to invest in the HDFC mid-cap fund, you must have the following traits: \n   \n - Long-term investmentor \n - Moderate to high-risk appetite \n - Requires active management \n   \n Taxation On HDFC Mid Cap Direct Growth Fund \n Tax liability across all equity mutual funds is the same. For HDFC Mid Cap Fund, you will be taxed on any profit you make on the sale of your investments. If you sell your investment within 12 months, it is termed as a  Short-term capital gain  (STCG). If you sell your investments after 12 months, it is termed as  Long-term capital gain  (LTCG). The taxes on your investment are the following: \n   \n - Short-term Capital Gain Tax : 20% of STCG \n - Long-term Capital Gain Tax:  LTCG Exempted up to 1,25,000 and then 12.5%. \n   \n Allocation & Historical Returns Know more about HDFC Mid Cap Fund Fund Manager Chirag Setalvad Fund Manager of  HDFC Mid Cap Fund, since 25 June 2007 Dhruv Muchhal Fund Manager of  HDFC Mid Cap Fund, since 22 June 2023 Learn more about HDFC Mutual Fund AUM Change All changes are between Nov'25 and Jan'26 Parameters Jan'26 Dec'25 Nov'25 AUM ₹ 92.2K Cr ₹ 92.6K Cr ₹ 92.2K Cr AUM of the fund stands at 92.2K Cr as of Jan'26 AUM decreased by 454.7 Cr  between Jan'26 and Dec'25",
+    "fund_managers": "Chirag Setalvad, Dhruv Muchhal",
     "fund_managers_detail": [
-        {
-            "name": "Dhruv Muchhal",
-            "subtitle": "Fund Manager of  HDFC Mid Cap Fund, since 22 June 2023"
-        },
         {
             "name": "Chirag Setalvad",
             "subtitle": "Fund Manager of  HDFC Mid Cap Fund, since 25 June 2007"
+        },
+        {
+            "name": "Dhruv Muchhal",
+            "subtitle": "Fund Manager of  HDFC Mid Cap Fund, since 22 June 2023"
         }
     ],
     "amc_page_url": "https://www.indmoney.com/mutual-funds/amc/hdfc-mutual-fund",
@@ -322,6 +322,10 @@
     "number_of_folios": null,
     "country_allocation": null,
     "historical_nav": [
+        {
+            "date": "11-03-2026",
+            "nav": "212.64800"
+        },
         {
             "date": "10-03-2026",
             "nav": "214.59800"
@@ -1293,19 +1297,15 @@
         {
             "date": "13-03-2025",
             "nav": "178.72000"
-        },
-        {
-            "date": "12-03-2025",
-            "nav": "180.44400"
         }
     ],
     "mfapi_fund_house": "HDFC Mutual Fund",
     "mfapi_scheme_type": "Open Ended Schemes",
     "mfapi_scheme_category": "Equity Scheme - Mid Cap Fund",
     "mfapi_scheme_name": "HDFC Mid Cap Fund - Growth Option - Direct Plan",
-    "previous_day_nav": "210.94300",
-    "nav_change_absolute": "₹3.66",
-    "nav_change_pct": "1.73%",
+    "previous_day_nav": "214.59800",
+    "nav_change_absolute": "₹-1.95",
+    "nav_change_pct": "-0.91%",
     "taxation": {
         "fund_tax_category": "Equity",
         "stcg_tax_rate": "20%",
