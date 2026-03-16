@@ -87,7 +87,7 @@
             "sector": "Financial Services",
             "shares": 39301056,
             "allocation_pct": "4%",
-            "change_pct": "0.3%",
+            "change_pct": "0%",
             "asset_class": "Equity"
         },
         {
@@ -103,7 +103,7 @@
             "sector": "Consumer Cyclical",
             "shares": 13361745,
             "allocation_pct": "3.38%",
-            "change_pct": "0%",
+            "change_pct": "1%",
             "asset_class": "Equity"
         },
         {
@@ -111,7 +111,7 @@
             "sector": "Healthcare",
             "shares": 30887194,
             "allocation_pct": "3.09%",
-            "change_pct": "2%",
+            "change_pct": "8.8%",
             "asset_class": "Equity"
         },
         {
@@ -119,7 +119,7 @@
             "sector": "Healthcare",
             "shares": 17994512,
             "allocation_pct": "2.92%",
-            "change_pct": "0.4%",
+            "change_pct": "0%",
             "asset_class": "Equity"
         },
         {
@@ -127,7 +127,7 @@
             "sector": "Healthcare",
             "shares": 12815305,
             "allocation_pct": "2.91%",
-            "change_pct": "0.3%",
+            "change_pct": "1.1%",
             "asset_class": "Equity"
         },
         {
@@ -135,7 +135,7 @@
             "sector": "Consumer Cyclical",
             "shares": 213395832,
             "allocation_pct": "2.67%",
-            "change_pct": "8.2%",
+            "change_pct": "23.1%",
             "asset_class": "Equity"
         },
         {

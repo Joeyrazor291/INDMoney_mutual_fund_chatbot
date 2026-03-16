@@ -71,7 +71,7 @@
             "sector": "Basic Materials",
             "shares": 160398,
             "allocation_pct": "5.22%",
-            "change_pct": "9.4%",
+            "change_pct": "7.1%",
             "asset_class": "Equity"
         },
         {
@@ -79,7 +79,7 @@
             "sector": "Consumer Cyclical",
             "shares": 22199,
             "allocation_pct": "3.89%",
-            "change_pct": "9.4%",
+            "change_pct": "7.1%",
             "asset_class": "Equity"
         },
         {
@@ -87,7 +87,7 @@
             "sector": "Healthcare",
             "shares": 12013,
             "allocation_pct": "3.49%",
-            "change_pct": "9.4%",
+            "change_pct": "7.1%",
             "asset_class": "Equity"
         },
         {
@@ -95,7 +95,7 @@
             "sector": "Energy",
             "shares": 183245,
             "allocation_pct": "3.2%",
-            "change_pct": "9.4%",
+            "change_pct": "7.1%",
             "asset_class": "Equity"
         },
         {
@@ -103,7 +103,7 @@
             "sector": "Industrials",
             "shares": 17940,
             "allocation_pct": "3.18%",
-            "change_pct": "9.4%",
+            "change_pct": "7.1%",
             "asset_class": "Equity"
         },
         {
@@ -111,7 +111,7 @@
             "sector": "Financial Services",
             "shares": 39985,
             "allocation_pct": "3.14%",
-            "change_pct": "9.4%",
+            "change_pct": "7.1%",
             "asset_class": "Equity"
         },
         {
@@ -119,7 +119,7 @@
             "sector": "Consumer Defensive",
             "shares": 11151,
             "allocation_pct": "3.03%",
-            "change_pct": "9.4%",
+            "change_pct": "7.1%",
             "asset_class": "Equity"
         },
         {
@@ -127,7 +127,7 @@
             "sector": "Energy",
             "shares": 353236,
             "allocation_pct": "3%",
-            "change_pct": "9.4%",
+            "change_pct": "7.1%",
             "asset_class": "Equity"
         },
         {
@@ -135,7 +135,7 @@
             "sector": "Utilities",
             "shares": 158764,
             "allocation_pct": "2.72%",
-            "change_pct": "9.4%",
+            "change_pct": "7.1%",
             "asset_class": "Equity"
         },
         {
@@ -143,7 +143,7 @@
             "sector": "Consumer Defensive",
             "shares": 129387,
             "allocation_pct": "2.65%",
-            "change_pct": "9.4%",
+            "change_pct": "7.1%",
             "asset_class": "Equity"
         }
     ],

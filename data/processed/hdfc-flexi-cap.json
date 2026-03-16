@@ -4,8 +4,8 @@
     "nav_date": "13 Mar 2026",
     "nav_text": "Latest NAV for HDFC Flexi Cap Fund as of 13 Mar 2026 is ₹2065.93",
     "nav_currency": "INR",
-    "one_day_change_pct": -1.1,
-    "inception_return": 16.04,
+    "one_day_change_pct": -2.2,
+    "inception_return": 15.84,
     "short_name": "HDFC Flexi Cap Fund",
     "amc_name": "HDFC Mutual Fund",
     "fund_category": "Equity",
@@ -28,27 +28,27 @@
     "exit_load": "1.0%",
     "lock_in": "No Lock-in",
     "turnover": "26.57%",
-    "return_1m": "-7.9%",
+    "return_1m": "-9.19%",
     "return_1m_benchmark": "-8.24%",
     "return_1m_category_avg": "-8.34%",
     "return_1m_category_rank": "1/22",
-    "return_3m": "-7.08%",
+    "return_3m": "-9.1%",
     "return_3m_benchmark": "-9.84%",
     "return_3m_category_avg": "-9.88%",
     "return_3m_category_rank": "1/22",
-    "return_6m": "-4.47%",
+    "return_6m": "-6.54%",
     "return_6m_benchmark": "-7.76%",
     "return_6m_category_avg": "-9.09%",
     "return_6m_category_rank": "1/21",
-    "return_1y": "10.25%",
+    "return_1y": "8.22%",
     "return_1y_benchmark": "6.02%",
     "return_1y_category_avg": "5.55%",
     "return_1y_category_rank": "2/20",
-    "return_3y": "20.28%",
-    "return_3y_benchmark": "13.96%",
+    "return_3y": "19.95%",
+    "return_3y_benchmark": "14.21%",
     "return_3y_category_avg": "14.66%",
     "return_3y_category_rank": "5/18",
-    "return_5y": "19.02%",
+    "return_5y": "18.5%",
     "return_5y_benchmark": "11.18%",
     "return_5y_category_avg": "11.91%",
     "return_5y_category_rank": "--",
@@ -123,7 +123,7 @@
             "sector": "Communication Services",
             "shares": 16349344,
             "allocation_pct": "3.06%",
-            "change_pct": "0%",
+            "change_pct": "48.6%",
             "asset_class": "Equity"
         },
         {
@@ -139,7 +139,7 @@
             "sector": "Technology",
             "shares": 21249649,
             "allocation_pct": "2.94%",
-            "change_pct": "0%",
+            "change_pct": "18.1%",
             "asset_class": "Equity"
         },
         {
@@ -147,7 +147,7 @@
             "sector": "Industrials",
             "shares": 6685418,
             "allocation_pct": "2.85%",
-            "change_pct": "0%",
+            "change_pct": "183.1%",
             "asset_class": "Equity"
         }
     ],
@@ -197,14 +197,14 @@
     "sector_allocation": [
         {
             "name": "Financial Services",
-            "pct": "44%",
-            "pct_value": 44,
+            "pct": "42.4%",
+            "pct_value": 42.4,
             "asset_class": "Equity"
         },
         {
             "name": "Consumer Cyclical",
-            "pct": "18.5%",
-            "pct_value": 18.5,
+            "pct": "20%",
+            "pct_value": 20,
             "asset_class": "Equity"
         },
         {
@@ -215,62 +215,62 @@
         },
         {
             "name": "Basic Materials",
-            "pct": "6.5%",
-            "pct_value": 6.5,
-            "asset_class": "Equity"
-        },
-        {
-            "name": "Industrial",
-            "pct": "5.4%",
-            "pct_value": 5.4,
+            "pct": "6.4%",
+            "pct_value": 6.4,
             "asset_class": "Equity"
         },
         {
             "name": "Tech",
-            "pct": "5.3%",
-            "pct_value": 5.3,
+            "pct": "5.7%",
+            "pct_value": 5.7,
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Industrial",
+            "pct": "5.7%",
+            "pct_value": 5.7,
             "asset_class": "Equity"
         },
         {
             "name": "Communication",
-            "pct": "3.2%",
-            "pct_value": 3.2,
-            "asset_class": "Equity"
-        },
-        {
-            "name": "Real Estate",
             "pct": "3%",
             "pct_value": 3,
             "asset_class": "Equity"
         },
         {
+            "name": "Real Estate",
+            "pct": "2.9%",
+            "pct_value": 2.9,
+            "asset_class": "Equity"
+        },
+        {
             "name": "Utilities",
-            "pct": "2.3%",
-            "pct_value": 2.3,
+            "pct": "2.2%",
+            "pct_value": 2.2,
             "asset_class": "Equity"
         },
         {
             "name": "Energy",
-            "pct": "1%",
-            "pct_value": 1,
+            "pct": "1.1%",
+            "pct_value": 1.1,
             "asset_class": "Equity"
         },
         {
             "name": "Consumer Defensive",
-            "pct": "0.8%",
+            "pct": "0.7%",
             "pct_value": 1,
             "asset_class": "Equity"
         },
         {
             "name": "Cash Equivalent",
-            "pct": "93%",
-            "pct_value": 93,
+            "pct": "93.5%",
+            "pct_value": 93.5,
             "asset_class": "Debt & Cash"
         },
         {
             "name": "Government",
-            "pct": "7%",
-            "pct_value": 7,
+            "pct": "6.5%",
+            "pct_value": 6.5,
             "asset_class": "Debt & Cash"
         }
     ],
@@ -307,13 +307,13 @@
     ],
     "amc_page_url": "https://www.indmoney.com/mutual-funds/amc/hdfc-mutual-fund",
     "aum_history": {
+        "Feb'26": "₹ 1L Cr",
         "Jan'26": "₹ 97.5K Cr",
-        "Dec'25": "₹ 96.3K Cr",
-        "Nov'25": "₹ 94.1K Cr"
+        "Dec'25": "₹ 96.3K Cr"
     },
     "aum_change_summary": [
-        "AUM of the fund stands at 97.5K Cr as of Jan'26",
-        "AUM increased by 1.2K Cr between Jan'26 and Dec'25"
+        "AUM of the fund stands at 1L Cr as of Feb'26",
+        "AUM increased by 3K Cr between Feb'26 and Jan'26"
     ],
     "scheme_code": 118955,
     "isin_growth": "INF179K01UT0",
