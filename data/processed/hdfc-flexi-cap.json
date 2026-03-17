@@ -1,8 +1,8 @@
 {
     "fund_name": "HDFC Flexi Cap Fund",
-    "nav": "₹2065.93",
-    "nav_date": "13 Mar 2026",
-    "nav_text": "Latest NAV for HDFC Flexi Cap Fund as of 13 Mar 2026 is ₹2065.93",
+    "nav": "₹2079.61",
+    "nav_date": "16 Mar 2026",
+    "nav_text": "Latest NAV for HDFC Flexi Cap Fund as of 16 Mar 2026 is ₹2079.61",
     "nav_currency": "INR",
     "one_day_change_pct": -2.2,
     "inception_return": 15.84,
@@ -29,15 +29,15 @@
     "lock_in": "No Lock-in",
     "turnover": "26.57%",
     "return_1m": "-9.19%",
-    "return_1m_benchmark": "-8.24%",
+    "return_1m_benchmark": "-8.87%",
     "return_1m_category_avg": "-8.34%",
     "return_1m_category_rank": "1/22",
     "return_3m": "-9.1%",
-    "return_3m_benchmark": "-9.84%",
+    "return_3m_benchmark": "-9.24%",
     "return_3m_category_avg": "-9.88%",
     "return_3m_category_rank": "1/22",
     "return_6m": "-6.54%",
-    "return_6m_benchmark": "-7.76%",
+    "return_6m_benchmark": "-8.46%",
     "return_6m_category_avg": "-9.09%",
     "return_6m_category_rank": "1/21",
     "return_1y": "8.22%",
@@ -45,11 +45,11 @@
     "return_1y_category_avg": "5.55%",
     "return_1y_category_rank": "2/20",
     "return_3y": "19.95%",
-    "return_3y_benchmark": "14.21%",
+    "return_3y_benchmark": "14.29%",
     "return_3y_category_avg": "14.66%",
     "return_3y_category_rank": "5/18",
     "return_5y": "18.5%",
-    "return_5y_benchmark": "11.18%",
+    "return_5y_benchmark": "11.32%",
     "return_5y_category_avg": "11.91%",
     "return_5y_category_rank": "--",
     "performance_highlight": "The fund has consistently outperformed the benchmark (Nifty 500) over the last 1Y, 3Y, 5Y time periods.",
@@ -328,7 +328,7 @@
     "rolling_returns": null,
     "standard_deviation": null,
     "nav_52w_high": "₹2303.31",
-    "nav_52w_low": "₹1923.86",
+    "nav_52w_low": "₹1924.46",
     "portfolio_overlap_pct": null,
     "expense_ratio_regular": null,
     "min_additional_lumpsum": null,
@@ -344,6 +344,10 @@
     "number_of_folios": null,
     "country_allocation": null,
     "historical_nav": [
+        {
+            "date": "16-03-2026",
+            "nav": "2079.61200"
+        },
         {
             "date": "13-03-2026",
             "nav": "2065.93000"
@@ -1319,19 +1323,15 @@
         {
             "date": "18-03-2025",
             "nav": "1951.19900"
-        },
-        {
-            "date": "17-03-2025",
-            "nav": "1923.86300"
         }
     ],
     "mfapi_fund_house": "HDFC Mutual Fund",
     "mfapi_scheme_type": "Open Ended Schemes",
     "mfapi_scheme_category": "Equity Scheme - Flexi Cap Fund",
     "mfapi_scheme_name": "HDFC Flexi Cap Fund - Growth Option - Direct Plan",
-    "previous_day_nav": "2111.84600",
-    "nav_change_absolute": "₹-45.92",
-    "nav_change_pct": "-2.17%",
+    "previous_day_nav": "2065.93000",
+    "nav_change_absolute": "₹13.68",
+    "nav_change_pct": "0.66%",
     "taxation": {
         "fund_tax_category": "Equity",
         "stcg_tax_rate": "20%",

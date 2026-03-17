@@ -1,8 +1,8 @@
 {
     "fund_name": "HDFC Mid Cap Fund",
-    "nav": "₹206.00",
-    "nav_date": "13 Mar 2026",
-    "nav_text": "Latest NAV for HDFC Mid Cap Fund as of 13 Mar 2026 is ₹206.00",
+    "nav": "₹205.63",
+    "nav_date": "16 Mar 2026",
+    "nav_text": "Latest NAV for HDFC Mid Cap Fund as of 16 Mar 2026 is ₹205.63",
     "nav_currency": "INR",
     "one_day_change_pct": -2.6,
     "inception_return": 19.9,
@@ -29,15 +29,15 @@
     "lock_in": "No Lock-in",
     "turnover": "18.22%",
     "return_1m": "-7.83%",
-    "return_1m_benchmark": "-7.55%",
+    "return_1m_benchmark": "-7.94%",
     "return_1m_category_avg": "-7.41%",
     "return_1m_category_rank": "1/21",
     "return_3m": "-7.79%",
-    "return_3m_benchmark": "-8.66%",
+    "return_3m_benchmark": "-7.89%",
     "return_3m_category_avg": "-8.66%",
     "return_3m_category_rank": "1/20",
     "return_6m": "-4.35%",
-    "return_6m_benchmark": "-6.19%",
+    "return_6m_benchmark": "-7.15%",
     "return_6m_category_avg": "-7.36%",
     "return_6m_category_rank": "1/19",
     "return_1y": "15.26%",
@@ -49,7 +49,7 @@
     "return_3y_category_avg": "20.31%",
     "return_3y_category_rank": "8/18",
     "return_5y": "20.79%",
-    "return_5y_benchmark": "17.21%",
+    "return_5y_benchmark": "17.3%",
     "return_5y_category_avg": "16.42%",
     "return_5y_category_rank": "--",
     "performance_highlight": "The fund has consistently outperformed the benchmark (Nifty Midcap 150) over the last 1Y, 3Y, 5Y time periods.",
@@ -322,6 +322,10 @@
     "number_of_folios": null,
     "country_allocation": null,
     "historical_nav": [
+        {
+            "date": "16-03-2026",
+            "nav": "205.63100"
+        },
         {
             "date": "13-03-2026",
             "nav": "205.99700"
@@ -1297,19 +1301,15 @@
         {
             "date": "18-03-2025",
             "nav": "183.55000"
-        },
-        {
-            "date": "17-03-2025",
-            "nav": "179.94600"
         }
     ],
     "mfapi_fund_house": "HDFC Mutual Fund",
     "mfapi_scheme_type": "Open Ended Schemes",
     "mfapi_scheme_category": "Equity Scheme - Mid Cap Fund",
     "mfapi_scheme_name": "HDFC Mid Cap Fund - Growth Option - Direct Plan",
-    "previous_day_nav": "211.45200",
-    "nav_change_absolute": "₹-5.45",
-    "nav_change_pct": "-2.58%",
+    "previous_day_nav": "205.99700",
+    "nav_change_absolute": "₹-0.37",
+    "nav_change_pct": "-0.18%",
     "taxation": {
         "fund_tax_category": "Equity",
         "stcg_tax_rate": "20%",
