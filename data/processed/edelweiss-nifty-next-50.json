@@ -4,8 +4,8 @@
     "nav_date": "23 Mar 2026",
     "nav_text": "Latest NAV for Edelweiss Nifty Next 50 Index Fund as of 23 Mar 2026 is ₹14.29",
     "nav_currency": "INR",
-    "one_day_change_pct": 0.5,
-    "inception_return": 12.74,
+    "one_day_change_pct": -3.8,
+    "inception_return": 11.39,
     "short_name": "Edelweiss Nifty Next 50 Index Fund",
     "amc_name": "Edelweiss Mutual Fund",
     "fund_category": "Equity",
@@ -267,7 +267,7 @@
     "ranking_scores": {},
     "ranking_pros": [],
     "ranking_cons": [],
-    "about": "About Edelweiss Nifty Next 50 Index Fund Edelweiss Nifty Next 50 Index Fund is an equity fund. This fund was started on 30 November, 2022. The fund is managed by Bhavesh Jain. The fund could potentially beat inflation in the long-run. Key Parameters Edelweiss Nifty Next 50 Index Fund has ₹221 Cr worth of assets under management (AUM) as on Mar 2026 and is more than category average. The fund has an expense ratio 0.1. Returns Edelweiss Nifty Next 50 Index Fund has given a CAGR return of 11.39% since inception. Over the last 1 and 3 years the fund has given a CAGR return of -1.72% and 18.01% respectively. Holdings Edelweiss Nifty Next 50 Index Fund has allocated its funds majorly in Cash Equivalent, Financial Services, Basic Materials, Utilities, Consumer Defensive, Consumer Cyclical, Industrial, Health, Energy, Corporate, Real Estate, Tech, Communication. Its top holdings are Vedanta Ltd, TVS Motor Co Ltd, Divi's Laboratories Ltd, Bharat Petroleum Corp Ltd, Hindustan Aeronautics Ltd Ordinary Shares Taxation As it is a index funds mutual fund the taxation is as follows: For short term (less than a year) capital gains will be taxed at 20% For long term (more than 1 year) capital gains will be taxed at 12.5% without indexation benefit Dividends will always be taxed at slab rate. Long term gains upto Rs 1 lakh are exempt capital gains tax. Investment objective of Edelweiss Nifty Next 50 Index Fund The investment objective of the scheme is to provide returns before expenses that closely correspond to the total returns of the Nifty Next 50 Index subject to tracking errors. However, there is no assurance that the investment objective of the Scheme will be realized and the Scheme does not assure or guarantee any returns. Minimum Investment and lockin period Minimum investment for lump sum payment is INR 100.00 and for SIP is INR 100.00. Edelweiss Nifty Next 50 Index Fund has no lock in period. Know more about Edelweiss Nifty Next 50 Index Fund Fund Manager Bhavesh Jain Fund Manager of  Edelweiss Nifty Next 50 Index Fund, since 30 November 2022 Learn more about Edelweiss Mutual Fund AUM Change All changes are between Dec'25 and Feb'26 Parameters Feb'26 Jan'26 Dec'25 AUM ₹ 220.6 Cr ₹ 200.2 Cr ₹ 187 Cr AUM of the fund stands at 220.6 Cr as of Feb'26 AUM increased by 20.4 Cr between Feb'26 and Jan'26",
+    "about": "About Edelweiss Nifty Next 50 Index Fund Edelweiss Nifty Next 50 Index Fund is an equity fund. This fund was started on 30 November, 2022. The fund is managed by Bhavesh Jain. The fund could potentially beat inflation in the long-run. Key Parameters Edelweiss Nifty Next 50 Index Fund has ₹221 Cr worth of assets under management (AUM) as on Mar 2026 and is more than category average. The fund has an expense ratio 0.1. Returns Edelweiss Nifty Next 50 Index Fund has given a CAGR return of 11.89% since inception. Over the last 1 and 3 years the fund has given a CAGR return of -1.45% and 18.90% respectively. Holdings Edelweiss Nifty Next 50 Index Fund has allocated its funds majorly in Cash Equivalent, Financial Services, Basic Materials, Utilities, Consumer Defensive, Consumer Cyclical, Industrial, Health, Energy, Corporate, Real Estate, Tech, Communication. Its top holdings are Vedanta Ltd, TVS Motor Co Ltd, Divi's Laboratories Ltd, Bharat Petroleum Corp Ltd, Hindustan Aeronautics Ltd Ordinary Shares Taxation As it is a index funds mutual fund the taxation is as follows: For short term (less than a year) capital gains will be taxed at 20% For long term (more than 1 year) capital gains will be taxed at 12.5% without indexation benefit Dividends will always be taxed at slab rate. Long term gains upto Rs 1 lakh are exempt capital gains tax. Investment objective of Edelweiss Nifty Next 50 Index Fund The investment objective of the scheme is to provide returns before expenses that closely correspond to the total returns of the Nifty Next 50 Index subject to tracking errors. However, there is no assurance that the investment objective of the Scheme will be realized and the Scheme does not assure or guarantee any returns. Minimum Investment and lockin period Minimum investment for lump sum payment is INR 100.00 and for SIP is INR 100.00. Edelweiss Nifty Next 50 Index Fund has no lock in period. Know more about Edelweiss Nifty Next 50 Index Fund Fund Manager Bhavesh Jain Fund Manager of  Edelweiss Nifty Next 50 Index Fund, since 30 November 2022 Learn more about Edelweiss Mutual Fund AUM Change All changes are between Dec'25 and Feb'26 Parameters Feb'26 Jan'26 Dec'25 AUM ₹ 220.6 Cr ₹ 200.2 Cr ₹ 187 Cr AUM of the fund stands at 220.6 Cr as of Feb'26 AUM increased by 20.4 Cr between Feb'26 and Jan'26",
     "fund_managers": "Bhavesh Jain",
     "fund_managers_detail": [
         {
@@ -1285,10 +1285,6 @@
         {
             "date": "26-03-2025",
             "nav": "14.45440"
-        },
-        {
-            "date": "25-03-2025",
-            "nav": "14.50620"
         }
     ],
     "mfapi_fund_house": "Edelweiss Mutual Fund",
