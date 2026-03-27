@@ -1,11 +1,11 @@
 {
     "fund_name": "Edelweiss Nifty Next 50 Index Fund",
-    "nav": "₹14.51",
-    "nav_date": "24 Mar 2026",
-    "nav_text": "Latest NAV for Edelweiss Nifty Next 50 Index Fund as of 24 Mar 2026 is ₹14.51",
+    "nav": "₹14.80",
+    "nav_date": "25 Mar 2026",
+    "nav_text": "Latest NAV for Edelweiss Nifty Next 50 Index Fund as of 25 Mar 2026 is ₹14.80",
     "nav_currency": "INR",
-    "one_day_change_pct": 1.5,
-    "inception_return": 11.89,
+    "one_day_change_pct": 2,
+    "inception_return": 12.55,
     "short_name": "Edelweiss Nifty Next 50 Index Fund",
     "amc_name": "Edelweiss Mutual Fund",
     "fund_category": "Equity",
@@ -1289,10 +1289,6 @@
         {
             "date": "28-03-2025",
             "nav": "14.58200"
-        },
-        {
-            "date": "27-03-2025",
-            "nav": "14.67340"
         }
     ],
     "mfapi_fund_house": "Edelweiss Mutual Fund",
