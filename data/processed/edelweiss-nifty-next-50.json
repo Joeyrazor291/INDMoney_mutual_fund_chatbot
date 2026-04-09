@@ -1,11 +1,11 @@
 {
     "fund_name": "Edelweiss Nifty Next 50 Index Fund",
-    "nav": "₹14.70",
-    "nav_date": "07 Apr 2026",
-    "nav_text": "Latest NAV for Edelweiss Nifty Next 50 Index Fund as of 07 Apr 2026 is ₹14.70",
+    "nav": "₹15.40",
+    "nav_date": "08 Apr 2026",
+    "nav_text": "Latest NAV for Edelweiss Nifty Next 50 Index Fund as of 08 Apr 2026 is ₹15.40",
     "nav_currency": "INR",
-    "one_day_change_pct": 1.4,
-    "inception_return": 12.05,
+    "one_day_change_pct": 0.5,
+    "inception_return": 12.19,
     "short_name": "Edelweiss Nifty Next 50 Index Fund",
     "amc_name": "Edelweiss Mutual Fund",
     "fund_category": "Equity",
@@ -298,7 +298,7 @@
     "rolling_returns": null,
     "standard_deviation": null,
     "nav_52w_high": "₹16.42",
-    "nav_52w_low": "₹14.03",
+    "nav_52w_low": "₹14.06",
     "portfolio_overlap_pct": null,
     "expense_ratio_regular": null,
     "min_additional_lumpsum": null,
@@ -314,6 +314,10 @@
     "number_of_folios": null,
     "country_allocation": null,
     "historical_nav": [
+        {
+            "date": "08-04-2026",
+            "nav": "15.39940"
+        },
         {
             "date": "07-04-2026",
             "nav": "14.70490"
@@ -1281,19 +1285,15 @@
         {
             "date": "11-04-2025",
             "nav": "14.21730"
-        },
-        {
-            "date": "09-04-2025",
-            "nav": "14.03110"
         }
     ],
     "mfapi_fund_house": "Edelweiss Mutual Fund",
     "mfapi_scheme_type": "Open Ended Schemes",
     "mfapi_scheme_category": "Other Scheme - Index Funds",
     "mfapi_scheme_name": "Edelweiss Nifty Next 50 Index Fund - Direct Plan - Growth",
-    "previous_day_nav": "14.63720",
-    "nav_change_absolute": "₹0.07",
-    "nav_change_pct": "0.46%",
+    "previous_day_nav": "14.70490",
+    "nav_change_absolute": "₹0.69",
+    "nav_change_pct": "4.72%",
     "taxation": {
         "fund_tax_category": "Equity",
         "stcg_tax_rate": "20%",
