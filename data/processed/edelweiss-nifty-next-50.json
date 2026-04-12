@@ -1,11 +1,11 @@
 {
     "fund_name": "Edelweiss Nifty Next 50 Index Fund",
-    "nav": "₹15.43",
-    "nav_date": "09 Apr 2026",
-    "nav_text": "Latest NAV for Edelweiss Nifty Next 50 Index Fund as of 09 Apr 2026 is ₹15.43",
+    "nav": "₹15.75",
+    "nav_date": "10 Apr 2026",
+    "nav_text": "Latest NAV for Edelweiss Nifty Next 50 Index Fund as of 10 Apr 2026 is ₹15.75",
     "nav_currency": "INR",
-    "one_day_change_pct": 0.2,
-    "inception_return": 13.79,
+    "one_day_change_pct": 2.1,
+    "inception_return": 14.47,
     "short_name": "Edelweiss Nifty Next 50 Index Fund",
     "amc_name": "Edelweiss Mutual Fund",
     "fund_category": "Equity",
@@ -58,91 +58,91 @@
     "sharpe_3y": "0.61",
     "sortino_3y": "0.89",
     "info_ratio_3y": "--",
-    "total_holdings_count": 51,
+    "total_holdings_count": 50,
     "holdings_count_breakdown": {
         "Equity Holdings": {
-            "count": 51,
-            "pct": 99.59432
+            "count": 50,
+            "pct": 98.99803
         }
     },
     "top_holdings": [
         {
             "name": "Vedanta Ltd",
             "sector": "Basic Materials",
-            "shares": 160398,
-            "allocation_pct": "5.22%",
+            "shares": 171167,
+            "allocation_pct": "5.14%",
             "change_pct": "7.1%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Tata Motors Ltd",
+            "sector": "Consumer Cyclical",
+            "shares": 203434,
+            "allocation_pct": "3.68%",
+            "change_pct": "0%",
             "asset_class": "Equity"
         },
         {
             "name": "TVS Motor Co Ltd",
             "sector": "Consumer Cyclical",
-            "shares": 22199,
-            "allocation_pct": "3.89%",
+            "shares": 23658,
+            "allocation_pct": "3.65%",
             "change_pct": "7.1%",
             "asset_class": "Equity"
         },
         {
             "name": "Divi's Laboratories Ltd",
             "sector": "Healthcare",
-            "shares": 12013,
-            "allocation_pct": "3.49%",
-            "change_pct": "7.1%",
-            "asset_class": "Equity"
-        },
-        {
-            "name": "Bharat Petroleum Corp Ltd",
-            "sector": "Energy",
-            "shares": 183245,
-            "allocation_pct": "3.2%",
+            "shares": 12820,
+            "allocation_pct": "3.5%",
             "change_pct": "7.1%",
             "asset_class": "Equity"
         },
         {
             "name": "Hindustan Aeronautics Ltd Ordinary Shares",
             "sector": "Industrials",
-            "shares": 17940,
-            "allocation_pct": "3.18%",
-            "change_pct": "7.1%",
-            "asset_class": "Equity"
-        },
-        {
-            "name": "Cholamandalam Investment and Finance Co Ltd",
-            "sector": "Financial Services",
-            "shares": 39985,
-            "allocation_pct": "3.14%",
+            "shares": 19121,
+            "allocation_pct": "3.06%",
             "change_pct": "7.1%",
             "asset_class": "Equity"
         },
         {
             "name": "Britannia Industries Ltd",
             "sector": "Consumer Defensive",
-            "shares": 11151,
-            "allocation_pct": "3.03%",
-            "change_pct": "7.1%",
-            "asset_class": "Equity"
-        },
-        {
-            "name": "Indian Oil Corp Ltd",
-            "sector": "Energy",
-            "shares": 353236,
-            "allocation_pct": "3%",
+            "shares": 11875,
+            "allocation_pct": "2.95%",
             "change_pct": "7.1%",
             "asset_class": "Equity"
         },
         {
             "name": "Tata Power Co Ltd",
             "sector": "Utilities",
-            "shares": 158764,
-            "allocation_pct": "2.72%",
+            "shares": 168837,
+            "allocation_pct": "2.93%",
             "change_pct": "7.1%",
             "asset_class": "Equity"
         },
         {
-            "name": "Varun Beverages Ltd",
+            "name": "Cummins India Ltd",
+            "sector": "Industrials",
+            "shares": 14026,
+            "allocation_pct": "2.9%",
+            "change_pct": "0%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Adani Power Ltd",
+            "sector": "Utilities",
+            "shares": 417188,
+            "allocation_pct": "2.88%",
+            "change_pct": "7.1%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Avenue Supermarts Ltd",
             "sector": "Consumer Defensive",
-            "shares": 129387,
-            "allocation_pct": "2.65%",
+            "shares": 14853,
+            "allocation_pct": "2.7%",
             "change_pct": "7.1%",
             "asset_class": "Equity"
         }
@@ -150,33 +150,33 @@
     "asset_allocation": [
         {
             "name": "Equity",
-            "pct": "99.6%",
-            "pct_value": 99.6,
+            "pct": "99%",
+            "pct_value": 99,
             "breakdown_label": "Size breakup",
             "breakdown": [
                 {
                     "name": "Large cap",
-                    "pct": "84.8%",
-                    "value": 84.828
+                    "pct": "91.2%",
+                    "value": 91.236
                 },
                 {
                     "name": "Mid cap",
-                    "pct": "14.8%",
-                    "value": 14.766
+                    "pct": "7.8%",
+                    "value": 7.763
                 }
             ]
         },
         {
             "name": "Debt & Cash",
-            "pct": "0.4%",
-            "pct_value": 0.4,
+            "pct": "1%",
+            "pct_value": 1,
             "breakdown_label": "Credit rating breakup",
             "breakdown": []
         }
     ],
     "market_cap_allocation": {
-        "large_cap_pct": "84.8%",
-        "mid_cap_pct": "14.8%"
+        "large_cap_pct": "91.2%",
+        "mid_cap_pct": "7.8%"
     },
     "sector_allocation": [
         {
