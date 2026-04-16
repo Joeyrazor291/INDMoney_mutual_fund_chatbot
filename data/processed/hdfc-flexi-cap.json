@@ -1,11 +1,11 @@
 {
     "fund_name": "HDFC Flexi Cap Fund",
-    "nav": "₹2145.07",
-    "nav_date": "13 Apr 2026",
-    "nav_text": "Latest NAV for HDFC Flexi Cap Fund as of 13 Apr 2026 is ₹2145.07",
+    "nav": "₹2178.62",
+    "nav_date": "15 Apr 2026",
+    "nav_text": "Latest NAV for HDFC Flexi Cap Fund as of 15 Apr 2026 is ₹2178.62",
     "nav_currency": "INR",
-    "one_day_change_pct": -0.8,
-    "inception_return": 16.06,
+    "one_day_change_pct": 1.6,
+    "inception_return": 16.19,
     "short_name": "HDFC Flexi Cap Fund",
     "amc_name": "HDFC Mutual Fund",
     "fund_category": "Equity",
@@ -20,7 +20,7 @@
     "fund_objective": "<p>HDFC Flexi Cap is a&nbsp;<a href=\"https://www.indmoney.com/mutual-funds/equity/flexi-cap\">flexi-cap mutual fund</a>&nbsp;launched on 1st January 1995. These funds follow a diversified equity investment strategy where they invest in companies across all market captialization and adjust allocations based on market conditions. The fund uses&nbsp;<a href=\"https://www.indmoney.com/indices/nifty-500\">Nifty 500</a>&nbsp;TRI as its benchmark. Nifty 500 represents the broader market and helps the fund compare its returns with those of other companies</p>\n<p>&nbsp;</p>\n<p><a href=\"https://www.indmoney.com/mutual-funds/amc/hdfc-mutual-fund\">HDFC Mutual Fund</a>&nbsp;follows a&nbsp;<strong>bottom-up approach</strong>, which involves paying attention to individual businesses instead of macroeconomic factors. They also pay close attention to&nbsp;<strong>Quantitative&nbsp;</strong>(Growth, Cash Flows, Risks) and&nbsp;<strong>Qualitative&nbsp;</strong>(Management, Track Record, Insights) aspects o",
     "expense_ratio": "0.7%",
     "benchmark": "Nifty 500",
-    "aum": "1,00,455Cr",
+    "aum": "91,335Cr",
     "inception_date": "1 January, 2013",
     "min_lumpsum_sip": "₹100/₹100",
     "min_lumpsum_amount": "₹100",
@@ -28,28 +28,28 @@
     "exit_load": "1.0%",
     "lock_in": "No Lock-in",
     "turnover": "26.57%",
-    "return_1m": "3.83%",
-    "return_1m_benchmark": "3.68%",
+    "return_1m": "5.45%",
+    "return_1m_benchmark": "5.63%",
     "return_1m_category_avg": "4.11%",
     "return_1m_category_rank": "1/22",
-    "return_3m": "-5.65%",
-    "return_3m_benchmark": "-5.52%",
+    "return_3m": "-4.09%",
+    "return_3m_benchmark": "-3.75%",
     "return_3m_category_avg": "-4.84%",
     "return_3m_category_rank": "1/22",
-    "return_6m": "-4.29%",
-    "return_6m_benchmark": "-4.33%",
+    "return_6m": "-2.81%",
+    "return_6m_benchmark": "-3.34%",
     "return_6m_category_avg": "-5.41%",
     "return_6m_category_rank": "1/22",
-    "return_1y": "8.51%",
-    "return_1y_benchmark": "6.87%",
+    "return_1y": "7.9%",
+    "return_1y_benchmark": "6.19%",
     "return_1y_category_avg": "7.15%",
     "return_1y_category_rank": "1/21",
-    "return_3y": "20.34%",
-    "return_3y_benchmark": "14.04%",
+    "return_3y": "20.97%",
+    "return_3y_benchmark": "14.75%",
     "return_3y_category_avg": "15.22%",
     "return_3y_category_rank": "4/18",
-    "return_5y": "20.9%",
-    "return_5y_benchmark": "12.72%",
+    "return_5y": "21.18%",
+    "return_5y_benchmark": "13.05%",
     "return_5y_category_avg": "13.83%",
     "return_5y_category_rank": "--",
     "performance_highlight": "The fund has consistently outperformed the benchmark (Nifty 500) over the last 1Y, 3Y, 5Y time periods.",
@@ -75,7 +75,7 @@
             "sector": "Financial Services",
             "shares": 66819580,
             "allocation_pct": "8.82%",
-            "change_pct": "0%",
+            "change_pct": "4.4%",
             "asset_class": "Equity"
         },
         {
@@ -83,7 +83,7 @@
             "sector": "Financial Services",
             "shares": 87941295,
             "allocation_pct": "7.04%",
-            "change_pct": "0%",
+            "change_pct": "7.2%",
             "asset_class": "Equity"
         },
         {
@@ -99,7 +99,7 @@
             "sector": "Financial Services",
             "shares": 44293005,
             "allocation_pct": "4.75%",
-            "change_pct": "0%",
+            "change_pct": "0.7%",
             "asset_class": "Equity"
         },
         {
@@ -123,7 +123,7 @@
             "sector": "Communication Services",
             "shares": 16349344,
             "allocation_pct": "3.19%",
-            "change_pct": "48.6%",
+            "change_pct": "0%",
             "asset_class": "Equity"
         },
         {
@@ -131,7 +131,7 @@
             "sector": "Technology",
             "shares": 21249649,
             "allocation_pct": "3.12%",
-            "change_pct": "18.1%",
+            "change_pct": "0%",
             "asset_class": "Equity"
         },
         {
@@ -139,7 +139,7 @@
             "sector": "Industrials",
             "shares": 8052646,
             "allocation_pct": "3.09%",
-            "change_pct": "183.1%",
+            "change_pct": "20.5%",
             "asset_class": "Equity"
         },
         {
@@ -344,6 +344,10 @@
     "number_of_folios": null,
     "country_allocation": null,
     "historical_nav": [
+        {
+            "date": "15-04-2026",
+            "nav": "2178.61800"
+        },
         {
             "date": "13-04-2026",
             "nav": "2145.06700"
@@ -1315,19 +1319,15 @@
         {
             "date": "17-04-2025",
             "nav": "2060.53200"
-        },
-        {
-            "date": "16-04-2025",
-            "nav": "2031.62300"
         }
     ],
     "mfapi_fund_house": "HDFC Mutual Fund",
     "mfapi_scheme_type": "Open Ended Schemes",
     "mfapi_scheme_category": "Equity Scheme - Flexi Cap Fund",
     "mfapi_scheme_name": "HDFC Flexi Cap Fund - Growth Option - Direct Plan",
-    "previous_day_nav": "2162.97200",
-    "nav_change_absolute": "₹-17.91",
-    "nav_change_pct": "-0.83%",
+    "previous_day_nav": "2145.06700",
+    "nav_change_absolute": "₹33.55",
+    "nav_change_pct": "1.56%",
     "taxation": {
         "fund_tax_category": "Equity",
         "stcg_tax_rate": "20%",
