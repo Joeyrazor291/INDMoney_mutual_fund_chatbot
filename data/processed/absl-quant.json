@@ -29,11 +29,11 @@
     "lock_in": "No Lock-in",
     "turnover": "125.23%",
     "return_1m": "9.08%",
-    "return_1m_benchmark": "10.5%",
+    "return_1m_benchmark": "8.35%",
     "return_1m_category_avg": "--",
     "return_1m_category_rank": "N/A",
     "return_3m": "-2.73%",
-    "return_3m_benchmark": "-1.72%",
+    "return_3m_benchmark": "0.32%",
     "return_3m_category_avg": "--",
     "return_3m_category_rank": "N/A",
     "return_6m": "-0.3%",
@@ -1281,10 +1281,6 @@
         {
             "date": "05-05-2025",
             "nav": "9.25000"
-        },
-        {
-            "date": "02-05-2025",
-            "nav": "9.17000"
         }
     ],
     "mfapi_fund_house": "Aditya Birla Sun Life Mutual Fund",

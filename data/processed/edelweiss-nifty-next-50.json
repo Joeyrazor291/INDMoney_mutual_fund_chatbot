@@ -55,8 +55,8 @@
     "performance_highlight": "N/A",
     "alpha_3y": "--",
     "beta_3y": "--",
-    "sharpe_3y": "0.61",
-    "sortino_3y": "0.89",
+    "sharpe_3y": "0.75",
+    "sortino_3y": "1.17",
     "info_ratio_3y": "--",
     "total_holdings_count": 50,
     "holdings_count_breakdown": {
@@ -1297,10 +1297,6 @@
         {
             "date": "05-05-2025",
             "nav": "15.12110"
-        },
-        {
-            "date": "02-05-2025",
-            "nav": "14.89570"
         }
     ],
     "mfapi_fund_house": "Edelweiss Mutual Fund",
