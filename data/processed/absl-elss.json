@@ -1,11 +1,11 @@
 {
     "fund_name": "Aditya Birla Sun Life ELSS Tax Saver Fund",
-    "nav": "₹68.83",
-    "nav_date": "07 May 2026",
-    "nav_text": "Latest NAV for Aditya Birla Sun Life ELSS Tax Saver Fund as of 07 May 2026 is ₹68.83",
+    "nav": "₹68.40",
+    "nav_date": "08 May 2026",
+    "nav_text": "Latest NAV for Aditya Birla Sun Life ELSS Tax Saver Fund as of 08 May 2026 is ₹68.40",
     "nav_currency": "INR",
-    "one_day_change_pct": 1.3,
-    "inception_return": 13.99,
+    "one_day_change_pct": -0.6,
+    "inception_return": 13.95,
     "short_name": "Aditya Birla Sun Life ELSS Tax Saver Fund",
     "amc_name": "Aditya Birla Sun Life Mutual Fund",
     "fund_category": "Equity",
@@ -28,29 +28,29 @@
     "exit_load": "0%",
     "lock_in": "3 Years",
     "turnover": "27.43%",
-    "return_1m": "8.87%",
-    "return_1m_benchmark": "9.15%",
-    "return_1m_category_avg": "8.57%",
+    "return_1m": "3.95%",
+    "return_1m_benchmark": "4.42%",
+    "return_1m_category_avg": "8.6%",
     "return_1m_category_rank": "20/23",
-    "return_3m": "-0.97%",
-    "return_3m_benchmark": "-1.28%",
-    "return_3m_category_avg": "-1.08%",
+    "return_3m": "-1.41%",
+    "return_3m_benchmark": "-1.36%",
+    "return_3m_category_avg": "-0.62%",
     "return_3m_category_rank": "21/23",
-    "return_6m": "-0.72%",
-    "return_6m_benchmark": "-1.62%",
-    "return_6m_category_avg": "-2.14%",
+    "return_6m": "-1.06%",
+    "return_6m_benchmark": "-1.73%",
+    "return_6m_category_avg": "-1.7%",
     "return_6m_category_rank": "23/23",
-    "return_1y": "9.52%",
-    "return_1y_benchmark": "5.36%",
-    "return_1y_category_avg": "5.29%",
+    "return_1y": "9.53%",
+    "return_1y_benchmark": "5.83%",
+    "return_1y_category_avg": "5.13%",
     "return_1y_category_rank": "23/23",
-    "return_3y": "16.28%",
-    "return_3y_benchmark": "14.83%",
-    "return_3y_category_avg": "15.69%",
+    "return_3y": "15.8%",
+    "return_3y_benchmark": "14.43%",
+    "return_3y_category_avg": "15.87%",
     "return_3y_category_rank": "23/23",
-    "return_5y": "10.92%",
-    "return_5y_benchmark": "13.1%",
-    "return_5y_category_avg": "14.21%",
+    "return_5y": "10.74%",
+    "return_5y_benchmark": "12.97%",
+    "return_5y_category_avg": "14.23%",
     "return_5y_category_rank": "--",
     "performance_highlight": "The fund has outperformed the benchmark (Nifty 500) over 1Y, 3Y, but underperformed over 5Y.",
     "alpha_3y": "0.75",
@@ -62,7 +62,7 @@
     "holdings_count_breakdown": {
         "Equity Holdings": {
             "count": 59,
-            "pct": 98.90235
+            "pct": 98.00165
         }
     },
     "top_holdings": [
@@ -70,7 +70,7 @@
             "name": "ICICI Bank Ltd",
             "sector": "Financial Services",
             "shares": 7747842,
-            "allocation_pct": "7.12%",
+            "allocation_pct": "6.81%",
             "change_pct": "0%",
             "asset_class": "Equity"
         },
@@ -78,39 +78,47 @@
             "name": "HDFC Bank Ltd",
             "sector": "Financial Services",
             "shares": 12050504,
-            "allocation_pct": "6.72%",
+            "allocation_pct": "6.47%",
             "change_pct": "4.3%",
-            "asset_class": "Equity"
-        },
-        {
-            "name": "Infosys Ltd",
-            "sector": "Technology",
-            "shares": 5082452,
-            "allocation_pct": "4.85%",
-            "change_pct": "0%",
             "asset_class": "Equity"
         },
         {
             "name": "Reliance Industries Ltd",
             "sector": "Energy",
             "shares": 4260426,
-            "allocation_pct": "4.36%",
+            "allocation_pct": "4.24%",
             "change_pct": "0%",
             "asset_class": "Equity"
         },
         {
-            "name": "Axis Bank Ltd",
-            "sector": "Financial Services",
-            "shares": 4710879,
-            "allocation_pct": "4.17%",
-            "change_pct": "-6.9%",
+            "name": "Infosys Ltd",
+            "sector": "Technology",
+            "shares": 5082452,
+            "allocation_pct": "4.18%",
+            "change_pct": "0%",
             "asset_class": "Equity"
         },
         {
             "name": "State Bank of India",
             "sector": "Financial Services",
             "shares": 5501415,
-            "allocation_pct": "4.11%",
+            "allocation_pct": "4.09%",
+            "change_pct": "0%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "sector": "Financial Services",
+            "shares": 4510879,
+            "allocation_pct": "3.98%",
+            "change_pct": "-6.9%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Adani Ports & Special Economic Zone Ltd",
+            "sector": "Industrials",
+            "shares": 2494440,
+            "allocation_pct": "2.88%",
             "change_pct": "0%",
             "asset_class": "Equity"
         },
@@ -118,69 +126,61 @@
             "name": "Bharti Airtel Ltd",
             "sector": "Communication Services",
             "shares": 2161864,
-            "allocation_pct": "2.94%",
+            "allocation_pct": "2.84%",
             "change_pct": "-18.8%",
-            "asset_class": "Equity"
-        },
-        {
-            "name": "Fortis Healthcare Ltd",
-            "sector": "Healthcare",
-            "shares": 4812331,
-            "allocation_pct": "2.92%",
-            "change_pct": "-2%",
             "asset_class": "Equity"
         },
         {
             "name": "Mahindra & Mahindra Ltd",
             "sector": "Consumer Cyclical",
             "shares": 1184660,
-            "allocation_pct": "2.67%",
+            "allocation_pct": "2.55%",
             "change_pct": "0%",
             "asset_class": "Equity"
         },
         {
-            "name": "Larsen & Toubro Ltd",
-            "sector": "Industrials",
-            "shares": 941782,
-            "allocation_pct": "2.52%",
-            "change_pct": "0%",
+            "name": "Fortis Healthcare Ltd",
+            "sector": "Healthcare",
+            "shares": 3877040,
+            "allocation_pct": "2.49%",
+            "change_pct": "-2%",
             "asset_class": "Equity"
         }
     ],
     "asset_allocation": [
         {
             "name": "Equity",
-            "pct": "98.9%",
-            "pct_value": 98.9,
+            "pct": "98%",
+            "pct_value": 98,
             "breakdown_label": "Size breakup",
             "breakdown": [
                 {
                     "name": "Large cap",
-                    "pct": "68.2%",
-                    "value": 68.191
+                    "pct": "67.3%",
+                    "value": 67.262
                 },
                 {
                     "name": "Small cap",
                     "pct": "19%",
-                    "value": 19.001
+                    "value": 19.016
                 },
                 {
                     "name": "Mid cap",
                     "pct": "11.7%",
-                    "value": 11.711
+                    "value": 11.724
                 }
             ]
         },
         {
             "name": "Debt & Cash",
-            "pct": "1.1%",
-            "pct_value": 1.1,
+            "pct": "2%",
+            "pct_value": 2,
             "breakdown_label": "Credit rating breakup",
             "breakdown": []
         }
     ],
     "market_cap_allocation": {
-        "large_cap_pct": "68.2%",
+        "large_cap_pct": "67.3%",
         "small_cap_pct": "19%",
         "mid_cap_pct": "11.7%"
     },
@@ -276,7 +276,7 @@
         "Has not generated consistent returns",
         "5Y returns in the bottom 25% of the category"
     ],
-    "about": "About Aditya Birla Sun Life ELSS Tax Saver Fund Aditya Birla Sun Life ELSS Tax Saver Fund is an equity fund. This fund was started on 1 January, 2013. The fund is managed by Dhaval Shah. The fund could potentially beat inflation in the long-run. Key Parameters Aditya Birla Sun Life ELSS Tax Saver Fund has ₹13117 Cr worth of assets under management (AUM) as on Apr 2026 and is more than category average. The fund has an expense ratio 1. Returns Aditya Birla Sun Life ELSS Tax Saver Fund has given a CAGR return of 14.01% since inception. Over the last 1, 3 and 5 years the fund has given a CAGR return of 9.18%, 16.35% and 10.88% respectively. Holdings Aditya Birla Sun Life ELSS Tax Saver Fund has allocated its funds majorly in Cash Equivalent, Financial Services, Consumer Cyclical, Tech, Health, Consumer Defensive, Industrial, Basic Materials, Energy, Communication, Utilities, Real Estate. Its top holdings are ICICI Bank Ltd, HDFC Bank Ltd, Infosys Ltd, Reliance Industries Ltd, Axis Bank Ltd Taxation As it is a elss (tax savings) mutual fund the taxation is as follows: For short term (less than a year) capital gains will be taxed at 20% For long term (more than 1 year) capital gains will be taxed at 12.5% without indexation benefit Dividends will always be taxed at slab rate. Long term gains upto Rs 1 lakh are exempt capital gains tax. Investment objective of Aditya Birla Sun Life ELSS Tax Saver Fund An Open-ended equity linked savings scheme (ELSS) with the objective of long term growth of capital through a portfolio with a target allocation of 80% equity,\n20% debt and money market securities. Minimum Investment and lockin period Minimum investment for lump sum payment is INR 500.00 and for SIP is INR 500.00. There is a lock in period for Aditya Birla Sun Life ELSS Tax Saver Fund of 3 Years Know more about Aditya Birla Sun Life ELSS Tax Saver Fund Fund Manager Dhaval Shah Fund Manager of  Aditya Birla Sun Life ELSS Tax Saver Fund, since 31 October 2024 Learn more about Aditya Birla Sun Life Mutual Fund AUM Change All changes are between Jan'26 and Mar'26 Parameters Mar'26 Feb'26 Jan'26 AUM ₹ 13.1K Cr ₹ 14.8K Cr ₹ 15K Cr AUM of the fund stands at 13.1K Cr as of Mar'26 AUM decreased by 1.7K Cr  between Mar'26 and Feb'26",
+    "about": "About Aditya Birla Sun Life ELSS Tax Saver Fund Aditya Birla Sun Life ELSS Tax Saver Fund is an equity fund. This fund was started on 1 January, 2013. The fund is managed by Dhaval Shah. The fund could potentially beat inflation in the long-run. Key Parameters Aditya Birla Sun Life ELSS Tax Saver Fund has ₹13117 Cr worth of assets under management (AUM) as on Apr 2026 and is more than category average. The fund has an expense ratio 1. Returns Aditya Birla Sun Life ELSS Tax Saver Fund has given a CAGR return of 13.95% since inception. Over the last 1, 3 and 5 years the fund has given a CAGR return of 9.53%, 15.80% and 10.74% respectively. Holdings Aditya Birla Sun Life ELSS Tax Saver Fund has allocated its funds majorly in Cash Equivalent, Financial Services, Consumer Cyclical, Tech, Health, Consumer Defensive, Industrial, Basic Materials, Energy, Utilities, Communication, Real Estate. Its top holdings are ICICI Bank Ltd, HDFC Bank Ltd, Reliance Industries Ltd, Infosys Ltd, State Bank of India Taxation As it is a elss (tax savings) mutual fund the taxation is as follows: For short term (less than a year) capital gains will be taxed at 20% For long term (more than 1 year) capital gains will be taxed at 12.5% without indexation benefit Dividends will always be taxed at slab rate. Long term gains upto Rs 1 lakh are exempt capital gains tax. Investment objective of Aditya Birla Sun Life ELSS Tax Saver Fund An Open-ended equity linked savings scheme (ELSS) with the objective of long term growth of capital through a portfolio with a target allocation of 80% equity,\n20% debt and money market securities. Minimum Investment and lockin period Minimum investment for lump sum payment is INR 500.00 and for SIP is INR 500.00. There is a lock in period for Aditya Birla Sun Life ELSS Tax Saver Fund of 3 Years Know more about Aditya Birla Sun Life ELSS Tax Saver Fund Fund Manager Dhaval Shah Fund Manager of  Aditya Birla Sun Life ELSS Tax Saver Fund, since 31 October 2024 Learn more about Aditya Birla Sun Life Mutual Fund AUM Change All changes are between Jan'26 and Mar'26 Parameters Mar'26 Feb'26 Jan'26 AUM ₹ 13.1K Cr ₹ 14.8K Cr ₹ 15K Cr AUM of the fund stands at 13.1K Cr as of Mar'26 AUM decreased by 1.7K Cr  between Mar'26 and Feb'26",
     "fund_managers": "Dhaval Shah",
     "fund_managers_detail": [
         {
@@ -323,6 +323,10 @@
     "number_of_folios": null,
     "country_allocation": null,
     "historical_nav": [
+        {
+            "date": "08-05-2026",
+            "nav": "68.40000"
+        },
         {
             "date": "07-05-2026",
             "nav": "68.83000"
@@ -1298,19 +1302,15 @@
         {
             "date": "12-05-2025",
             "nav": "64.08000"
-        },
-        {
-            "date": "09-05-2025",
-            "nav": "61.85000"
         }
     ],
     "mfapi_fund_house": "Aditya Birla Sun Life Mutual Fund",
     "mfapi_scheme_type": "Open Ended Schemes",
     "mfapi_scheme_category": "Equity Scheme - ELSS",
     "mfapi_scheme_name": "Aditya Birla Sun Life ELSS Tax Saver Fund - Growth - Direct Plan",
-    "previous_day_nav": "68.71000",
-    "nav_change_absolute": "₹0.12",
-    "nav_change_pct": "0.17%",
+    "previous_day_nav": "68.83000",
+    "nav_change_absolute": "₹-0.43",
+    "nav_change_pct": "-0.62%",
     "taxation": {
         "fund_tax_category": "Equity",
         "stcg_tax_rate": "20%",
