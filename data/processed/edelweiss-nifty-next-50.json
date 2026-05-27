@@ -300,6 +300,10 @@
     "country_allocation": null,
     "historical_nav": [
         {
+            "date": "26-05-2026",
+            "nav": "16.52040"
+        },
+        {
             "date": "25-05-2026",
             "nav": "16.49040"
         },
@@ -1274,19 +1278,15 @@
         {
             "date": "28-05-2025",
             "nav": "15.47880"
-        },
-        {
-            "date": "27-05-2025",
-            "nav": "15.52370"
         }
     ],
     "mfapi_fund_house": "Edelweiss Mutual Fund",
     "mfapi_scheme_type": "Open Ended Schemes",
     "mfapi_scheme_category": "Other Scheme - Index Funds",
     "mfapi_scheme_name": "Edelweiss Nifty Next 50 Index Fund - Direct Plan - Growth",
-    "previous_day_nav": "16.24710",
-    "nav_change_absolute": "₹0.24",
-    "nav_change_pct": "1.50%",
+    "previous_day_nav": "16.49040",
+    "nav_change_absolute": "₹0.03",
+    "nav_change_pct": "0.18%",
     "taxation": {
         "fund_tax_category": "Equity",
         "stcg_tax_rate": "20%",
