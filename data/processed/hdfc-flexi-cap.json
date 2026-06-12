@@ -1,11 +1,11 @@
 {
     "fund_name": "HDFC Flexi Cap Fund",
-    "nav": "₹2118.33",
-    "nav_date": "10 Jun 2026",
-    "nav_text": "Latest NAV for HDFC Flexi Cap Fund as of 10 Jun 2026 is ₹2118.33",
+    "nav": "₹2116.01",
+    "nav_date": "11 Jun 2026",
+    "nav_text": "Latest NAV for HDFC Flexi Cap Fund as of 11 Jun 2026 is ₹2116.01",
     "nav_currency": "INR",
-    "one_day_change_pct": 0.8,
-    "inception_return": 15.76,
+    "one_day_change_pct": -0.1,
+    "inception_return": 15.73,
     "short_name": "HDFC Flexi Cap Fund",
     "amc_name": "HDFC Mutual Fund",
     "fund_category": "Equity",
@@ -28,29 +28,29 @@
     "exit_load": "1.0%",
     "lock_in": "No Lock-in",
     "turnover": "26.57%",
-    "return_1m": "-1.98%",
-    "return_1m_benchmark": "-3.81%",
-    "return_1m_category_avg": "-2.53%",
+    "return_1m": "-1.14%",
+    "return_1m_benchmark": "-2.99%",
+    "return_1m_category_avg": "-3.13%",
     "return_1m_category_rank": "1/23",
-    "return_3m": "-0.78%",
-    "return_3m_benchmark": "-0.49%",
-    "return_3m_category_avg": "2.74%",
+    "return_3m": "-0.91%",
+    "return_3m_benchmark": "0.33%",
+    "return_3m_category_avg": "0.65%",
     "return_3m_category_rank": "1/22",
-    "return_6m": "-5.99%",
-    "return_6m_benchmark": "-5.02%",
-    "return_6m_category_avg": "-3.99%",
+    "return_6m": "-6.42%",
+    "return_6m_benchmark": "-6.1%",
+    "return_6m_category_avg": "-4.05%",
     "return_6m_category_rank": "1/22",
-    "return_1y": "-1.64%",
-    "return_1y_benchmark": "-4.74%",
-    "return_1y_category_avg": "-2.88%",
+    "return_1y": "-1.86%",
+    "return_1y_benchmark": "-5.24%",
+    "return_1y_category_avg": "-3.45%",
     "return_1y_category_rank": "1/21",
-    "return_3y": "17.36%",
-    "return_3y_benchmark": "11.88%",
-    "return_3y_category_avg": "13.17%",
+    "return_3y": "17.27%",
+    "return_3y_benchmark": "11.68%",
+    "return_3y_category_avg": "12.94%",
     "return_3y_category_rank": "3/18",
-    "return_5y": "17.4%",
-    "return_5y_benchmark": "10.47%",
-    "return_5y_category_avg": "12%",
+    "return_5y": "17.14%",
+    "return_5y_benchmark": "10.27%",
+    "return_5y_category_avg": "11.65%",
     "return_5y_category_rank": "--",
     "performance_highlight": "The fund has consistently outperformed the benchmark (Nifty 500) over the last 1Y, 3Y, 5Y time periods.",
     "alpha_3y": "4.92",
@@ -58,23 +58,23 @@
     "sharpe_3y": "0.87",
     "sortino_3y": "1.34",
     "info_ratio_3y": "0.98",
-    "total_holdings_count": 66,
+    "total_holdings_count": 70,
     "holdings_count_breakdown": {
         "Equity Holdings": {
-            "count": 63,
-            "pct": 95.10673
+            "count": 67,
+            "pct": 94.89739
         },
         "Debt Holdings": {
             "count": 3,
-            "pct": 4.89326
+            "pct": 5.10261
         }
     },
     "top_holdings": [
         {
             "name": "ICICI Bank Ltd",
             "sector": "Financial Services",
-            "shares": 69131134,
-            "allocation_pct": "8.69%",
+            "shares": 71531574,
+            "allocation_pct": "8.83%",
             "change_pct": "4.4%",
             "asset_class": "Equity"
         },
@@ -82,7 +82,7 @@
             "name": "Axis Bank Ltd",
             "sector": "Financial Services",
             "shares": 54105435,
-            "allocation_pct": "6.83%",
+            "allocation_pct": "6.84%",
             "change_pct": "0%",
             "asset_class": "Equity"
         },
@@ -90,7 +90,7 @@
             "name": "HDFC Bank Ltd",
             "sector": "Financial Services",
             "shares": 88634120,
-            "allocation_pct": "6.81%",
+            "allocation_pct": "6.48%",
             "change_pct": "7.2%",
             "asset_class": "Equity"
         },
@@ -98,7 +98,7 @@
             "name": "State Bank of India",
             "sector": "Financial Services",
             "shares": 44579608,
-            "allocation_pct": "4.74%",
+            "allocation_pct": "4.22%",
             "change_pct": "0.7%",
             "asset_class": "Equity"
         },
@@ -106,47 +106,47 @@
             "name": "SBI Life Insurance Co Ltd",
             "sector": "Financial Services",
             "shares": 20930184,
-            "allocation_pct": "3.79%",
-            "change_pct": "0%",
-            "asset_class": "Equity"
-        },
-        {
-            "name": "Kotak Mahindra Bank Ltd",
-            "sector": "Financial Services",
-            "shares": 91000000,
-            "allocation_pct": "3.47%",
+            "allocation_pct": "3.76%",
             "change_pct": "0%",
             "asset_class": "Equity"
         },
         {
             "name": "Larsen & Toubro Ltd",
             "sector": "Industrials",
-            "shares": 8374904,
-            "allocation_pct": "3.35%",
+            "shares": 8878007,
+            "allocation_pct": "3.55%",
             "change_pct": "20.5%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "sector": "Financial Services",
+            "shares": 91000000,
+            "allocation_pct": "3.43%",
+            "change_pct": "0%",
             "asset_class": "Equity"
         },
         {
             "name": "Bharti Airtel Ltd",
             "sector": "Communication Services",
             "shares": 16495885,
-            "allocation_pct": "3.1%",
+            "allocation_pct": "2.96%",
             "change_pct": "0%",
             "asset_class": "Equity"
         },
         {
             "name": "Maruti Suzuki India Ltd",
             "sector": "Consumer Cyclical",
-            "shares": 2100998,
-            "allocation_pct": "2.78%",
+            "shares": 2253697,
+            "allocation_pct": "2.91%",
             "change_pct": "5%",
             "asset_class": "Equity"
         },
         {
-            "name": "Power Grid Corp Of India Ltd",
-            "sector": "Utilities",
-            "shares": 87899321,
-            "allocation_pct": "2.78%",
+            "name": "Cipla Ltd",
+            "sector": "Healthcare",
+            "shares": 21000000,
+            "allocation_pct": "2.89%",
             "change_pct": "0%",
             "asset_class": "Equity"
         }
@@ -154,31 +154,31 @@
     "asset_allocation": [
         {
             "name": "Equity",
-            "pct": "95.1%",
-            "pct_value": 95.1,
+            "pct": "94.9%",
+            "pct_value": 94.9,
             "breakdown_label": "Size breakup",
             "breakdown": [
                 {
                     "name": "Large cap",
-                    "pct": "76.7%",
-                    "value": 76.708
+                    "pct": "75.4%",
+                    "value": 75.367
                 },
                 {
                     "name": "Mid cap",
-                    "pct": "8.9%",
-                    "value": 8.85
+                    "pct": "9.5%",
+                    "value": 9.545
                 },
                 {
                     "name": "Small cap",
-                    "pct": "7.3%",
-                    "value": 7.299
+                    "pct": "7.8%",
+                    "value": 7.763
                 }
             ]
         },
         {
             "name": "Debt & Cash",
-            "pct": "4.9%",
-            "pct_value": 4.9,
+            "pct": "5.1%",
+            "pct_value": 5.1,
             "breakdown_label": "Credit rating breakup",
             "breakdown": [
                 {
@@ -190,9 +190,9 @@
         }
     ],
     "market_cap_allocation": {
-        "large_cap_pct": "76.7%",
-        "mid_cap_pct": "8.9%",
-        "small_cap_pct": "7.3%"
+        "large_cap_pct": "75.4%",
+        "mid_cap_pct": "9.5%",
+        "small_cap_pct": "7.8%"
     },
     "sector_allocation": [
         {
@@ -344,6 +344,10 @@
     "number_of_folios": null,
     "country_allocation": null,
     "historical_nav": [
+        {
+            "date": "11-06-2026",
+            "nav": "2116.01000"
+        },
         {
             "date": "10-06-2026",
             "nav": "2118.33000"
@@ -1315,19 +1319,15 @@
         {
             "date": "13-06-2025",
             "nav": "2124.33900"
-        },
-        {
-            "date": "12-06-2025",
-            "nav": "2137.05400"
         }
     ],
     "mfapi_fund_house": "HDFC Mutual Fund",
     "mfapi_scheme_type": "Open Ended Schemes",
     "mfapi_scheme_category": "Equity Scheme - Flexi Cap Fund",
     "mfapi_scheme_name": "HDFC Flexi Cap Fund - Growth Option - Direct Plan",
-    "previous_day_nav": "2120.95300",
-    "nav_change_absolute": "₹-2.62",
-    "nav_change_pct": "-0.12%",
+    "previous_day_nav": "2118.33000",
+    "nav_change_absolute": "₹-2.32",
+    "nav_change_pct": "-0.11%",
     "taxation": {
         "fund_tax_category": "Equity",
         "stcg_tax_rate": "20%",
