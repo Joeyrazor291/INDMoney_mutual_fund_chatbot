@@ -4,8 +4,8 @@
     "nav_date": "12 Jun 2026",
     "nav_text": "Latest NAV for Edelweiss Nifty Next 50 Index Fund as of 12 Jun 2026 is ₹16.31",
     "nav_currency": "INR",
-    "one_day_change_pct": -1.1,
-    "inception_return": 14.09,
+    "one_day_change_pct": 2.4,
+    "inception_return": 14.85,
     "short_name": "Edelweiss Nifty Next 50 Index Fund",
     "amc_name": "Edelweiss Mutual Fund",
     "fund_category": "Equity",
@@ -20,7 +20,7 @@
     "fund_objective": "<p>Edelweiss Nifty Next 50 Index Fund is an equity fund. This fund was started on 30 November, 2022. The fund is managed by Manasi Jalgaonkar, Bhavesh Jain. The fund could potentially beat inflation in the long-run.</p>",
     "expense_ratio": "0.22%",
     "benchmark": "NIFTY Next 50 Index",
-    "aum": "256Cr",
+    "aum": "271Cr",
     "inception_date": "30 November, 2022",
     "min_lumpsum_sip": "₹100/₹100",
     "min_lumpsum_amount": "₹100",
@@ -71,7 +71,7 @@
             "sector": "Utilities",
             "shares": 445094,
             "allocation_pct": "4%",
-            "change_pct": "11.9%",
+            "change_pct": "3.8%",
             "asset_class": "Equity"
         },
         {
@@ -79,7 +79,7 @@
             "sector": "Healthcare",
             "shares": 13675,
             "allocation_pct": "3.36%",
-            "change_pct": "6.7%",
+            "change_pct": "3.8%",
             "asset_class": "Equity"
         },
         {
@@ -87,7 +87,7 @@
             "sector": "Industrials",
             "shares": 20416,
             "allocation_pct": "3.24%",
-            "change_pct": "6.6%",
+            "change_pct": "3.8%",
             "asset_class": "Equity"
         },
         {
@@ -95,7 +95,7 @@
             "sector": "Industrials",
             "shares": 14536,
             "allocation_pct": "3.16%",
-            "change_pct": "100%",
+            "change_pct": "3.8%",
             "asset_class": "Equity"
         },
         {
@@ -103,7 +103,7 @@
             "sector": "Consumer Cyclical",
             "shares": 224883,
             "allocation_pct": "3.15%",
-            "change_pct": "100%",
+            "change_pct": "3.8%",
             "asset_class": "Equity"
         },
         {
@@ -111,7 +111,7 @@
             "sector": "Consumer Cyclical",
             "shares": 25268,
             "allocation_pct": "3.13%",
-            "change_pct": "6.6%",
+            "change_pct": "3.8%",
             "asset_class": "Equity"
         },
         {
@@ -119,7 +119,7 @@
             "sector": "Consumer Defensive",
             "shares": 147261,
             "allocation_pct": "2.87%",
-            "change_pct": "6.6%",
+            "change_pct": "3.8%",
             "asset_class": "Equity"
         },
         {
@@ -127,7 +127,7 @@
             "sector": "Utilities",
             "shares": 180141,
             "allocation_pct": "2.8%",
-            "change_pct": "6.3%",
+            "change_pct": "3.8%",
             "asset_class": "Equity"
         },
         {
@@ -135,7 +135,7 @@
             "sector": "Financial Services",
             "shares": 46087,
             "allocation_pct": "2.62%",
-            "change_pct": "7.9%",
+            "change_pct": "3.8%",
             "asset_class": "Equity"
         },
         {
@@ -143,7 +143,7 @@
             "sector": "Consumer Cyclical",
             "shares": 476232,
             "allocation_pct": "2.56%",
-            "change_pct": "6.1%",
+            "change_pct": "3.8%",
             "asset_class": "Equity"
         }
     ],
@@ -186,33 +186,33 @@
             "asset_class": "Equity"
         },
         {
-            "name": "Utilities",
-            "pct": "13.1%",
-            "pct_value": 13.1,
+            "name": "Basic Materials",
+            "pct": "12.9%",
+            "pct_value": 12.9,
             "asset_class": "Equity"
         },
         {
-            "name": "Basic Materials",
-            "pct": "12.7%",
-            "pct_value": 12.7,
+            "name": "Utilities",
+            "pct": "12.6%",
+            "pct_value": 12.6,
             "asset_class": "Equity"
         },
         {
             "name": "Consumer Defensive",
-            "pct": "12%",
-            "pct_value": 12,
+            "pct": "12.2%",
+            "pct_value": 12.2,
             "asset_class": "Equity"
         },
         {
             "name": "Consumer Cyclical",
-            "pct": "11.2%",
-            "pct_value": 11.2,
+            "pct": "11.5%",
+            "pct_value": 11.5,
             "asset_class": "Equity"
         },
         {
             "name": "Industrial",
-            "pct": "10.8%",
-            "pct_value": 10.8,
+            "pct": "10.6%",
+            "pct_value": 10.6,
             "asset_class": "Equity"
         },
         {
@@ -229,32 +229,32 @@
         },
         {
             "name": "Real Estate",
-            "pct": "3.5%",
-            "pct_value": 3.5,
-            "asset_class": "Equity"
-        },
-        {
-            "name": "Communication",
-            "pct": "2.3%",
-            "pct_value": 2.3,
+            "pct": "3.4%",
+            "pct_value": 3.4,
             "asset_class": "Equity"
         },
         {
             "name": "Tech",
-            "pct": "2.3%",
-            "pct_value": 2.3,
+            "pct": "2.4%",
+            "pct_value": 2.4,
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Communication",
+            "pct": "2.2%",
+            "pct_value": 2.2,
             "asset_class": "Equity"
         },
         {
             "name": "Cash Equivalent",
-            "pct": "79.1%",
-            "pct_value": 79.1,
+            "pct": "88.9%",
+            "pct_value": 88.9,
             "asset_class": "Debt & Cash"
         },
         {
             "name": "Corporate",
-            "pct": "20.9%",
-            "pct_value": 20.9,
+            "pct": "11.1%",
+            "pct_value": 11.1,
             "asset_class": "Debt & Cash"
         }
     ],
@@ -267,7 +267,7 @@
     "ranking_scores": {},
     "ranking_pros": [],
     "ranking_cons": [],
-    "about": "About Edelweiss Nifty Next 50 Index Fund Edelweiss Nifty Next 50 Index Fund is an equity fund. This fund was started on 30 November, 2022. The fund is managed by Manasi Jalgaonkar, Bhavesh Jain. The fund could potentially beat inflation in the long-run. Key Parameters Edelweiss Nifty Next 50 Index Fund has ₹271 Cr worth of assets under management (AUM) as on May 2026 and is more than category average. The fund has an expense ratio 0.2. Returns Edelweiss Nifty Next 50 Index Fund has given a CAGR return of 14.85% since inception. Over the last 1 and 3 years the fund has given a CAGR return of 4.53% and 18.25% respectively. Holdings Edelweiss Nifty Next 50 Index Fund has allocated its funds majorly in Cash Equivalent, Financial Services, Utilities, Consumer Cyclical, Industrial, Basic Materials, Consumer Defensive, Health, Energy, Real Estate, Tech. Its top holdings are Adani Power Ltd, Divi's Laboratories Ltd, Hindustan Aeronautics Ltd Ordinary Shares, Cummins India Ltd, Tata Motors Ltd Taxation As it is a index funds mutual fund the taxation is as follows: For short term (less than a year) capital gains will be taxed at 20% For long term (more than 1 year) capital gains will be taxed at 12.5% without indexation benefit Dividends will always be taxed at slab rate. Long term gains upto Rs 1 lakh are exempt capital gains tax. Investment objective of Edelweiss Nifty Next 50 Index Fund The investment objective of the scheme is to provide returns before expenses that closely correspond to the total returns of the Nifty Next 50 Index subject to tracking errors. However, there is no assurance that the investment objective of the Scheme will be realized and the Scheme does not assure or guarantee any returns. Minimum Investment and lockin period Minimum investment for lump sum payment is INR 100.00 and for SIP is INR 100.00. Edelweiss Nifty Next 50 Index Fund has no lock in period. Know more about Edelweiss Nifty Next 50 Index Fund Fund Manager Manasi Jalgaonkar Fund Manager of  Edelweiss Nifty Next 50 Index Fund, since 1 April 2026 Bhavesh Jain Fund Manager of  Edelweiss Nifty Next 50 Index Fund, since 30 November 2022 Learn more about Edelweiss Mutual Fund AUM Change All changes are between Feb'26 and Apr'26 Parameters Apr'26 Mar'26 Feb'26 AUM ₹ 218 Cr ₹ 218 Cr ₹ 220.6 Cr AUM of the fund stands at 218 Cr as of Apr'26 AUM has remained same  between Apr'26 and Mar'26",
+    "about": "About Edelweiss Nifty Next 50 Index Fund Edelweiss Nifty Next 50 Index Fund is an equity fund. This fund was started on 30 November, 2022. The fund is managed by Manasi Jalgaonkar, Bhavesh Jain. The fund could potentially beat inflation in the long-run. Key Parameters Edelweiss Nifty Next 50 Index Fund has ₹271 Cr worth of assets under management (AUM) as on Jun 2026 and is more than category average. The fund has an expense ratio 0.2. Returns Edelweiss Nifty Next 50 Index Fund has given a CAGR return of 14.85% since inception. Over the last 1 and 3 years the fund has given a CAGR return of 4.53% and 18.25% respectively. Holdings Edelweiss Nifty Next 50 Index Fund has allocated its funds majorly in Cash Equivalent, Financial Services, Utilities, Consumer Cyclical, Industrial, Basic Materials, Consumer Defensive, Health, Energy, Real Estate, Tech. Its top holdings are Adani Power Ltd, Divi's Laboratories Ltd, Hindustan Aeronautics Ltd Ordinary Shares, Cummins India Ltd, Tata Motors Ltd Taxation As it is a index funds mutual fund the taxation is as follows: For short term (less than a year) capital gains will be taxed at 20% For long term (more than 1 year) capital gains will be taxed at 12.5% without indexation benefit Dividends will always be taxed at slab rate. Long term gains upto Rs 1 lakh are exempt capital gains tax. Investment objective of Edelweiss Nifty Next 50 Index Fund The investment objective of the scheme is to provide returns before expenses that closely correspond to the total returns of the Nifty Next 50 Index subject to tracking errors. However, there is no assurance that the investment objective of the Scheme will be realized and the Scheme does not assure or guarantee any returns. Minimum Investment and lockin period Minimum investment for lump sum payment is INR 100.00 and for SIP is INR 100.00. Edelweiss Nifty Next 50 Index Fund has no lock in period. Know more about Edelweiss Nifty Next 50 Index Fund Fund Manager Manasi Jalgaonkar Fund Manager of  Edelweiss Nifty Next 50 Index Fund, since 1 April 2026 Bhavesh Jain Fund Manager of  Edelweiss Nifty Next 50 Index Fund, since 30 November 2022 Learn more about Edelweiss Mutual Fund AUM Change All changes are between Mar'26 and May'26 Parameters May'26 Apr'26 Mar'26 AUM ₹ 270.9 Cr ₹ 255.7 Cr ₹ 218 Cr AUM of the fund stands at 270.9 Cr as of May'26 AUM increased by 15.3 Cr between May'26 and Apr'26",
     "fund_managers": "Manasi Jalgaonkar, Bhavesh Jain",
     "fund_managers_detail": [
         {
@@ -281,13 +281,13 @@
     ],
     "amc_page_url": "https://www.indmoney.com/mutual-funds/amc/edelweiss-mutual-fund",
     "aum_history": {
-        "Apr'26": "₹ 218 Cr",
-        "Mar'26": "₹ 218 Cr",
-        "Feb'26": "₹ 220.6 Cr"
+        "May'26": "₹ 270.9 Cr",
+        "Apr'26": "₹ 255.7 Cr",
+        "Mar'26": "₹ 218 Cr"
     },
     "aum_change_summary": [
-        "AUM of the fund stands at 218 Cr as of Apr'26",
-        "AUM has remained same  between Apr'26 and Mar'26"
+        "AUM of the fund stands at 270.9 Cr as of May'26",
+        "AUM increased by 15.3 Cr between May'26 and Apr'26"
     ],
     "scheme_code": 150899,
     "isin_growth": "INF754K01QL5",
