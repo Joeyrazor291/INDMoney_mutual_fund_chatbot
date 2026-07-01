@@ -1,8 +1,8 @@
 {
     "fund_name": "Aditya Birla Sun Life Quant Fund",
     "nav": "₹10.30",
-    "nav_date": "29 Jun 2026",
-    "nav_text": "Latest NAV for Aditya Birla Sun Life Quant Fund as of 29 Jun 2026 is ₹10.30",
+    "nav_date": "30 Jun 2026",
+    "nav_text": "Latest NAV for Aditya Birla Sun Life Quant Fund as of 30 Jun 2026 is ₹10.30",
     "nav_currency": "INR",
     "one_day_change_pct": -0.3,
     "inception_return": 1.49,
@@ -29,15 +29,15 @@
     "lock_in": "No Lock-in",
     "turnover": "125.23%",
     "return_1m": "0.98%",
-    "return_1m_benchmark": "1.51%",
+    "return_1m_benchmark": "1.49%",
     "return_1m_category_avg": "--",
     "return_1m_category_rank": "N/A",
     "return_3m": "9.93%",
-    "return_3m_benchmark": "9.42%",
+    "return_3m_benchmark": "12.02%",
     "return_3m_category_avg": "--",
     "return_3m_category_rank": "N/A",
     "return_6m": "0.68%",
-    "return_6m_benchmark": "-2.88%",
+    "return_6m_benchmark": "-3.67%",
     "return_6m_category_avg": "--",
     "return_6m_category_rank": "N/A",
     "return_1y": "4.46%",
@@ -45,11 +45,11 @@
     "return_1y_category_avg": "--",
     "return_1y_category_rank": "N/A",
     "return_3y": "--",
-    "return_3y_benchmark": "12.21%",
+    "return_3y_benchmark": "11.86%",
     "return_3y_category_avg": "--",
     "return_3y_category_rank": "N/A",
     "return_5y": "--",
-    "return_5y_benchmark": "11.27%",
+    "return_5y_benchmark": "11.28%",
     "return_5y_category_avg": "--",
     "return_5y_category_rank": "N/A",
     "performance_highlight": "The fund has outperformed the benchmark (Nifty 500) over 1Y, but underperformed over 3Y, 5Y.",
@@ -312,6 +312,10 @@
     "number_of_folios": null,
     "country_allocation": null,
     "historical_nav": [
+        {
+            "date": "30-06-2026",
+            "nav": "10.30000"
+        },
         {
             "date": "29-06-2026",
             "nav": "10.30000"
@@ -1279,19 +1283,15 @@
         {
             "date": "02-07-2025",
             "nav": "9.82000"
-        },
-        {
-            "date": "01-07-2025",
-            "nav": "9.87000"
         }
     ],
     "mfapi_fund_house": "Aditya Birla Sun Life Mutual Fund",
     "mfapi_scheme_type": "Open Ended Schemes",
     "mfapi_scheme_category": "Equity Scheme - Sectoral/ Thematic",
     "mfapi_scheme_name": "Aditya Birla Sun Life Quant Fund - Direct Growth",
-    "previous_day_nav": "10.33000",
-    "nav_change_absolute": "₹-0.03",
-    "nav_change_pct": "-0.29%",
+    "previous_day_nav": "10.30000",
+    "nav_change_absolute": "₹0.00",
+    "nav_change_pct": "0.00%",
     "taxation": {
         "fund_tax_category": "Equity",
         "stcg_tax_rate": "20%",
