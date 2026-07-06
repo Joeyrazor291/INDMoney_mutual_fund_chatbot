@@ -29,7 +29,7 @@
     "lock_in": "No Lock-in",
     "turnover": "26.57%",
     "return_1m": "5.78%",
-    "return_1m_benchmark": "3.57%",
+    "return_1m_benchmark": "3.72%",
     "return_1m_category_avg": "4.79%",
     "return_1m_category_rank": "1/23",
     "return_3m": "10.23%",
@@ -37,7 +37,7 @@
     "return_3m_category_avg": "12.94%",
     "return_3m_category_rank": "1/22",
     "return_6m": "-2.41%",
-    "return_6m_benchmark": "-3.31%",
+    "return_6m_benchmark": "-3.15%",
     "return_6m_category_avg": "-0.97%",
     "return_6m_category_rank": "1/22",
     "return_1y": "3.01%",
@@ -45,11 +45,11 @@
     "return_1y_category_avg": "1.07%",
     "return_1y_category_rank": "1/21",
     "return_3y": "18.07%",
-    "return_3y_benchmark": "12.07%",
+    "return_3y_benchmark": "11.97%",
     "return_3y_category_avg": "13.74%",
     "return_3y_category_rank": "3/18",
     "return_5y": "18.76%",
-    "return_5y_benchmark": "11.54%",
+    "return_5y_benchmark": "11.39%",
     "return_5y_category_avg": "12.58%",
     "return_5y_category_rank": "--",
     "performance_highlight": "The fund has consistently outperformed the benchmark (Nifty 500) over the last 1Y, 3Y, 5Y time periods.",
@@ -293,16 +293,16 @@
     "ranking_cons": [
         "No bad points found for this fund."
     ],
-    "about": "About HDFC Flexi Cap Fund HDFC Flexi Cap is a  flexi-cap mutual fund  launched on 1st January 1995. These funds follow a diversified equity investment strategy where they invest in companies across all market captialization and adjust allocations based on market conditions. The fund uses  Nifty 500  TRI as its benchmark. Nifty 500 represents the broader market and helps the fund compare its returns with those of other companies \n   \n HDFC Mutual Fund  follows a  bottom-up approach , which involves paying attention to individual businesses instead of macroeconomic factors. They also pay close attention to  Quantitative  (Growth, Cash Flows, Risks) and  Qualitative  (Management, Track Record, Insights) aspects of the companies.  \n   \n Staying true to the nature of the fund, they diversify across market caps and asset classes. Diversification is achieved through a balanced mix of asset types, loan sizes, contract volumes, and geographies, while risk in less diversified pools is mitigated using credit enhancements. HDFC Flexi Cap maintains a strong focus on industries like Financials, Automobiles, Healthcare, Technology, etc.  Know more about HDFC Flexi Cap Fund Fund Manager Amit Ganatra Fund Manager of  HDFC Flexi Cap Fund, since 1 February 2026 Dhruv Muchhal Fund Manager of  HDFC Flexi Cap Fund, since 22 June 2023 Learn more about HDFC Mutual Fund AUM Change All changes are between Mar'26 and May'26 Parameters May'26 Apr'26 Mar'26 AUM ₹ 1L Cr ₹ 1L Cr ₹ 91.3K Cr AUM of the fund stands at 1L Cr as of May'26 AUM increased by 1.3K Cr between May'26 and Apr'26",
-    "fund_managers": "Amit Ganatra, Dhruv Muchhal",
+    "about": "About HDFC Flexi Cap Fund HDFC Flexi Cap is a  flexi-cap mutual fund  launched on 1st January 1995. These funds follow a diversified equity investment strategy where they invest in companies across all market captialization and adjust allocations based on market conditions. The fund uses  Nifty 500  TRI as its benchmark. Nifty 500 represents the broader market and helps the fund compare its returns with those of other companies \n   \n HDFC Mutual Fund  follows a  bottom-up approach , which involves paying attention to individual businesses instead of macroeconomic factors. They also pay close attention to  Quantitative  (Growth, Cash Flows, Risks) and  Qualitative  (Management, Track Record, Insights) aspects of the companies.  \n   \n Staying true to the nature of the fund, they diversify across market caps and asset classes. Diversification is achieved through a balanced mix of asset types, loan sizes, contract volumes, and geographies, while risk in less diversified pools is mitigated using credit enhancements. HDFC Flexi Cap maintains a strong focus on industries like Financials, Automobiles, Healthcare, Technology, etc.  Know more about HDFC Flexi Cap Fund Fund Manager Dhruv Muchhal Fund Manager of  HDFC Flexi Cap Fund, since 22 June 2023 Amit Ganatra Fund Manager of  HDFC Flexi Cap Fund, since 1 February 2026 Learn more about HDFC Mutual Fund AUM Change All changes are between Mar'26 and May'26 Parameters May'26 Apr'26 Mar'26 AUM ₹ 1L Cr ₹ 1L Cr ₹ 91.3K Cr AUM of the fund stands at 1L Cr as of May'26 AUM increased by 1.3K Cr between May'26 and Apr'26",
+    "fund_managers": "Dhruv Muchhal, Amit Ganatra",
     "fund_managers_detail": [
-        {
-            "name": "Amit Ganatra",
-            "subtitle": "Fund Manager of  HDFC Flexi Cap Fund, since 1 February 2026"
-        },
         {
             "name": "Dhruv Muchhal",
             "subtitle": "Fund Manager of  HDFC Flexi Cap Fund, since 22 June 2023"
+        },
+        {
+            "name": "Amit Ganatra",
+            "subtitle": "Fund Manager of  HDFC Flexi Cap Fund, since 1 February 2026"
         }
     ],
     "amc_page_url": "https://www.indmoney.com/mutual-funds/amc/hdfc-mutual-fund",
