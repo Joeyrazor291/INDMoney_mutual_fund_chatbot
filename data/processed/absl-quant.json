@@ -1,11 +1,11 @@
 {
     "fund_name": "Aditya Birla Sun Life Quant Fund",
-    "nav": "₹10.37",
-    "nav_date": "14 Jul 2026",
-    "nav_text": "Latest NAV for Aditya Birla Sun Life Quant Fund as of 14 Jul 2026 is ₹10.37",
+    "nav": "₹10.39",
+    "nav_date": "15 Jul 2026",
+    "nav_text": "Latest NAV for Aditya Birla Sun Life Quant Fund as of 15 Jul 2026 is ₹10.39",
     "nav_currency": "INR",
-    "one_day_change_pct": -0.3,
-    "inception_return": 2.04,
+    "one_day_change_pct": -0.5,
+    "inception_return": 1.79,
     "short_name": "Aditya Birla Sun Life Quant Fund",
     "amc_name": "Aditya Birla Sun Life Mutual Fund",
     "fund_category": "Equity",
@@ -28,28 +28,28 @@
     "exit_load": "0.5%",
     "lock_in": "No Lock-in",
     "turnover": "125.23%",
-    "return_1m": "2.66%",
-    "return_1m_benchmark": "2.65%",
+    "return_1m": "2.17%",
+    "return_1m_benchmark": "1.63%",
     "return_1m_category_avg": "--",
     "return_1m_category_rank": "N/A",
-    "return_3m": "5.36%",
-    "return_3m_benchmark": "4.6%",
+    "return_3m": "4.85%",
+    "return_3m_benchmark": "2.96%",
     "return_3m_category_avg": "--",
     "return_3m_category_rank": "N/A",
-    "return_6m": "1.66%",
-    "return_6m_benchmark": "-1.18%",
+    "return_6m": "0.88%",
+    "return_6m_benchmark": "-0.9%",
     "return_6m_category_avg": "--",
     "return_6m_category_rank": "N/A",
-    "return_1y": "7.76%",
-    "return_1y_benchmark": "-0.47%",
+    "return_1y": "6.91%",
+    "return_1y_benchmark": "-0.79%",
     "return_1y_category_avg": "--",
     "return_1y_category_rank": "N/A",
     "return_3y": "--",
-    "return_3y_benchmark": "11.43%",
+    "return_3y_benchmark": "11.54%",
     "return_3y_category_avg": "--",
     "return_3y_category_rank": "N/A",
     "return_5y": "--",
-    "return_5y_benchmark": "11.17%",
+    "return_5y_benchmark": "11.14%",
     "return_5y_category_avg": "--",
     "return_5y_category_rank": "N/A",
     "performance_highlight": "The fund has outperformed the benchmark (Nifty 500) over 1Y, but underperformed over 3Y, 5Y.",
@@ -187,68 +187,68 @@
     "sector_allocation": [
         {
             "name": "Financial Services",
-            "pct": "32.9%",
-            "pct_value": 32.9,
+            "pct": "31.7%",
+            "pct_value": 31.7,
             "asset_class": "Equity"
         },
         {
             "name": "Basic Materials",
-            "pct": "19.2%",
-            "pct_value": 19.2,
-            "asset_class": "Equity"
-        },
-        {
-            "name": "Health",
-            "pct": "12.9%",
-            "pct_value": 12.9,
-            "asset_class": "Equity"
-        },
-        {
-            "name": "Industrial",
-            "pct": "8.4%",
-            "pct_value": 8.4,
-            "asset_class": "Equity"
-        },
-        {
-            "name": "Consumer Cyclical",
-            "pct": "7.1%",
-            "pct_value": 7.1,
+            "pct": "22.1%",
+            "pct_value": 22.1,
             "asset_class": "Equity"
         },
         {
             "name": "Consumer Defensive",
-            "pct": "6.7%",
-            "pct_value": 6.7,
+            "pct": "9.4%",
+            "pct_value": 9.4,
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Consumer Cyclical",
+            "pct": "9.1%",
+            "pct_value": 9.1,
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Health",
+            "pct": "8.3%",
+            "pct_value": 8.3,
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Industrial",
+            "pct": "6.9%",
+            "pct_value": 6.9,
             "asset_class": "Equity"
         },
         {
             "name": "Energy",
-            "pct": "5.6%",
-            "pct_value": 5.6,
+            "pct": "6.3%",
+            "pct_value": 6.3,
             "asset_class": "Equity"
         },
         {
             "name": "Communication",
-            "pct": "4%",
-            "pct_value": 4,
+            "pct": "3.9%",
+            "pct_value": 3.9,
             "asset_class": "Equity"
         },
         {
             "name": "Tech",
-            "pct": "3.2%",
-            "pct_value": 3.2,
+            "pct": "2.3%",
+            "pct_value": 2.3,
             "asset_class": "Equity"
         },
         {
             "name": "Cash Equivalent",
-            "pct": "86.9%",
-            "pct_value": 86.9,
+            "pct": "96.4%",
+            "pct_value": 96.4,
             "asset_class": "Debt & Cash"
         },
         {
             "name": "Corporate",
-            "pct": "13.1%",
-            "pct_value": 13.1,
+            "pct": "3.6%",
+            "pct_value": 3.6,
             "asset_class": "Debt & Cash"
         }
     ],
@@ -261,7 +261,7 @@
     "ranking_scores": {},
     "ranking_pros": [],
     "ranking_cons": [],
-    "about": "About Aditya Birla Sun Life Quant Fund Aditya Birla Sun Life Quant Fund is an equity fund. This fund was started on 28 June, 2024. The fund is managed by Harish Krishnan, Kartikeya Singh. The fund could potentially beat inflation in the long-run. Key Parameters Aditya Birla Sun Life Quant Fund has ₹2033 Cr worth of assets under management (AUM) as on Jul 2026 and is more than category average. The fund has an expense ratio 0.6. Returns Aditya Birla Sun Life Quant Fund has given a CAGR return of 1.79% since inception. Over the last 1 year the fund has given a CAGR return of 6.91%. Holdings Aditya Birla Sun Life Quant Fund has allocated its funds majorly in Cash Equivalent, Financial Services, Basic Materials, Health, Industrial, Corporate, Consumer Defensive, Consumer Cyclical, Energy, Communication, Tech. Its top holdings are The Federal Bank Ltd, Marico Ltd, State Bank of India, Apollo Hospitals Enterprise Ltd, Ashok Leyland Ltd Taxation As it is a equity - other mutual fund the taxation is as follows: For short term (less than a year) capital gains will be taxed at 20% For long term (more than 1 year) capital gains will be taxed at 12.5% without indexation benefit Dividends will always be taxed at slab rate. Long term gains upto Rs 1 lakh are exempt capital gains tax. Investment objective of Aditya Birla Sun Life Quant Fund The investment objective of the Scheme is to generate long term capital appreciation by investing in equity and equity related securities based on quant model theme . The Scheme does not guarantee/indicate any returns. There is no assurance that the investment objective of the Scheme will be achieved. Minimum Investment and lockin period Minimum investment for lump sum payment is INR 500.00 and for SIP is INR 500.00. Aditya Birla Sun Life Quant Fund has no lock in period. Know more about Aditya Birla Sun Life Quant Fund Fund Manager Harish Krishnan Fund Manager of  Aditya Birla Sun Life Quant Fund, since 28 June 2024 Kartikeya Singh Fund Manager of  Aditya Birla Sun Life Quant Fund, since 13 May 2026 Learn more about Aditya Birla Sun Life Mutual Fund AUM Change All changes are between Apr'26 and Jun'26 Parameters Jun'26 May'26 Apr'26 AUM ₹ 2K Cr ₹ 2K Cr ₹ 2K Cr AUM of the fund stands at 2K Cr as of Jun'26 AUM decreased by 11.7 Cr  between Jun'26 and May'26",
+    "about": "About Aditya Birla Sun Life Quant Fund Aditya Birla Sun Life Quant Fund is an equity fund. This fund was started on 28 June, 2024. The fund is managed by Harish Krishnan, Kartikeya Singh. The fund could potentially beat inflation in the long-run. Key Parameters Aditya Birla Sun Life Quant Fund has ₹2033 Cr worth of assets under management (AUM) as on Jul 2026 and is more than category average. The fund has an expense ratio 0.6. Returns Aditya Birla Sun Life Quant Fund has given a CAGR return of 1.89% since inception. Over the last 1 year the fund has given a CAGR return of 6.45%. Holdings Aditya Birla Sun Life Quant Fund has allocated its funds majorly in Cash Equivalent, Financial Services, Basic Materials, Health, Industrial, Corporate, Consumer Defensive, Consumer Cyclical, Energy, Communication, Tech. Its top holdings are The Federal Bank Ltd, Marico Ltd, State Bank of India, Apollo Hospitals Enterprise Ltd, Ashok Leyland Ltd Taxation As it is a equity - other mutual fund the taxation is as follows: For short term (less than a year) capital gains will be taxed at 20% For long term (more than 1 year) capital gains will be taxed at 12.5% without indexation benefit Dividends will always be taxed at slab rate. Long term gains upto Rs 1 lakh are exempt capital gains tax. Investment objective of Aditya Birla Sun Life Quant Fund The investment objective of the Scheme is to generate long term capital appreciation by investing in equity and equity related securities based on quant model theme . The Scheme does not guarantee/indicate any returns. There is no assurance that the investment objective of the Scheme will be achieved. Minimum Investment and lockin period Minimum investment for lump sum payment is INR 500.00 and for SIP is INR 500.00. Aditya Birla Sun Life Quant Fund has no lock in period. Know more about Aditya Birla Sun Life Quant Fund Fund Manager Harish Krishnan Fund Manager of  Aditya Birla Sun Life Quant Fund, since 28 June 2024 Kartikeya Singh Fund Manager of  Aditya Birla Sun Life Quant Fund, since 13 May 2026 Learn more about Aditya Birla Sun Life Mutual Fund AUM Change All changes are between Apr'26 and Jun'26 Parameters Jun'26 May'26 Apr'26 AUM ₹ 2K Cr ₹ 2K Cr ₹ 2K Cr AUM of the fund stands at 2K Cr as of Jun'26 AUM decreased by 11.7 Cr  between Jun'26 and May'26",
     "fund_managers": "Harish Krishnan, Kartikeya Singh",
     "fund_managers_detail": [
         {
@@ -275,13 +275,13 @@
     ],
     "amc_page_url": "https://www.indmoney.com/mutual-funds/amc/aditya-birla-mutual-fund",
     "aum_history": {
+        "Jun'26": "₹ 2K Cr",
         "May'26": "₹ 2K Cr",
-        "Apr'26": "₹ 2K Cr",
-        "Mar'26": "₹ 1.9K Cr"
+        "Apr'26": "₹ 2K Cr"
     },
     "aum_change_summary": [
-        "AUM of the fund stands at 2K Cr as of May'26",
-        "AUM increased by 18 Cr between May'26 and Apr'26"
+        "AUM of the fund stands at 2K Cr as of Jun'26",
+        "AUM decreased by 11.7 Cr  between Jun'26 and May'26"
     ],
     "scheme_code": 152684,
     "isin_growth": "INF209KC1118",
@@ -312,6 +312,10 @@
     "number_of_folios": null,
     "country_allocation": null,
     "historical_nav": [
+        {
+            "date": "15-07-2026",
+            "nav": "10.39000"
+        },
         {
             "date": "14-07-2026",
             "nav": "10.37000"
@@ -1279,19 +1283,15 @@
         {
             "date": "17-07-2025",
             "nav": "9.73000"
-        },
-        {
-            "date": "16-07-2025",
-            "nav": "9.75000"
         }
     ],
     "mfapi_fund_house": "Aditya Birla Sun Life Mutual Fund",
     "mfapi_scheme_type": "Open Ended Schemes",
     "mfapi_scheme_category": "Equity Scheme - Sectoral/ Thematic",
     "mfapi_scheme_name": "Aditya Birla Sun Life Quant Fund - Direct Growth",
-    "previous_day_nav": "10.42000",
-    "nav_change_absolute": "₹-0.05",
-    "nav_change_pct": "-0.48%",
+    "previous_day_nav": "10.37000",
+    "nav_change_absolute": "₹0.02",
+    "nav_change_pct": "0.19%",
     "taxation": {
         "fund_tax_category": "Equity",
         "stcg_tax_rate": "20%",
