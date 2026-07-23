@@ -345,6 +345,10 @@
     "country_allocation": null,
     "historical_nav": [
         {
+            "date": "22-07-2026",
+            "nav": "2220.85500"
+        },
+        {
             "date": "21-07-2026",
             "nav": "2243.26200"
         },
@@ -1311,19 +1315,15 @@
         {
             "date": "24-07-2025",
             "nav": "2170.90300"
-        },
-        {
-            "date": "23-07-2025",
-            "nav": "2179.82900"
         }
     ],
     "mfapi_fund_house": "HDFC Mutual Fund",
     "mfapi_scheme_type": "Open Ended Schemes",
     "mfapi_scheme_category": "Equity Scheme - Flexi Cap Fund",
     "mfapi_scheme_name": "HDFC Flexi Cap Fund - Growth Option - Direct Plan",
-    "previous_day_nav": "2240.87600",
-    "nav_change_absolute": "₹2.39",
-    "nav_change_pct": "0.11%",
+    "previous_day_nav": "2243.26200",
+    "nav_change_absolute": "₹-22.41",
+    "nav_change_pct": "-1.00%",
     "taxation": {
         "fund_tax_category": "Equity",
         "stcg_tax_rate": "20%",
