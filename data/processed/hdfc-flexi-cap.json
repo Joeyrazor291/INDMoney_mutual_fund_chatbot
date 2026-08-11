@@ -1,8 +1,8 @@
 {
     "fund_name": "HDFC Flexi Cap Fund -Direct Plan - Growth Option",
-    "nav": "₹2296.80",
-    "nav_date": "07 Aug 2026",
-    "nav_text": "Latest NAV for HDFC Flexi Cap Fund as of 07 Aug 2026 is ₹2296.80",
+    "nav": "₹2298.07",
+    "nav_date": "10 Aug 2026",
+    "nav_text": "Latest NAV for HDFC Flexi Cap Fund as of 10 Aug 2026 is ₹2298.07",
     "nav_currency": "INR",
     "one_day_change_pct": "N/A",
     "inception_return": 16.24,
@@ -344,6 +344,10 @@
     "number_of_folios": null,
     "country_allocation": null,
     "historical_nav": [
+        {
+            "date": "10-08-2026",
+            "nav": "2298.07000"
+        },
         {
             "date": "07-08-2026",
             "nav": "2296.80100"
@@ -1311,19 +1315,15 @@
         {
             "date": "12-08-2025",
             "nav": "2141.97000"
-        },
-        {
-            "date": "11-08-2025",
-            "nav": "2143.60900"
         }
     ],
     "mfapi_fund_house": "HDFC Mutual Fund",
     "mfapi_scheme_type": "Open Ended Schemes",
     "mfapi_scheme_category": "Equity Scheme - Flexi Cap Fund",
     "mfapi_scheme_name": "HDFC Flexi Cap Fund - Growth Option - Direct Plan",
-    "previous_day_nav": "2297.60000",
-    "nav_change_absolute": "₹-0.80",
-    "nav_change_pct": "-0.03%",
+    "previous_day_nav": "2296.80100",
+    "nav_change_absolute": "₹1.27",
+    "nav_change_pct": "0.06%",
     "taxation": {
         "fund_tax_category": "Equity",
         "stcg_tax_rate": "20%",
