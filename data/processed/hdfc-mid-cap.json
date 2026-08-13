@@ -1,11 +1,11 @@
 {
     "fund_name": "HDFC Mid Cap Fund -Direct Plan - Growth Option",
-    "nav": "₹237.10",
-    "nav_date": "11 Aug 2026",
-    "nav_text": "Latest NAV for HDFC Mid Cap Fund as of 11 Aug 2026 is ₹237.10",
+    "nav": "₹236.89",
+    "nav_date": "12 Aug 2026",
+    "nav_text": "Latest NAV for HDFC Mid Cap Fund as of 12 Aug 2026 is ₹236.89",
     "nav_currency": "INR",
-    "one_day_change_pct": "N/A",
-    "inception_return": 20.47,
+    "one_day_change_pct": 0.1,
+    "inception_return": 20.48,
     "short_name": "HDFC Mid Cap Fund",
     "amc_name": "HDFC Mutual Fund",
     "fund_category": "Equity",
@@ -28,29 +28,29 @@
     "exit_load": "1.0%",
     "lock_in": "No Lock-in",
     "turnover": "18.22%",
-    "return_1m": "2.1%",
-    "return_1m_benchmark": "1.27%",
-    "return_1m_category_avg": "1.79%",
+    "return_1m": "2.21%",
+    "return_1m_benchmark": "1.53%",
+    "return_1m_category_avg": "1.81%",
     "return_1m_category_rank": "4/25",
-    "return_3m": "5.78%",
-    "return_3m_benchmark": "4.14%",
-    "return_3m_category_avg": "4.45%",
+    "return_3m": "7.16%",
+    "return_3m_benchmark": "7.12%",
+    "return_3m_category_avg": "5.62%",
     "return_3m_category_rank": "1/21",
-    "return_6m": "4.36%",
-    "return_6m_benchmark": "4.9%",
-    "return_6m_category_avg": "6.94%",
+    "return_6m": "4.37%",
+    "return_6m_benchmark": "5.7%",
+    "return_6m_category_avg": "6.85%",
     "return_6m_category_rank": "1/21",
-    "return_1y": "13.5%",
-    "return_1y_benchmark": "11.8%",
-    "return_1y_category_avg": "13.2%",
+    "return_1y": "13.01%",
+    "return_1y_benchmark": "12.35%",
+    "return_1y_category_avg": "12.46%",
     "return_1y_category_rank": "2/19",
-    "return_3y": "20.34%",
-    "return_3y_benchmark": "18.24%",
-    "return_3y_category_avg": "18.79%",
+    "return_3y": "20.43%",
+    "return_3y_benchmark": "18.35%",
+    "return_3y_category_avg": "18.86%",
     "return_3y_category_rank": "4/18",
-    "return_5y": "21.15%",
-    "return_5y_benchmark": "17.81%",
-    "return_5y_category_avg": "16.89%",
+    "return_5y": "21.24%",
+    "return_5y_benchmark": "17.63%",
+    "return_5y_category_avg": "16.97%",
     "return_5y_category_rank": "--",
     "performance_highlight": "The fund has consistently outperformed the benchmark (Nifty Midcap 150) over the last 1Y, 3Y, 5Y time periods.",
     "alpha_3y": "2.54",
@@ -58,11 +58,11 @@
     "sharpe_3y": "0.84",
     "sortino_3y": "1.27",
     "info_ratio_3y": "0.22",
-    "total_holdings_count": 76,
+    "total_holdings_count": 79,
     "holdings_count_breakdown": {
         "Equity Holdings": {
-            "count": 76,
-            "pct": 92.07765
+            "count": 79,
+            "pct": 93.067
         }
     },
     "top_holdings": [
@@ -70,47 +70,39 @@
             "name": "The Federal Bank Ltd",
             "sector": "Financial Services",
             "shares": 127825000,
-            "allocation_pct": "4.18%",
-            "change_pct": "0%",
-            "asset_class": "Equity"
-        },
-        {
-            "name": "Max Financial Services Ltd",
-            "sector": "Financial Services",
-            "shares": 26114231,
-            "allocation_pct": "4.1%",
+            "allocation_pct": "4.36%",
             "change_pct": "0%",
             "asset_class": "Equity"
         },
         {
             "name": "AU Small Finance Bank Ltd",
             "sector": "Financial Services",
-            "shares": 39687347,
-            "allocation_pct": "4.08%",
+            "shares": 39737347,
+            "allocation_pct": "3.96%",
             "change_pct": "0.3%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Max Financial Services Ltd",
+            "sector": "Financial Services",
+            "shares": 26114231,
+            "allocation_pct": "3.72%",
+            "change_pct": "0%",
             "asset_class": "Equity"
         },
         {
             "name": "Balkrishna Industries Ltd",
             "sector": "Consumer Cyclical",
             "shares": 14341251,
-            "allocation_pct": "3.1%",
+            "allocation_pct": "3.37%",
             "change_pct": "0.5%",
-            "asset_class": "Equity"
-        },
-        {
-            "name": "Fortis Healthcare Ltd",
-            "sector": "Healthcare",
-            "shares": 32401862,
-            "allocation_pct": "3.07%",
-            "change_pct": "0%",
             "asset_class": "Equity"
         },
         {
             "name": "Ipca Laboratories Ltd",
             "sector": "Healthcare",
             "shares": 18096628,
-            "allocation_pct": "3.05%",
+            "allocation_pct": "3.01%",
             "change_pct": "0%",
             "asset_class": "Equity"
         },
@@ -118,7 +110,15 @@
             "name": "Indian Bank",
             "sector": "Financial Services",
             "shares": 36854482,
-            "allocation_pct": "2.98%",
+            "allocation_pct": "2.93%",
+            "change_pct": "0%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Fortis Healthcare Ltd",
+            "sector": "Healthcare",
+            "shares": 32401862,
+            "allocation_pct": "2.91%",
             "change_pct": "0%",
             "asset_class": "Equity"
         },
@@ -126,23 +126,23 @@
             "name": "Glenmark Pharmaceuticals Ltd",
             "sector": "Healthcare",
             "shares": 13408183,
-            "allocation_pct": "2.93%",
+            "allocation_pct": "2.85%",
             "change_pct": "0%",
             "asset_class": "Equity"
         },
         {
-            "name": "Vishal Mega Mart Ltd",
-            "sector": "Consumer Cyclical",
-            "shares": 226155581,
-            "allocation_pct": "2.64%",
+            "name": "Coforge Ltd",
+            "sector": "Technology",
+            "shares": 15620600,
+            "allocation_pct": "2.56%",
             "change_pct": "0%",
             "asset_class": "Equity"
         },
         {
-            "name": "Cummins India Ltd",
-            "sector": "Industrials",
-            "shares": 4498204,
-            "allocation_pct": "2.52%",
+            "name": "Marico Ltd",
+            "sector": "Consumer Defensive",
+            "shares": 30266907,
+            "allocation_pct": "2.51%",
             "change_pct": "0%",
             "asset_class": "Equity"
         }
@@ -150,8 +150,8 @@
     "asset_allocation": [
         {
             "name": "Equity",
-            "pct": "92.1%",
-            "pct_value": 92.1,
+            "pct": "93.1%",
+            "pct_value": 93.1,
             "breakdown_label": "Size breakup",
             "breakdown": [
                 {
@@ -173,8 +173,8 @@
         },
         {
             "name": "Debt & Cash",
-            "pct": "7.9%",
-            "pct_value": 7.9,
+            "pct": "6.9%",
+            "pct_value": 6.9,
             "breakdown_label": "Credit rating breakup",
             "breakdown": []
         }
@@ -322,6 +322,10 @@
     "number_of_folios": null,
     "country_allocation": null,
     "historical_nav": [
+        {
+            "date": "12-08-2026",
+            "nav": "236.89100"
+        },
         {
             "date": "11-08-2026",
             "nav": "237.09600"
@@ -1289,19 +1293,15 @@
         {
             "date": "14-08-2025",
             "nav": "210.61900"
-        },
-        {
-            "date": "13-08-2025",
-            "nav": "210.62000"
         }
     ],
     "mfapi_fund_house": "HDFC Mutual Fund",
     "mfapi_scheme_type": "Open Ended Schemes",
     "mfapi_scheme_category": "Equity Scheme - Mid Cap Fund",
     "mfapi_scheme_name": "HDFC Mid Cap Fund - Growth Option - Direct Plan",
-    "previous_day_nav": "236.83100",
-    "nav_change_absolute": "₹0.27",
-    "nav_change_pct": "0.11%",
+    "previous_day_nav": "237.09600",
+    "nav_change_absolute": "₹-0.21",
+    "nav_change_pct": "-0.09%",
     "taxation": {
         "fund_tax_category": "Equity",
         "stcg_tax_rate": "20%",
