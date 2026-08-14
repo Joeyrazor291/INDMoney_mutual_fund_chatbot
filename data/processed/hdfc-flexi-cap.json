@@ -1,11 +1,11 @@
 {
     "fund_name": "HDFC Flexi Cap Fund -Direct Plan - Growth Option",
-    "nav": "₹2297.31",
-    "nav_date": "11 Aug 2026",
-    "nav_text": "Latest NAV for HDFC Flexi Cap Fund as of 11 Aug 2026 is ₹2297.31",
+    "nav": "₹2295.28",
+    "nav_date": "13 Aug 2026",
+    "nav_text": "Latest NAV for HDFC Flexi Cap Fund as of 13 Aug 2026 is ₹2295.28",
     "nav_currency": "INR",
     "one_day_change_pct": "N/A",
-    "inception_return": 16.23,
+    "inception_return": 16.22,
     "short_name": "HDFC Flexi Cap Fund",
     "amc_name": "HDFC Mutual Fund",
     "fund_category": "Equity",
@@ -20,7 +20,7 @@
     "fund_objective": "<p>HDFC Flexi Cap is a&nbsp;<a href=\"https://www.indmoney.com/mutual-funds/equity/flexi-cap\">flexi-cap mutual fund</a>&nbsp;launched on 1st January 1995. These funds follow a diversified equity investment strategy where they invest in companies across all market captialization and adjust allocations based on market conditions. The fund uses&nbsp;<a href=\"https://www.indmoney.com/indices/nifty-500\">Nifty 500</a>&nbsp;TRI as its benchmark. Nifty 500 represents the broader market and helps the fund compare its returns with those of other companies</p>\n<p>&nbsp;</p>\n<p><a href=\"https://www.indmoney.com/mutual-funds/amc/hdfc-mutual-fund\">HDFC Mutual Fund</a>&nbsp;follows a&nbsp;<strong>bottom-up approach</strong>, which involves paying attention to individual businesses instead of macroeconomic factors. They also pay close attention to&nbsp;<strong>Quantitative&nbsp;</strong>(Growth, Cash Flows, Risks) and&nbsp;<strong>Qualitative&nbsp;</strong>(Management, Track Record, Insights) aspects o",
     "expense_ratio": "0.75%",
     "benchmark": "Nifty 500",
-    "aum": "1,06,496Cr",
+    "aum": "1,10,736Cr",
     "inception_date": "1 January, 2013",
     "min_lumpsum_sip": "₹100/₹100",
     "min_lumpsum_amount": "₹100",
@@ -28,29 +28,29 @@
     "exit_load": "1.0%",
     "lock_in": "No Lock-in",
     "turnover": "26.57%",
-    "return_1m": "2.53%",
-    "return_1m_benchmark": "1.43%",
-    "return_1m_category_avg": "2.49%",
+    "return_1m": "2.52%",
+    "return_1m_benchmark": "1.33%",
+    "return_1m_category_avg": "2.55%",
     "return_1m_category_rank": "1/24",
-    "return_3m": "7.33%",
-    "return_3m_benchmark": "3.88%",
-    "return_3m_category_avg": "6.53%",
+    "return_3m": "9.14%",
+    "return_3m_benchmark": "5.72%",
+    "return_3m_category_avg": "8.91%",
     "return_3m_category_rank": "1/23",
-    "return_6m": "-0.18%",
-    "return_6m_benchmark": "-0.43%",
-    "return_6m_category_avg": "2.93%",
+    "return_6m": "0.19%",
+    "return_6m_benchmark": "1.48%",
+    "return_6m_category_avg": "3.35%",
     "return_6m_category_rank": "1/22",
-    "return_1y": "7.17%",
-    "return_1y_benchmark": "4.63%",
-    "return_1y_category_avg": "7.18%",
+    "return_1y": "7.24%",
+    "return_1y_benchmark": "4.23%",
+    "return_1y_category_avg": "7.47%",
     "return_1y_category_rank": "1/21",
-    "return_3y": "17.79%",
-    "return_3y_benchmark": "11.99%",
-    "return_3y_category_avg": "13.88%",
+    "return_3y": "17.78%",
+    "return_3y_benchmark": "11.95%",
+    "return_3y_category_avg": "13.89%",
     "return_3y_category_rank": "3/18",
-    "return_5y": "19%",
-    "return_5y_benchmark": "11.28%",
-    "return_5y_category_avg": "12.67%",
+    "return_5y": "18.85%",
+    "return_5y_benchmark": "10.96%",
+    "return_5y_category_avg": "12.47%",
     "return_5y_category_rank": "--",
     "performance_highlight": "The fund has consistently outperformed the benchmark (Nifty 500) over the last 1Y, 3Y, 5Y time periods.",
     "alpha_3y": "5.10",
@@ -58,39 +58,39 @@
     "sharpe_3y": "0.81",
     "sortino_3y": "1.22",
     "info_ratio_3y": "1.06",
-    "total_holdings_count": 73,
+    "total_holdings_count": 78,
     "holdings_count_breakdown": {
         "Equity Holdings": {
-            "count": 70,
-            "pct": 96.23957
+            "count": 75,
+            "pct": 96.36213
         },
         "Debt Holdings": {
             "count": 3,
-            "pct": 3.76043
+            "pct": 3.63787
         }
     },
     "top_holdings": [
         {
             "name": "ICICI Bank Ltd",
             "sector": "Financial Services",
-            "shares": 71055082,
-            "allocation_pct": "9.18%",
+            "shares": 71045082,
+            "allocation_pct": "9.21%",
             "change_pct": "3.5%",
-            "asset_class": "Equity"
-        },
-        {
-            "name": "Axis Bank Ltd",
-            "sector": "Financial Services",
-            "shares": 54105435,
-            "allocation_pct": "6.84%",
-            "change_pct": "0%",
             "asset_class": "Equity"
         },
         {
             "name": "HDFC Bank Ltd",
             "sector": "Financial Services",
             "shares": 90407730,
-            "allocation_pct": "6.77%",
+            "allocation_pct": "6.11%",
+            "change_pct": "0%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "sector": "Financial Services",
+            "shares": 54105435,
+            "allocation_pct": "6.01%",
             "change_pct": "0%",
             "asset_class": "Equity"
         },
@@ -98,7 +98,7 @@
             "name": "State Bank of India",
             "sector": "Financial Services",
             "shares": 44579608,
-            "allocation_pct": "4.3%",
+            "allocation_pct": "4.14%",
             "change_pct": "0%",
             "asset_class": "Equity"
         },
@@ -106,15 +106,23 @@
             "name": "SBI Life Insurance Co Ltd",
             "sector": "Financial Services",
             "shares": 20930184,
-            "allocation_pct": "3.47%",
+            "allocation_pct": "3.56%",
             "change_pct": "0%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Eternal Ltd",
+            "sector": "Consumer Cyclical",
+            "shares": 123068952,
+            "allocation_pct": "3.36%",
+            "change_pct": "6.7%",
             "asset_class": "Equity"
         },
         {
             "name": "Larsen & Toubro Ltd",
             "sector": "Industrials",
             "shares": 8878007,
-            "allocation_pct": "3.45%",
+            "allocation_pct": "3.16%",
             "change_pct": "6%",
             "asset_class": "Equity"
         },
@@ -122,7 +130,7 @@
             "name": "Kotak Mahindra Bank Ltd",
             "sector": "Financial Services",
             "shares": 88448215,
-            "allocation_pct": "3.26%",
+            "allocation_pct": "3.12%",
             "change_pct": "0%",
             "asset_class": "Equity"
         },
@@ -130,55 +138,47 @@
             "name": "InterGlobe Aviation Ltd",
             "sector": "Industrials",
             "shares": 6463717,
-            "allocation_pct": "3.26%",
+            "allocation_pct": "3.02%",
             "change_pct": "13.2%",
             "asset_class": "Equity"
         },
         {
-            "name": "Eternal Ltd",
-            "sector": "Consumer Cyclical",
-            "shares": 122668952,
-            "allocation_pct": "3.05%",
-            "change_pct": "6.7%",
-            "asset_class": "Equity"
-        },
-        {
-            "name": "Maruti Suzuki India Ltd",
-            "sector": "Consumer Cyclical",
-            "shares": 2253697,
-            "allocation_pct": "2.99%",
-            "change_pct": "7.3%",
+            "name": "Bharti Airtel Ltd",
+            "sector": "Communication Services",
+            "shares": 16495885,
+            "allocation_pct": "2.94%",
+            "change_pct": "0%",
             "asset_class": "Equity"
         }
     ],
     "asset_allocation": [
         {
             "name": "Equity",
-            "pct": "96.2%",
-            "pct_value": 96.2,
+            "pct": "96.4%",
+            "pct_value": 96.4,
             "breakdown_label": "Size breakup",
             "breakdown": [
                 {
                     "name": "Large cap",
-                    "pct": "72.2%",
-                    "value": 72.177
+                    "pct": "70.9%",
+                    "value": 70.944
                 },
                 {
                     "name": "Mid cap",
-                    "pct": "13.7%",
-                    "value": 13.745
+                    "pct": "14.4%",
+                    "value": 14.424
                 },
                 {
                     "name": "Small cap",
-                    "pct": "10.3%",
-                    "value": 10.318
+                    "pct": "10.6%",
+                    "value": 10.648
                 }
             ]
         },
         {
             "name": "Debt & Cash",
-            "pct": "3.8%",
-            "pct_value": 3.8,
+            "pct": "3.6%",
+            "pct_value": 3.6,
             "breakdown_label": "Credit rating breakup",
             "breakdown": [
                 {
@@ -190,9 +190,9 @@
         }
     ],
     "market_cap_allocation": {
-        "large_cap_pct": "72.2%",
-        "mid_cap_pct": "13.7%",
-        "small_cap_pct": "10.3%"
+        "large_cap_pct": "70.9%",
+        "mid_cap_pct": "14.4%",
+        "small_cap_pct": "10.6%"
     },
     "sector_allocation": [
         {
@@ -293,7 +293,7 @@
     "ranking_cons": [
         "No bad points found for this fund."
     ],
-    "about": "About HDFC Flexi Cap Fund HDFC Flexi Cap is a  flexi-cap mutual fund  launched on 1st January 1995. These funds follow a diversified equity investment strategy where they invest in companies across all market captialization and adjust allocations based on market conditions. The fund uses  Nifty 500  TRI as its benchmark. Nifty 500 represents the broader market and helps the fund compare its returns with those of other companies \n   \n HDFC Mutual Fund  follows a  bottom-up approach , which involves paying attention to individual businesses instead of macroeconomic factors. They also pay close attention to  Quantitative  (Growth, Cash Flows, Risks) and  Qualitative  (Management, Track Record, Insights) aspects of the companies.  \n   \n Staying true to the nature of the fund, they diversify across market caps and asset classes. Diversification is achieved through a balanced mix of asset types, loan sizes, contract volumes, and geographies, while risk in less diversified pools is mitigated using credit enhancements. HDFC Flexi Cap maintains a strong focus on industries like Financials, Automobiles, Healthcare, Technology, etc.  Know more about HDFC Flexi Cap Fund Fund Manager Dhruv Muchhal Fund Manager of  HDFC Flexi Cap Fund, since 22 June 2023 Amit Ganatra Fund Manager of  HDFC Flexi Cap Fund, since 1 February 2026 Learn more about HDFC Mutual Fund AUM Change All changes are between Apr'26 and Jun'26 Parameters Jun'26 May'26 Apr'26 AUM ₹ 1.1L Cr ₹ 1L Cr ₹ 1L Cr AUM of the fund stands at 1.1L Cr as of Jun'26 AUM increased by 4.7K Cr between Jun'26 and May'26",
+    "about": "About HDFC Flexi Cap Fund HDFC Flexi Cap is a  flexi-cap mutual fund  launched on 1st January 1995. These funds follow a diversified equity investment strategy where they invest in companies across all market captialization and adjust allocations based on market conditions. The fund uses  Nifty 500  TRI as its benchmark. Nifty 500 represents the broader market and helps the fund compare its returns with those of other companies \n   \n HDFC Mutual Fund  follows a  bottom-up approach , which involves paying attention to individual businesses instead of macroeconomic factors. They also pay close attention to  Quantitative  (Growth, Cash Flows, Risks) and  Qualitative  (Management, Track Record, Insights) aspects of the companies.  \n   \n Staying true to the nature of the fund, they diversify across market caps and asset classes. Diversification is achieved through a balanced mix of asset types, loan sizes, contract volumes, and geographies, while risk in less diversified pools is mitigated using credit enhancements. HDFC Flexi Cap maintains a strong focus on industries like Financials, Automobiles, Healthcare, Technology, etc.  Know more about HDFC Flexi Cap Fund Fund Manager Amit Ganatra Fund Manager of  HDFC Flexi Cap Fund, since 1 February 2026 Dhruv Muchhal Fund Manager of  HDFC Flexi Cap Fund, since 22 June 2023 Learn more about HDFC Mutual Fund AUM Change All changes are between Apr'26 and Jun'26 Parameters Jun'26 May'26 Apr'26 AUM ₹ 1.1L Cr ₹ 1L Cr ₹ 1L Cr AUM of the fund stands at 1.1L Cr as of Jun'26 AUM increased by 4.7K Cr between Jun'26 and May'26",
     "fund_managers": "Amit Ganatra, Dhruv Muchhal",
     "fund_managers_detail": [
         {
@@ -344,6 +344,10 @@
     "number_of_folios": null,
     "country_allocation": null,
     "historical_nav": [
+        {
+            "date": "13-08-2026",
+            "nav": "2295.27500"
+        },
         {
             "date": "12-08-2026",
             "nav": "2297.12700"
@@ -1311,19 +1315,15 @@
         {
             "date": "18-08-2025",
             "nav": "2187.60700"
-        },
-        {
-            "date": "14-08-2025",
-            "nav": "2155.71400"
         }
     ],
     "mfapi_fund_house": "HDFC Mutual Fund",
     "mfapi_scheme_type": "Open Ended Schemes",
     "mfapi_scheme_category": "Equity Scheme - Flexi Cap Fund",
     "mfapi_scheme_name": "HDFC Flexi Cap Fund - Growth Option - Direct Plan",
-    "previous_day_nav": "2297.31400",
-    "nav_change_absolute": "₹-0.19",
-    "nav_change_pct": "-0.01%",
+    "previous_day_nav": "2297.12700",
+    "nav_change_absolute": "₹-1.85",
+    "nav_change_pct": "-0.08%",
     "taxation": {
         "fund_tax_category": "Equity",
         "stcg_tax_rate": "20%",
