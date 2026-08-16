@@ -4,7 +4,7 @@
     "nav_date": "14 Aug 2026",
     "nav_text": "Latest NAV for Aditya Birla Sun Life ELSS Tax Saver Fund as of 14 Aug 2026 is ₹70.51",
     "nav_currency": "INR",
-    "one_day_change_pct": -0.2,
+    "one_day_change_pct": "N/A",
     "inception_return": 13.91,
     "short_name": "Aditya Birla Sun Life ELSS Tax Saver Fund",
     "amc_name": "Aditya Birla Sun Life Mutual Fund",
@@ -28,29 +28,29 @@
     "exit_load": "0%",
     "lock_in": "3 Years",
     "turnover": "27.43%",
-    "return_1m": "0.97%",
-    "return_1m_benchmark": "1.7%",
-    "return_1m_category_avg": "1.71%",
+    "return_1m": "1.48%",
+    "return_1m_benchmark": "1.42%",
+    "return_1m_category_avg": "2.21%",
     "return_1m_category_rank": "23/30",
-    "return_3m": "6.79%",
-    "return_3m_benchmark": "4.34%",
-    "return_3m_category_avg": "6.97%",
+    "return_3m": "5.84%",
+    "return_3m_benchmark": "4.72%",
+    "return_3m_category_avg": "5.82%",
     "return_3m_category_rank": "19/24",
-    "return_6m": "1.78%",
+    "return_6m": "1.79%",
     "return_6m_benchmark": "1.21%",
-    "return_6m_category_avg": "2.62%",
+    "return_6m_category_avg": "2.45%",
     "return_6m_category_rank": "22/23",
-    "return_1y": "5.07%",
+    "return_1y": "5.11%",
     "return_1y_benchmark": "4.03%",
-    "return_1y_category_avg": "4.31%",
+    "return_1y_category_avg": "4.11%",
     "return_1y_category_rank": "23/23",
-    "return_3y": "13.18%",
+    "return_3y": "13.26%",
     "return_3y_benchmark": "11.93%",
-    "return_3y_category_avg": "12.94%",
+    "return_3y_category_avg": "12.96%",
     "return_3y_category_rank": "23/23",
-    "return_5y": "9.64%",
+    "return_5y": "9.65%",
     "return_5y_benchmark": "10.9%",
-    "return_5y_category_avg": "12.02%",
+    "return_5y_category_avg": "11.98%",
     "return_5y_category_rank": "--",
     "performance_highlight": "The fund has outperformed the benchmark (Nifty 500) over 1Y, 3Y, but underperformed over 5Y.",
     "alpha_3y": "0.65",
@@ -143,7 +143,7 @@
             "sector": "Consumer Cyclical",
             "shares": 14042983,
             "allocation_pct": "2.9%",
-            "change_pct": "0%",
+            "change_pct": "7.7%",
             "asset_class": "Equity"
         }
     ],
@@ -187,8 +187,8 @@
     "sector_allocation": [
         {
             "name": "Financial Services",
-            "pct": "33%",
-            "pct_value": 33,
+            "pct": "34.2%",
+            "pct_value": 34.2,
             "asset_class": "Equity"
         },
         {
@@ -198,57 +198,57 @@
             "asset_class": "Equity"
         },
         {
-            "name": "Health",
-            "pct": "10.4%",
-            "pct_value": 10.4,
+            "name": "Tech",
+            "pct": "10.8%",
+            "pct_value": 10.8,
             "asset_class": "Equity"
         },
         {
-            "name": "Tech",
-            "pct": "10.2%",
-            "pct_value": 10.2,
+            "name": "Health",
+            "pct": "9.3%",
+            "pct_value": 9.3,
             "asset_class": "Equity"
         },
         {
             "name": "Consumer Defensive",
-            "pct": "8.5%",
-            "pct_value": 8.5,
+            "pct": "8.1%",
+            "pct_value": 8.1,
             "asset_class": "Equity"
         },
         {
             "name": "Industrial",
-            "pct": "7.4%",
-            "pct_value": 7.4,
+            "pct": "7.3%",
+            "pct_value": 7.3,
             "asset_class": "Equity"
         },
         {
             "name": "Basic Materials",
-            "pct": "4.7%",
-            "pct_value": 4.7,
+            "pct": "5.1%",
+            "pct_value": 5.1,
             "asset_class": "Equity"
         },
         {
             "name": "Energy",
-            "pct": "4.6%",
-            "pct_value": 4.6,
+            "pct": "4%",
+            "pct_value": 4,
             "asset_class": "Equity"
         },
         {
             "name": "Communication",
-            "pct": "3.7%",
-            "pct_value": 3.7,
+            "pct": "3.5%",
+            "pct_value": 3.5,
             "asset_class": "Equity"
         },
         {
             "name": "Utilities",
-            "pct": "2%",
-            "pct_value": 2,
+            "pct": "2.3%",
+            "pct_value": 2.3,
             "asset_class": "Equity"
         },
         {
             "name": "Real Estate",
-            "pct": "1.5%",
-            "pct_value": 1.5,
+            "pct": "1.4%",
+            "pct_value": 1.4,
             "asset_class": "Equity"
         },
         {
@@ -277,7 +277,7 @@
         "Has not generated consistent returns",
         "Does not beat the benchmark consistently"
     ],
-    "about": "About Aditya Birla Sun Life ELSS Tax Saver Fund Aditya Birla Sun Life ELSS Tax Saver Direct Plan Growth is an equity fund. This fund was started on 1 January, 2013. The fund is managed by Dhaval Shah. The fund could potentially beat inflation in the long-run. Key Parameters Aditya Birla Sun Life ELSS Tax Saver Fund has ₹14660 Cr worth of assets under management (AUM) as on Jul 2026 and is more than category average. The fund has an expense ratio 0.8. Returns Aditya Birla Sun Life ELSS Tax Saver Fund has given a CAGR return of 13.91% since inception. Over the last 1, 3 and 5 years the fund has given a CAGR return of 5.07%, 13.18% and 9.64% respectively. Holdings Aditya Birla Sun Life ELSS Tax Saver Fund has allocated its funds majorly in Government, Financial Services, Cash Equivalent, Consumer Cyclical, Tech, Health, Consumer Defensive, Industrial, Basic Materials, Energy, Communication, Utilities, Real Estate. Its top holdings are ICICI Bank Ltd, HDFC Bank Ltd, Infosys Ltd, Reliance Industries Ltd, Axis Bank Ltd Taxation As it is a elss (tax savings) mutual fund the taxation is as follows: For short term (less than a year) capital gains will be taxed at 20% For long term (more than 1 year) capital gains will be taxed at 12.5% without indexation benefit Dividends will always be taxed at slab rate. Long term gains upto Rs 1 lakh are exempt capital gains tax. Investment objective of Aditya Birla Sun Life ELSS Tax Saver Fund An Open-ended equity linked savings scheme (ELSS) with the objective of long term growth of capital through a portfolio with a target allocation of 80% equity,\n20% debt and money market securities. Minimum Investment and lockin period Minimum investment for lump sum payment is INR 500.00 and for SIP is INR 500.00. There is a lock in period for Aditya Birla Sun Life ELSS Tax Saver Fund of 3 Years Know more about Aditya Birla Sun Life ELSS Tax Saver Fund Fund Manager Dhaval Shah Fund Manager of  Aditya Birla Sun Life ELSS Tax Saver Fund, since 31 October 2024 Learn more about Aditya Birla Sun Life Mutual Fund AUM Change All changes are between Apr'26 and Jun'26 Parameters Jun'26 May'26 Apr'26 AUM ₹ 14.5K Cr ₹ 14.2K Cr ₹ 14.4K Cr AUM of the fund stands at 14.5K Cr as of Jun'26 AUM increased by 217.7 Cr between Jun'26 and May'26",
+    "about": "About Aditya Birla Sun Life ELSS Tax Saver Fund Aditya Birla Sun Life ELSS Tax Saver Direct Plan Growth is an equity fund. This fund was started on 1 January, 2013. The fund is managed by Dhaval Shah. The fund could potentially beat inflation in the long-run. Key Parameters Aditya Birla Sun Life ELSS Tax Saver Fund has ₹14660 Cr worth of assets under management (AUM) as on Aug 2026 and is more than category average. The fund has an expense ratio 0.8. Returns Aditya Birla Sun Life ELSS Tax Saver Fund has given a CAGR return of 13.91% since inception. Over the last 1, 3 and 5 years the fund has given a CAGR return of 5.11%, 13.26% and 9.65% respectively. Holdings Aditya Birla Sun Life ELSS Tax Saver Fund has allocated its funds majorly in Government, Financial Services, Cash Equivalent, Consumer Cyclical, Tech, Health, Consumer Defensive, Industrial, Basic Materials, Energy, Communication, Utilities, Real Estate. Its top holdings are ICICI Bank Ltd, HDFC Bank Ltd, Infosys Ltd, Reliance Industries Ltd, Axis Bank Ltd Taxation As it is a elss (tax savings) mutual fund the taxation is as follows: For short term (less than a year) capital gains will be taxed at 20% For long term (more than 1 year) capital gains will be taxed at 12.5% without indexation benefit Dividends will always be taxed at slab rate. Long term gains upto Rs 1 lakh are exempt capital gains tax. Investment objective of Aditya Birla Sun Life ELSS Tax Saver Fund An Open-ended equity linked savings scheme (ELSS) with the objective of long term growth of capital through a portfolio with a target allocation of 80% equity,\n20% debt and money market securities. Minimum Investment and lockin period Minimum investment for lump sum payment is INR 500.00 and for SIP is INR 500.00. There is a lock in period for Aditya Birla Sun Life ELSS Tax Saver Fund of 3 Years Know more about Aditya Birla Sun Life ELSS Tax Saver Fund Fund Manager Dhaval Shah Fund Manager of  Aditya Birla Sun Life ELSS Tax Saver Fund, since 31 October 2024 Learn more about Aditya Birla Sun Life Mutual Fund AUM Change All changes are between May'26 and Jul'26 Parameters Jul'26 Jun'26 May'26 AUM ₹ 14.7K Cr ₹ 14.5K Cr ₹ 14.2K Cr AUM of the fund stands at 14.7K Cr as of Jul'26 AUM increased by 193 Cr between Jul'26 and Jun'26",
     "fund_managers": "Dhaval Shah",
     "fund_managers_detail": [
         {
@@ -287,13 +287,13 @@
     ],
     "amc_page_url": "https://www.indmoney.com/mutual-funds/amc/aditya-birla-mutual-fund",
     "aum_history": {
+        "Jul'26": "₹ 14.7K Cr",
         "Jun'26": "₹ 14.5K Cr",
-        "May'26": "₹ 14.2K Cr",
-        "Apr'26": "₹ 14.4K Cr"
+        "May'26": "₹ 14.2K Cr"
     },
     "aum_change_summary": [
-        "AUM of the fund stands at 14.5K Cr as of Jun'26",
-        "AUM increased by 217.7 Cr between Jun'26 and May'26"
+        "AUM of the fund stands at 14.7K Cr as of Jul'26",
+        "AUM increased by 193 Cr between Jul'26 and Jun'26"
     ],
     "scheme_code": 119544,
     "isin_growth": "INF209K01UN8",

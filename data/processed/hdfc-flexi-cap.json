@@ -4,8 +4,8 @@
     "nav_date": "14 Aug 2026",
     "nav_text": "Latest NAV for HDFC Flexi Cap Fund as of 14 Aug 2026 is ₹2291.32",
     "nav_currency": "INR",
-    "one_day_change_pct": -0.1,
-    "inception_return": 16.21,
+    "one_day_change_pct": -0.2,
+    "inception_return": 16.19,
     "short_name": "HDFC Flexi Cap Fund",
     "amc_name": "HDFC Mutual Fund",
     "fund_category": "Equity",
@@ -28,29 +28,29 @@
     "exit_load": "1.0%",
     "lock_in": "No Lock-in",
     "turnover": "26.57%",
-    "return_1m": "2.41%",
-    "return_1m_benchmark": "1.7%",
-    "return_1m_category_avg": "2.51%",
+    "return_1m": "2.87%",
+    "return_1m_benchmark": "1.42%",
+    "return_1m_category_avg": "2.96%",
     "return_1m_category_rank": "1/24",
-    "return_3m": "8.89%",
-    "return_3m_benchmark": "4.34%",
-    "return_3m_category_avg": "8.57%",
+    "return_3m": "7.54%",
+    "return_3m_benchmark": "4.72%",
+    "return_3m_category_avg": "7.34%",
     "return_3m_category_rank": "1/23",
-    "return_6m": "0.89%",
+    "return_6m": "0.72%",
     "return_6m_benchmark": "1.21%",
-    "return_6m_category_avg": "4.71%",
+    "return_6m_category_avg": "4.51%",
     "return_6m_category_rank": "1/22",
-    "return_1y": "6.55%",
+    "return_1y": "6.29%",
     "return_1y_benchmark": "4.03%",
-    "return_1y_category_avg": "6.81%",
+    "return_1y_category_avg": "6.58%",
     "return_1y_category_rank": "1/21",
     "return_3y": "17.75%",
     "return_3y_benchmark": "11.93%",
-    "return_3y_category_avg": "13.88%",
+    "return_3y_category_avg": "14%",
     "return_3y_category_rank": "3/18",
-    "return_5y": "18.7%",
+    "return_5y": "18.66%",
     "return_5y_benchmark": "10.9%",
-    "return_5y_category_avg": "12.35%",
+    "return_5y_category_avg": "12.32%",
     "return_5y_category_rank": "--",
     "performance_highlight": "The fund has consistently outperformed the benchmark (Nifty 500) over the last 1Y, 3Y, 5Y time periods.",
     "alpha_3y": "5.10",
@@ -75,7 +75,7 @@
             "sector": "Financial Services",
             "shares": 71045082,
             "allocation_pct": "9.21%",
-            "change_pct": "3.5%",
+            "change_pct": "-0%",
             "asset_class": "Equity"
         },
         {
@@ -115,7 +115,7 @@
             "sector": "Consumer Cyclical",
             "shares": 123068952,
             "allocation_pct": "3.36%",
-            "change_pct": "6.7%",
+            "change_pct": "0.3%",
             "asset_class": "Equity"
         },
         {
@@ -123,7 +123,7 @@
             "sector": "Industrials",
             "shares": 8878007,
             "allocation_pct": "3.16%",
-            "change_pct": "6%",
+            "change_pct": "0%",
             "asset_class": "Equity"
         },
         {
@@ -139,7 +139,7 @@
             "sector": "Industrials",
             "shares": 6463717,
             "allocation_pct": "3.02%",
-            "change_pct": "13.2%",
+            "change_pct": "0%",
             "asset_class": "Equity"
         },
         {
@@ -197,48 +197,42 @@
     "sector_allocation": [
         {
             "name": "Financial Services",
-            "pct": "44.9%",
-            "pct_value": 44.9,
+            "pct": "45.8%",
+            "pct_value": 45.8,
             "asset_class": "Equity"
         },
         {
             "name": "Consumer Cyclical",
-            "pct": "17.5%",
-            "pct_value": 17.5,
+            "pct": "16.8%",
+            "pct_value": 16.8,
             "asset_class": "Equity"
         },
         {
             "name": "Health",
-            "pct": "8.6%",
-            "pct_value": 8.6,
+            "pct": "8%",
+            "pct_value": 8,
             "asset_class": "Equity"
         },
         {
             "name": "Tech",
-            "pct": "6.5%",
-            "pct_value": 6.5,
+            "pct": "6.7%",
+            "pct_value": 6.7,
             "asset_class": "Equity"
         },
         {
             "name": "Basic Materials",
-            "pct": "6.1%",
-            "pct_value": 6.1,
+            "pct": "6.4%",
+            "pct_value": 6.4,
             "asset_class": "Equity"
         },
         {
             "name": "Industrial",
-            "pct": "5.5%",
-            "pct_value": 5.5,
+            "pct": "5.3%",
+            "pct_value": 5.3,
             "asset_class": "Equity"
         },
         {
             "name": "Utilities",
-            "pct": "2.9%",
-            "pct_value": 2.9,
-            "asset_class": "Equity"
-        },
-        {
-            "name": "Communication",
             "pct": "2.8%",
             "pct_value": 2.8,
             "asset_class": "Equity"
@@ -250,27 +244,33 @@
             "asset_class": "Equity"
         },
         {
+            "name": "Communication",
+            "pct": "2.6%",
+            "pct_value": 2.6,
+            "asset_class": "Equity"
+        },
+        {
             "name": "Energy",
-            "pct": "1.6%",
-            "pct_value": 1.6,
+            "pct": "1.8%",
+            "pct_value": 1.8,
             "asset_class": "Equity"
         },
         {
             "name": "Consumer Defensive",
-            "pct": "1%",
+            "pct": "0.9%",
             "pct_value": 1,
             "asset_class": "Equity"
         },
         {
             "name": "Cash Equivalent",
-            "pct": "96%",
-            "pct_value": 96,
+            "pct": "96.6%",
+            "pct_value": 96.6,
             "asset_class": "Debt & Cash"
         },
         {
             "name": "Government",
-            "pct": "4%",
-            "pct_value": 4,
+            "pct": "3.4%",
+            "pct_value": 3.4,
             "asset_class": "Debt & Cash"
         }
     ],
@@ -293,7 +293,7 @@
     "ranking_cons": [
         "No bad points found for this fund."
     ],
-    "about": "About HDFC Flexi Cap Fund HDFC Flexi Cap is a  flexi-cap mutual fund  launched on 1st January 1995. These funds follow a diversified equity investment strategy where they invest in companies across all market captialization and adjust allocations based on market conditions. The fund uses  Nifty 500  TRI as its benchmark. Nifty 500 represents the broader market and helps the fund compare its returns with those of other companies \n   \n HDFC Mutual Fund  follows a  bottom-up approach , which involves paying attention to individual businesses instead of macroeconomic factors. They also pay close attention to  Quantitative  (Growth, Cash Flows, Risks) and  Qualitative  (Management, Track Record, Insights) aspects of the companies.  \n   \n Staying true to the nature of the fund, they diversify across market caps and asset classes. Diversification is achieved through a balanced mix of asset types, loan sizes, contract volumes, and geographies, while risk in less diversified pools is mitigated using credit enhancements. HDFC Flexi Cap maintains a strong focus on industries like Financials, Automobiles, Healthcare, Technology, etc.  Know more about HDFC Flexi Cap Fund Fund Manager Amit Ganatra Fund Manager of  HDFC Flexi Cap Fund, since 1 February 2026 Dhruv Muchhal Fund Manager of  HDFC Flexi Cap Fund, since 22 June 2023 Learn more about HDFC Mutual Fund AUM Change All changes are between Apr'26 and Jun'26 Parameters Jun'26 May'26 Apr'26 AUM ₹ 1.1L Cr ₹ 1L Cr ₹ 1L Cr AUM of the fund stands at 1.1L Cr as of Jun'26 AUM increased by 4.7K Cr between Jun'26 and May'26",
+    "about": "About HDFC Flexi Cap Fund HDFC Flexi Cap is a  flexi-cap mutual fund  launched on 1st January 1995. These funds follow a diversified equity investment strategy where they invest in companies across all market captialization and adjust allocations based on market conditions. The fund uses  Nifty 500  TRI as its benchmark. Nifty 500 represents the broader market and helps the fund compare its returns with those of other companies \n   \n HDFC Mutual Fund  follows a  bottom-up approach , which involves paying attention to individual businesses instead of macroeconomic factors. They also pay close attention to  Quantitative  (Growth, Cash Flows, Risks) and  Qualitative  (Management, Track Record, Insights) aspects of the companies.  \n   \n Staying true to the nature of the fund, they diversify across market caps and asset classes. Diversification is achieved through a balanced mix of asset types, loan sizes, contract volumes, and geographies, while risk in less diversified pools is mitigated using credit enhancements. HDFC Flexi Cap maintains a strong focus on industries like Financials, Automobiles, Healthcare, Technology, etc.  Know more about HDFC Flexi Cap Fund Fund Manager Amit Ganatra Fund Manager of  HDFC Flexi Cap Fund, since 1 February 2026 Dhruv Muchhal Fund Manager of  HDFC Flexi Cap Fund, since 22 June 2023 Learn more about HDFC Mutual Fund AUM Change All changes are between May'26 and Jul'26 Parameters Jul'26 Jun'26 May'26 AUM ₹ 1.1L Cr ₹ 1.1L Cr ₹ 1L Cr AUM of the fund stands at 1.1L Cr as of Jul'26 AUM increased by 4.2K Cr between Jul'26 and Jun'26",
     "fund_managers": "Amit Ganatra, Dhruv Muchhal",
     "fund_managers_detail": [
         {
@@ -307,13 +307,13 @@
     ],
     "amc_page_url": "https://www.indmoney.com/mutual-funds/amc/hdfc-mutual-fund",
     "aum_history": {
+        "Jul'26": "₹ 1.1L Cr",
         "Jun'26": "₹ 1.1L Cr",
-        "May'26": "₹ 1L Cr",
-        "Apr'26": "₹ 1L Cr"
+        "May'26": "₹ 1L Cr"
     },
     "aum_change_summary": [
-        "AUM of the fund stands at 1.1L Cr as of Jun'26",
-        "AUM increased by 4.7K Cr between Jun'26 and May'26"
+        "AUM of the fund stands at 1.1L Cr as of Jul'26",
+        "AUM increased by 4.2K Cr between Jul'26 and Jun'26"
     ],
     "scheme_code": 118955,
     "isin_growth": "INF179K01UT0",
