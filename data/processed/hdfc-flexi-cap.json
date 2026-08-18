@@ -29,7 +29,7 @@
     "lock_in": "No Lock-in",
     "turnover": "26.57%",
     "return_1m": "2.87%",
-    "return_1m_benchmark": "1.42%",
+    "return_1m_benchmark": "1.56%",
     "return_1m_category_avg": "2.96%",
     "return_1m_category_rank": "1/24",
     "return_3m": "7.54%",
@@ -37,7 +37,7 @@
     "return_3m_category_avg": "7.34%",
     "return_3m_category_rank": "1/23",
     "return_6m": "0.72%",
-    "return_6m_benchmark": "1.21%",
+    "return_6m_benchmark": "0.52%",
     "return_6m_category_avg": "4.51%",
     "return_6m_category_rank": "1/22",
     "return_1y": "6.29%",
@@ -45,11 +45,11 @@
     "return_1y_category_avg": "6.58%",
     "return_1y_category_rank": "1/21",
     "return_3y": "17.75%",
-    "return_3y_benchmark": "11.93%",
+    "return_3y_benchmark": "11.87%",
     "return_3y_category_avg": "14%",
     "return_3y_category_rank": "3/18",
     "return_5y": "18.66%",
-    "return_5y_benchmark": "10.9%",
+    "return_5y_benchmark": "10.89%",
     "return_5y_category_avg": "12.32%",
     "return_5y_category_rank": "--",
     "performance_highlight": "The fund has consistently outperformed the benchmark (Nifty 500) over the last 1Y, 3Y, 5Y time periods.",
@@ -344,6 +344,10 @@
     "number_of_folios": null,
     "country_allocation": null,
     "historical_nav": [
+        {
+            "date": "17-08-2026",
+            "nav": "2287.89500"
+        },
         {
             "date": "14-08-2026",
             "nav": "2291.31700"
@@ -1315,19 +1319,15 @@
         {
             "date": "19-08-2025",
             "nav": "2197.58200"
-        },
-        {
-            "date": "18-08-2025",
-            "nav": "2187.60700"
         }
     ],
     "mfapi_fund_house": "HDFC Mutual Fund",
     "mfapi_scheme_type": "Open Ended Schemes",
     "mfapi_scheme_category": "Equity Scheme - Flexi Cap Fund",
     "mfapi_scheme_name": "HDFC Flexi Cap Fund - Growth Option - Direct Plan",
-    "previous_day_nav": "2295.27500",
-    "nav_change_absolute": "₹-3.96",
-    "nav_change_pct": "-0.17%",
+    "previous_day_nav": "2291.31700",
+    "nav_change_absolute": "₹-3.42",
+    "nav_change_pct": "-0.15%",
     "taxation": {
         "fund_tax_category": "Equity",
         "stcg_tax_rate": "20%",
