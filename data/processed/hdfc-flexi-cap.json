@@ -4,8 +4,8 @@
     "nav_date": "18 Aug 2026",
     "nav_text": "Latest NAV for HDFC Flexi Cap Fund as of 18 Aug 2026 is ₹2281.78",
     "nav_currency": "INR",
-    "one_day_change_pct": -0.1,
-    "inception_return": 16.17,
+    "one_day_change_pct": -0.3,
+    "inception_return": 16.14,
     "short_name": "HDFC Flexi Cap Fund",
     "amc_name": "HDFC Mutual Fund",
     "fund_category": "Equity",
@@ -28,29 +28,29 @@
     "exit_load": "1.0%",
     "lock_in": "No Lock-in",
     "turnover": "26.57%",
-    "return_1m": "1.74%",
-    "return_1m_benchmark": "0.58%",
-    "return_1m_category_avg": "2.39%",
+    "return_1m": "1.47%",
+    "return_1m_benchmark": "0.21%",
+    "return_1m_category_avg": "2.19%",
     "return_1m_category_rank": "1/24",
-    "return_3m": "7.5%",
-    "return_3m_benchmark": "4.5%",
-    "return_3m_category_avg": "7.56%",
+    "return_3m": "7.43%",
+    "return_3m_benchmark": "3.84%",
+    "return_3m_category_avg": "7.84%",
     "return_3m_category_rank": "1/23",
-    "return_6m": "-0.29%",
-    "return_6m_benchmark": "-0.73%",
-    "return_6m_category_avg": "3.57%",
+    "return_6m": "-0.84%",
+    "return_6m_benchmark": "0.38%",
+    "return_6m_category_avg": "3%",
     "return_6m_category_rank": "1/22",
-    "return_1y": "6.13%",
-    "return_1y_benchmark": "2.36%",
-    "return_1y_category_avg": "6.51%",
+    "return_1y": "4.3%",
+    "return_1y_benchmark": "1.39%",
+    "return_1y_category_avg": "5.14%",
     "return_1y_category_rank": "1/21",
-    "return_3y": "17.61%",
-    "return_3y_benchmark": "11.89%",
-    "return_3y_category_avg": "13.97%",
+    "return_3y": "17.66%",
+    "return_3y_benchmark": "11.75%",
+    "return_3y_category_avg": "13.98%",
     "return_3y_category_rank": "3/18",
-    "return_5y": "18.81%",
-    "return_5y_benchmark": "10.74%",
-    "return_5y_category_avg": "12.27%",
+    "return_5y": "18.83%",
+    "return_5y_benchmark": "10.66%",
+    "return_5y_category_avg": "12.24%",
     "return_5y_category_rank": "--",
     "performance_highlight": "The fund has consistently outperformed the benchmark (Nifty 500) over the last 1Y, 3Y, 5Y time periods.",
     "alpha_3y": "5.10",
@@ -293,16 +293,16 @@
     "ranking_cons": [
         "No bad points found for this fund."
     ],
-    "about": "About HDFC Flexi Cap Fund HDFC Flexi Cap is a  flexi-cap mutual fund  launched on 1st January 1995. These funds follow a diversified equity investment strategy where they invest in companies across all market captialization and adjust allocations based on market conditions. The fund uses  Nifty 500  TRI as its benchmark. Nifty 500 represents the broader market and helps the fund compare its returns with those of other companies \n   \n HDFC Mutual Fund  follows a  bottom-up approach , which involves paying attention to individual businesses instead of macroeconomic factors. They also pay close attention to  Quantitative  (Growth, Cash Flows, Risks) and  Qualitative  (Management, Track Record, Insights) aspects of the companies.  \n   \n Staying true to the nature of the fund, they diversify across market caps and asset classes. Diversification is achieved through a balanced mix of asset types, loan sizes, contract volumes, and geographies, while risk in less diversified pools is mitigated using credit enhancements. HDFC Flexi Cap maintains a strong focus on industries like Financials, Automobiles, Healthcare, Technology, etc.  Know more about HDFC Flexi Cap Fund Fund Manager Amit Ganatra Fund Manager of  HDFC Flexi Cap Fund, since 1 February 2026 Dhruv Muchhal Fund Manager of  HDFC Flexi Cap Fund, since 22 June 2023 Learn more about HDFC Mutual Fund AUM Change All changes are between May'26 and Jul'26 Parameters Jul'26 Jun'26 May'26 AUM ₹ 1.1L Cr ₹ 1.1L Cr ₹ 1L Cr AUM of the fund stands at 1.1L Cr as of Jul'26 AUM increased by 4.2K Cr between Jul'26 and Jun'26",
-    "fund_managers": "Amit Ganatra, Dhruv Muchhal",
+    "about": "About HDFC Flexi Cap Fund HDFC Flexi Cap is a  flexi-cap mutual fund  launched on 1st January 1995. These funds follow a diversified equity investment strategy where they invest in companies across all market captialization and adjust allocations based on market conditions. The fund uses  Nifty 500  TRI as its benchmark. Nifty 500 represents the broader market and helps the fund compare its returns with those of other companies \n   \n HDFC Mutual Fund  follows a  bottom-up approach , which involves paying attention to individual businesses instead of macroeconomic factors. They also pay close attention to  Quantitative  (Growth, Cash Flows, Risks) and  Qualitative  (Management, Track Record, Insights) aspects of the companies.  \n   \n Staying true to the nature of the fund, they diversify across market caps and asset classes. Diversification is achieved through a balanced mix of asset types, loan sizes, contract volumes, and geographies, while risk in less diversified pools is mitigated using credit enhancements. HDFC Flexi Cap maintains a strong focus on industries like Financials, Automobiles, Healthcare, Technology, etc.  Know more about HDFC Flexi Cap Fund Fund Manager Dhruv Muchhal Fund Manager of  HDFC Flexi Cap Fund, since 22 June 2023 Amit Ganatra Fund Manager of  HDFC Flexi Cap Fund, since 1 February 2026 Learn more about HDFC Mutual Fund AUM Change All changes are between May'26 and Jul'26 Parameters Jul'26 Jun'26 May'26 AUM ₹ 1.1L Cr ₹ 1.1L Cr ₹ 1L Cr AUM of the fund stands at 1.1L Cr as of Jul'26 AUM increased by 4.2K Cr between Jul'26 and Jun'26",
+    "fund_managers": "Dhruv Muchhal, Amit Ganatra",
     "fund_managers_detail": [
-        {
-            "name": "Amit Ganatra",
-            "subtitle": "Fund Manager of  HDFC Flexi Cap Fund, since 1 February 2026"
-        },
         {
             "name": "Dhruv Muchhal",
             "subtitle": "Fund Manager of  HDFC Flexi Cap Fund, since 22 June 2023"
+        },
+        {
+            "name": "Amit Ganatra",
+            "subtitle": "Fund Manager of  HDFC Flexi Cap Fund, since 1 February 2026"
         }
     ],
     "amc_page_url": "https://www.indmoney.com/mutual-funds/amc/hdfc-mutual-fund",
@@ -1315,10 +1315,6 @@
         {
             "date": "21-08-2025",
             "nav": "2200.82700"
-        },
-        {
-            "date": "20-08-2025",
-            "nav": "2198.46500"
         }
     ],
     "mfapi_fund_house": "HDFC Mutual Fund",
