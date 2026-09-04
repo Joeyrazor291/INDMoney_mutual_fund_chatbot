@@ -313,6 +313,10 @@
     "country_allocation": null,
     "historical_nav": [
         {
+            "date": "03-09-2026",
+            "nav": "10.58000"
+        },
+        {
             "date": "02-09-2026",
             "nav": "10.60000"
         },
@@ -1287,19 +1291,15 @@
         {
             "date": "05-09-2025",
             "nav": "9.55000"
-        },
-        {
-            "date": "04-09-2025",
-            "nav": "9.55000"
         }
     ],
     "mfapi_fund_house": "Aditya Birla Sun Life Mutual Fund",
     "mfapi_scheme_type": "Open Ended Schemes",
     "mfapi_scheme_category": "Equity Scheme - Sectoral/ Thematic",
     "mfapi_scheme_name": "Aditya Birla Sun Life Quant Fund - Direct Plan - GROWTH",
-    "previous_day_nav": "10.65000",
-    "nav_change_absolute": "₹-0.05",
-    "nav_change_pct": "-0.47%",
+    "previous_day_nav": "10.60000",
+    "nav_change_absolute": "₹-0.02",
+    "nav_change_pct": "-0.19%",
     "taxation": {
         "fund_tax_category": "Equity",
         "stcg_tax_rate": "20%",
